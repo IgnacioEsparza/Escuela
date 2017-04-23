@@ -1,0 +1,4739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Colegio>
+    <cursosa>
+        <nivel>1</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Gabriel Curvanez</nombre>
+            <rut>931</rut>
+            <apoderado>
+                <nombre>Carlos Curvanez</nombre>
+                <rut>702</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Lee</nombre>
+            <rut>629</rut>
+            <apoderado>
+                <nombre>Cristiano Angulo</nombre>
+                <rut>704</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Danielez</nombre>
+            <rut>339</rut>
+            <apoderado>
+                <nombre>Mariana Maxx</nombre>
+                <rut>669</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Schwansteigger</nombre>
+            <rut>306</rut>
+            <apoderado>
+                <nombre>Lucas Danielez</nombre>
+                <rut>557</rut>
+            </apoderado>
+            <asistencia>83</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Fischio</nombre>
+            <rut>619</rut>
+            <apoderado>
+                <nombre>Lucila Silva</nombre>
+                <rut>412</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Madrid</nombre>
+            <rut>382</rut>
+            <apoderado>
+                <nombre>Ignacio Esparza</nombre>
+                <rut>380</rut>
+            </apoderado>
+            <asistencia>50</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Schwansteigger</nombre>
+            <rut>668</rut>
+            <apoderado>
+                <nombre>Alex Balentines</nombre>
+                <rut>875</rut>
+            </apoderado>
+            <asistencia>46</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Maxx</nombre>
+            <rut>624</rut>
+            <apoderado>
+                <nombre>Alex Catalán</nombre>
+                <rut>428</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Fischio</nombre>
+            <rut>494</rut>
+            <apoderado>
+                <nombre>Alex Balentines</nombre>
+                <rut>875</rut>
+            </apoderado>
+            <asistencia>51</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Lumbico</nombre>
+            <rut>859</rut>
+            <apoderado>
+                <nombre>Jannette Jacdaniels</nombre>
+                <rut>439</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Heinz</nombre>
+            <rut>459</rut>
+            <apoderado>
+                <nombre>Jannette Salvatore</nombre>
+                <rut>286</rut>
+            </apoderado>
+            <asistencia>78</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Heinz</nombre>
+            <rut>901</rut>
+            <apoderado>
+                <nombre>Mariana Maxx</nombre>
+                <rut>669</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Madrid</nombre>
+            <rut>806</rut>
+            <apoderado>
+                <nombre>Mariana Maxx</nombre>
+                <rut>669</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Madrid</nombre>
+            <rut>757</rut>
+            <apoderado>
+                <nombre>Alex Madrid</nombre>
+                <rut>281</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Danielez</nombre>
+            <rut>779</rut>
+            <apoderado>
+                <nombre>Felipe Danielez</nombre>
+                <rut>802</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Lee</nombre>
+            <rut>515</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>346</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Esparza</nombre>
+            <rut>717</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>346</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl McDonals</nombre>
+            <rut>571</rut>
+            <apoderado>
+                <nombre>Alex Balentines</nombre>
+                <rut>875</rut>
+            </apoderado>
+            <asistencia>56</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Danielez</nombre>
+            <rut>693</rut>
+            <apoderado>
+                <nombre>Ignacio Esparza</nombre>
+                <rut>380</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Balentines</nombre>
+            <rut>324</rut>
+            <apoderado>
+                <nombre>Ignacio Esparza</nombre>
+                <rut>380</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Esparza</nombre>
+            <rut>120</rut>
+            <apoderado>
+                <nombre>Denisse Madrid</nombre>
+                <rut>655</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Curvanez</nombre>
+            <rut>975</rut>
+            <apoderado>
+                <nombre>Alex Catalán</nombre>
+                <rut>428</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Madrid</nombre>
+            <rut>928</rut>
+            <apoderado>
+                <nombre>Jannette Salvatore</nombre>
+                <rut>286</rut>
+            </apoderado>
+            <asistencia>96</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Danielez</nombre>
+            <rut>996</rut>
+            <apoderado>
+                <nombre>Lucila Silva</nombre>
+                <rut>412</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Palma</nombre>
+            <rut>895</rut>
+            <apoderado>
+                <nombre>Mariana Maxx</nombre>
+                <rut>959</rut>
+            </apoderado>
+            <asistencia>34</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Maxx</nombre>
+            <rut>410</rut>
+            <apoderado>
+                <nombre>Denisse Madrid</nombre>
+                <rut>655</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Beron</nombre>
+            <rut>889</rut>
+            <apoderado>
+                <nombre>Carlos Curvanez</nombre>
+                <rut>702</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Esparza</nombre>
+            <rut>735</rut>
+            <apoderado>
+                <nombre>Denisse Madrid</nombre>
+                <rut>655</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Beron</nombre>
+            <rut>254</rut>
+            <apoderado>
+                <nombre>Alex Catalán</nombre>
+                <rut>428</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Fischio</nombre>
+            <rut>895</rut>
+            <apoderado>
+                <nombre>Alex Madrid</nombre>
+                <rut>281</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Federico Balmaceda</nombre>
+            <rut>700</rut>
+            <asignaturaP>
+                <materia>Matemáticas</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>2</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Lucy Schwansteigger</nombre>
+            <rut>255</rut>
+            <apoderado>
+                <nombre>Romero Danielez</nombre>
+                <rut>291</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes McDonals</nombre>
+            <rut>384</rut>
+            <apoderado>
+                <nombre>Jannette Silva</nombre>
+                <rut>814</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Beron</nombre>
+            <rut>944</rut>
+            <apoderado>
+                <nombre>Alex Catalán</nombre>
+                <rut>600</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Silva</nombre>
+            <rut>231</rut>
+            <apoderado>
+                <nombre>Alexis Salvatore</nombre>
+                <rut>696</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Burgos</nombre>
+            <rut>699</rut>
+            <apoderado>
+                <nombre>Marcos Jacdaniels</nombre>
+                <rut>469</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Balentines</nombre>
+            <rut>211</rut>
+            <apoderado>
+                <nombre>Denisse Balentines</nombre>
+                <rut>621</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Beron</nombre>
+            <rut>332</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Zambrotta</nombre>
+            <rut>146</rut>
+            <apoderado>
+                <nombre>Romero Danielez</nombre>
+                <rut>291</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Esparza</nombre>
+            <rut>598</rut>
+            <apoderado>
+                <nombre>Jannette Esparza</nombre>
+                <rut>106</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Palma</nombre>
+            <rut>520</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>83</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Palma</nombre>
+            <rut>948</rut>
+            <apoderado>
+                <nombre>Jannette Madrid</nombre>
+                <rut>848</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Zambrotta</nombre>
+            <rut>333</rut>
+            <apoderado>
+                <nombre>Denisse Balentines</nombre>
+                <rut>621</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Angulo</nombre>
+            <rut>401</rut>
+            <apoderado>
+                <nombre>Jannette Madrid</nombre>
+                <rut>848</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Beron</nombre>
+            <rut>867</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Zambrotta</nombre>
+            <rut>739</rut>
+            <apoderado>
+                <nombre>Alexis Morenazo</nombre>
+                <rut>926</rut>
+            </apoderado>
+            <asistencia>38</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Palma</nombre>
+            <rut>406</rut>
+            <apoderado>
+                <nombre>Mariana Fischio</nombre>
+                <rut>244</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Danielez</nombre>
+            <rut>147</rut>
+            <apoderado>
+                <nombre>Denisse Balentines</nombre>
+                <rut>621</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Balentines</nombre>
+            <rut>346</rut>
+            <apoderado>
+                <nombre>Alexis Salvatore</nombre>
+                <rut>696</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Salvatore</nombre>
+            <rut>821</rut>
+            <apoderado>
+                <nombre>Denisse Madrid</nombre>
+                <rut>483</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Balentines</nombre>
+            <rut>389</rut>
+            <apoderado>
+                <nombre>Alex Burgos</nombre>
+                <rut>964</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Esparza</nombre>
+            <rut>893</rut>
+            <apoderado>
+                <nombre>Raul McDonals</nombre>
+                <rut>430</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Palma</nombre>
+            <rut>507</rut>
+            <apoderado>
+                <nombre>Pedro Fischio</nombre>
+                <rut>244</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Lee</nombre>
+            <rut>881</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Curvanez</nombre>
+            <rut>909</rut>
+            <apoderado>
+                <nombre>Denisse Jacdaniels</nombre>
+                <rut>713</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Angulo</nombre>
+            <rut>885</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Palma</nombre>
+            <rut>529</rut>
+            <apoderado>
+                <nombre>Pedro Fischio</nombre>
+                <rut>244</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Catalán</nombre>
+            <rut>878</rut>
+            <apoderado>
+                <nombre>Patricio Balentines</nombre>
+                <rut>842</rut>
+            </apoderado>
+            <asistencia>46</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Curvanez</nombre>
+            <rut>110</rut>
+            <apoderado>
+                <nombre>Alex Burgos</nombre>
+                <rut>964</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Papasthadopoulos</nombre>
+            <rut>203</rut>
+            <apoderado>
+                <nombre>Pedro Fischio</nombre>
+                <rut>244</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Curvanez</nombre>
+            <rut>585</rut>
+            <apoderado>
+                <nombre>Denisse Madrid</nombre>
+                <rut>483</rut>
+            </apoderado>
+            <asistencia>51</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>María Daniels</nombre>
+            <rut>701</rut>
+            <asignaturaP>
+                <materia>Matemáticas</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>3</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Mario Jacdaniels</nombre>
+            <rut>587</rut>
+            <apoderado>
+                <nombre>Lucila Schwansteigger</nombre>
+                <rut>795</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Beron</nombre>
+            <rut>724</rut>
+            <apoderado>
+                <nombre>Marcos Danielez</nombre>
+                <rut>331</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Maxx</nombre>
+            <rut>380</rut>
+            <apoderado>
+                <nombre>Lionel Heinz</nombre>
+                <rut>393</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Schwansteigger</nombre>
+            <rut>846</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>493</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Salvatore</nombre>
+            <rut>783</rut>
+            <apoderado>
+                <nombre>Marcos Lee</nombre>
+                <rut>686</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Schwansteigger</nombre>
+            <rut>536</rut>
+            <apoderado>
+                <nombre>Lucila Salvatore</nombre>
+                <rut>921</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Beron</nombre>
+            <rut>238</rut>
+            <apoderado>
+                <nombre>Jannette Esparza</nombre>
+                <rut>443</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Fischio</nombre>
+            <rut>663</rut>
+            <apoderado>
+                <nombre>Carlos Palma</nombre>
+                <rut>929</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Burgos</nombre>
+            <rut>412</rut>
+            <apoderado>
+                <nombre>Mariana Lee</nombre>
+                <rut>834</rut>
+            </apoderado>
+            <asistencia>50</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Papasthadopoulos</nombre>
+            <rut>624</rut>
+            <apoderado>
+                <nombre>Marcos Danielez</nombre>
+                <rut>331</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Angulo</nombre>
+            <rut>800</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>493</rut>
+            </apoderado>
+            <asistencia>34</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Madrid</nombre>
+            <rut>850</rut>
+            <apoderado>
+                <nombre>Lucas Zambrotta</nombre>
+                <rut>815</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Papasthadopoulos</nombre>
+            <rut>213</rut>
+            <apoderado>
+                <nombre>Carlos Lee</nombre>
+                <rut>833</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Balentines</nombre>
+            <rut>182</rut>
+            <apoderado>
+                <nombre>Marcos Danielez</nombre>
+                <rut>331</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica McDonals</nombre>
+            <rut>221</rut>
+            <apoderado>
+                <nombre>Marcos Danielez</nombre>
+                <rut>331</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Catalán</nombre>
+            <rut>687</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>493</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Angulo</nombre>
+            <rut>911</rut>
+            <apoderado>
+                <nombre>Mariana Lee</nombre>
+                <rut>181</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Palma</nombre>
+            <rut>812</rut>
+            <apoderado>
+                <nombre>Mariana Lee</nombre>
+                <rut>181</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Esparza</nombre>
+            <rut>616</rut>
+            <apoderado>
+                <nombre>Lucas Zambrotta</nombre>
+                <rut>815</rut>
+            </apoderado>
+            <asistencia>87</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Danielez</nombre>
+            <rut>336</rut>
+            <apoderado>
+                <nombre>Carlos Lee</nombre>
+                <rut>833</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Salvatore</nombre>
+            <rut>760</rut>
+            <apoderado>
+                <nombre>Carlos Lee</nombre>
+                <rut>833</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Esparza</nombre>
+            <rut>799</rut>
+            <apoderado>
+                <nombre>Lucas Zambrotta</nombre>
+                <rut>815</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Balentines</nombre>
+            <rut>208</rut>
+            <apoderado>
+                <nombre>Lionel Heinz</nombre>
+                <rut>393</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica McDonals</nombre>
+            <rut>975</rut>
+            <apoderado>
+                <nombre>Roberto Curvanez</nombre>
+                <rut>576</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Esparza</nombre>
+            <rut>869</rut>
+            <apoderado>
+                <nombre>Lionel Zambrotta</nombre>
+                <rut>792</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Morenazo</nombre>
+            <rut>301</rut>
+            <apoderado>
+                <nombre>Marcos Lee</nombre>
+                <rut>686</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Schwansteigger</nombre>
+            <rut>836</rut>
+            <apoderado>
+                <nombre>Mariana Silva</nombre>
+                <rut>831</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Danielez</nombre>
+            <rut>775</rut>
+            <apoderado>
+                <nombre>Juan Salvatore</nombre>
+                <rut>651</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Papasthadopoulos</nombre>
+            <rut>427</rut>
+            <apoderado>
+                <nombre>Carlos Lee</nombre>
+                <rut>833</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Schwansteigger</nombre>
+            <rut>827</rut>
+            <apoderado>
+                <nombre>Raul Palma</nombre>
+                <rut>439</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Alberto Hebrews</nombre>
+            <rut>703</rut>
+            <asignaturaP>
+                <materia>Matemáticas</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>4</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Mario Morenazo</nombre>
+            <rut>576</rut>
+            <apoderado>
+                <nombre>Roberto Balentines</nombre>
+                <rut>284</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Madrid</nombre>
+            <rut>609</rut>
+            <apoderado>
+                <nombre>Lucas Morenazo</nombre>
+                <rut>809</rut>
+            </apoderado>
+            <asistencia>58</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Esparza</nombre>
+            <rut>322</rut>
+            <apoderado>
+                <nombre>Daniel Balentines</nombre>
+                <rut>264</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Curvanez</nombre>
+            <rut>850</rut>
+            <apoderado>
+                <nombre>Romero Morenazo</nombre>
+                <rut>721</rut>
+            </apoderado>
+            <asistencia>87</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Curvanez</nombre>
+            <rut>547</rut>
+            <apoderado>
+                <nombre>Mariana Salvatore</nombre>
+                <rut>330</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Papasthadopoulos</nombre>
+            <rut>394</rut>
+            <apoderado>
+                <nombre>Vanessa Lumbico</nombre>
+                <rut>221</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Madrid</nombre>
+            <rut>918</rut>
+            <apoderado>
+                <nombre>Daniel Balentines</nombre>
+                <rut>264</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Balentines</nombre>
+            <rut>449</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>540</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Jacdaniels</nombre>
+            <rut>145</rut>
+            <apoderado>
+                <nombre>Roberto Balentines</nombre>
+                <rut>284</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Burgos</nombre>
+            <rut>727</rut>
+            <apoderado>
+                <nombre>Ignacio Maxx</nombre>
+                <rut>343</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Beron</nombre>
+            <rut>833</rut>
+            <apoderado>
+                <nombre>Vanessa Lumbico</nombre>
+                <rut>221</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Morenazo</nombre>
+            <rut>178</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>540</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Burgos</nombre>
+            <rut>861</rut>
+            <apoderado>
+                <nombre>Alex Morenazo</nombre>
+                <rut>736</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Balentines</nombre>
+            <rut>652</rut>
+            <apoderado>
+                <nombre>Daniel Balentines</nombre>
+                <rut>264</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Papasthadopoulos</nombre>
+            <rut>702</rut>
+            <apoderado>
+                <nombre>Lucas Curvanez</nombre>
+                <rut>498</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Jacdaniels</nombre>
+            <rut>777</rut>
+            <apoderado>
+                <nombre>Roberto Balentines</nombre>
+                <rut>284</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Silva</nombre>
+            <rut>209</rut>
+            <apoderado>
+                <nombre>Pablo Fischio</nombre>
+                <rut>145</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Burgos</nombre>
+            <rut>608</rut>
+            <apoderado>
+                <nombre>Ignacio Maxx</nombre>
+                <rut>343</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Jacdaniels</nombre>
+            <rut>232</rut>
+            <apoderado>
+                <nombre>Lucas Morenazo</nombre>
+                <rut>809</rut>
+            </apoderado>
+            <asistencia>87</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Angulo</nombre>
+            <rut>260</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>540</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Angulo</nombre>
+            <rut>752</rut>
+            <apoderado>
+                <nombre>Mariana Curvanez</nombre>
+                <rut>784</rut>
+            </apoderado>
+            <asistencia>95</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Danielez</nombre>
+            <rut>748</rut>
+            <apoderado>
+                <nombre>Lionel Morenazo</nombre>
+                <rut>447</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Jacdaniels</nombre>
+            <rut>605</rut>
+            <apoderado>
+                <nombre>Romero Morenazo</nombre>
+                <rut>721</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Heinz</nombre>
+            <rut>123</rut>
+            <apoderado>
+                <nombre>Romero Morenazo</nombre>
+                <rut>721</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Fischio</nombre>
+            <rut>167</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>540</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Salvatore</nombre>
+            <rut>429</rut>
+            <apoderado>
+                <nombre>Jannette Catalán</nombre>
+                <rut>933</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Heinz</nombre>
+            <rut>704</rut>
+            <apoderado>
+                <nombre>Romero Salvatore</nombre>
+                <rut>372</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Lumbico</nombre>
+            <rut>416</rut>
+            <apoderado>
+                <nombre>Lucas Morenazo</nombre>
+                <rut>809</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano McDonals</nombre>
+            <rut>115</rut>
+            <apoderado>
+                <nombre>Raul Jacdaniels</nombre>
+                <rut>382</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Curvanez</nombre>
+            <rut>124</rut>
+            <apoderado>
+                <nombre>Alexis Lumbico</nombre>
+                <rut>903</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Juan Sennheiser</nombre>
+            <rut>706</rut>
+            <asignaturaP>
+                <materia>Matemáticas</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>5</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Jessica Burgos</nombre>
+            <rut>238</rut>
+            <apoderado>
+                <nombre>Cristiano Esparza</nombre>
+                <rut>994</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Curvanez</nombre>
+            <rut>288</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>720</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Lumbico</nombre>
+            <rut>770</rut>
+            <apoderado>
+                <nombre>Ignacio Curvanez</nombre>
+                <rut>113</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Burgos</nombre>
+            <rut>285</rut>
+            <apoderado>
+                <nombre>Ignacio Catalán</nombre>
+                <rut>435</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Salvatore</nombre>
+            <rut>501</rut>
+            <apoderado>
+                <nombre>Juan Catalán</nombre>
+                <rut>709</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Maxx</nombre>
+            <rut>413</rut>
+            <apoderado>
+                <nombre>Juan Catalán</nombre>
+                <rut>709</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Beron</nombre>
+            <rut>545</rut>
+            <apoderado>
+                <nombre>Mariana Morenazo</nombre>
+                <rut>241</rut>
+            </apoderado>
+            <asistencia>38</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Heinz</nombre>
+            <rut>438</rut>
+            <apoderado>
+                <nombre>Roberto Esparza</nombre>
+                <rut>410</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Silva</nombre>
+            <rut>154</rut>
+            <apoderado>
+                <nombre>Juan Catalán</nombre>
+                <rut>709</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Danielez</nombre>
+            <rut>681</rut>
+            <apoderado>
+                <nombre>Roberto Esparza</nombre>
+                <rut>410</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh McDonals</nombre>
+            <rut>172</rut>
+            <apoderado>
+                <nombre>Carlos Lee</nombre>
+                <rut>394</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Lumbico</nombre>
+            <rut>122</rut>
+            <apoderado>
+                <nombre>Ignacio Catalán</nombre>
+                <rut>435</rut>
+            </apoderado>
+            <asistencia>71</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Jacdaniels</nombre>
+            <rut>205</rut>
+            <apoderado>
+                <nombre>Juan Catalán</nombre>
+                <rut>709</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Schwansteigger</nombre>
+            <rut>449</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>720</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Salvatore</nombre>
+            <rut>931</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>720</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Jacdaniels</nombre>
+            <rut>150</rut>
+            <apoderado>
+                <nombre>Patricio Zambrotta</nombre>
+                <rut>881</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Esparza</nombre>
+            <rut>593</rut>
+            <apoderado>
+                <nombre>Alex Angulo</nombre>
+                <rut>126</rut>
+            </apoderado>
+            <asistencia>32</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Esparza</nombre>
+            <rut>712</rut>
+            <apoderado>
+                <nombre>Alberto Morenazo</nombre>
+                <rut>124</rut>
+            </apoderado>
+            <asistencia>32</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Zambrotta</nombre>
+            <rut>913</rut>
+            <apoderado>
+                <nombre>Daniel Schwansteigger</nombre>
+                <rut>103</rut>
+            </apoderado>
+            <asistencia>83</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio McDonals</nombre>
+            <rut>529</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>780</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Balentines</nombre>
+            <rut>390</rut>
+            <apoderado>
+                <nombre>Marcos Palma</nombre>
+                <rut>720</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Schwansteigger</nombre>
+            <rut>416</rut>
+            <apoderado>
+                <nombre>Patricio Zambrotta</nombre>
+                <rut>881</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Salvatore</nombre>
+            <rut>194</rut>
+            <apoderado>
+                <nombre>Juan Catalán</nombre>
+                <rut>709</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Heinz</nombre>
+            <rut>434</rut>
+            <apoderado>
+                <nombre>Patricio Zambrotta</nombre>
+                <rut>881</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Lumbico</nombre>
+            <rut>489</rut>
+            <apoderado>
+                <nombre>Denisse Maxx</nombre>
+                <rut>227</rut>
+            </apoderado>
+            <asistencia>78</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Angulo</nombre>
+            <rut>206</rut>
+            <apoderado>
+                <nombre>Alex Angulo</nombre>
+                <rut>126</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Lumbico</nombre>
+            <rut>225</rut>
+            <apoderado>
+                <nombre>Raul Fischio</nombre>
+                <rut>884</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Curvanez</nombre>
+            <rut>689</rut>
+            <apoderado>
+                <nombre>Ignacio Catalán</nombre>
+                <rut>435</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Catalán</nombre>
+            <rut>211</rut>
+            <apoderado>
+                <nombre>Felipe Maxx</nombre>
+                <rut>271</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Danielez</nombre>
+            <rut>316</rut>
+            <apoderado>
+                <nombre>Ignacio Catalán</nombre>
+                <rut>435</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Hugo Zambrotta</nombre>
+            <rut>710</rut>
+            <asignaturaP>
+                <materia>Matemáticas</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>6</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Bryan Silva</nombre>
+            <rut>342</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>653</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl McDonals</nombre>
+            <rut>380</rut>
+            <apoderado>
+                <nombre>Denisse Burgos</nombre>
+                <rut>635</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Palma</nombre>
+            <rut>345</rut>
+            <apoderado>
+                <nombre>Alexis Balentines</nombre>
+                <rut>836</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Curvanez</nombre>
+            <rut>947</rut>
+            <apoderado>
+                <nombre>Alberto Palma</nombre>
+                <rut>981</rut>
+            </apoderado>
+            <asistencia>63</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Beron</nombre>
+            <rut>360</rut>
+            <apoderado>
+                <nombre>Marcos Heinz</nombre>
+                <rut>417</rut>
+            </apoderado>
+            <asistencia>98</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Palma</nombre>
+            <rut>996</rut>
+            <apoderado>
+                <nombre>Romero Lumbico</nombre>
+                <rut>927</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Lee</nombre>
+            <rut>675</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>273</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Silva</nombre>
+            <rut>686</rut>
+            <apoderado>
+                <nombre>Ignacio Curvanez</nombre>
+                <rut>369</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Salvatore</nombre>
+            <rut>776</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>653</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Beron</nombre>
+            <rut>123</rut>
+            <apoderado>
+                <nombre>Marcos Heinz</nombre>
+                <rut>417</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Madrid</nombre>
+            <rut>887</rut>
+            <apoderado>
+                <nombre>Denisse Morenazo</nombre>
+                <rut>651</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Palma</nombre>
+            <rut>858</rut>
+            <apoderado>
+                <nombre>Denisse Burgos</nombre>
+                <rut>635</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Palma</nombre>
+            <rut>938</rut>
+            <apoderado>
+                <nombre>Alex Lumbico</nombre>
+                <rut>182</rut>
+            </apoderado>
+            <asistencia>58</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Beron</nombre>
+            <rut>524</rut>
+            <apoderado>
+                <nombre>Alberto Palma</nombre>
+                <rut>981</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Esparza</nombre>
+            <rut>545</rut>
+            <apoderado>
+                <nombre>Cristiano Madrid</nombre>
+                <rut>184</rut>
+            </apoderado>
+            <asistencia>56</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Esparza</nombre>
+            <rut>975</rut>
+            <apoderado>
+                <nombre>Ignacio Morenazo</nombre>
+                <rut>211</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Heinz</nombre>
+            <rut>201</rut>
+            <apoderado>
+                <nombre>Marcos Heinz</nombre>
+                <rut>417</rut>
+            </apoderado>
+            <asistencia>98</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Curvanez</nombre>
+            <rut>250</rut>
+            <apoderado>
+                <nombre>Alexis Balentines</nombre>
+                <rut>836</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Heinz</nombre>
+            <rut>218</rut>
+            <apoderado>
+                <nombre>Cristiano Madrid</nombre>
+                <rut>184</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Papasthadopoulos</nombre>
+            <rut>355</rut>
+            <apoderado>
+                <nombre>Denisse Morenazo</nombre>
+                <rut>651</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Heinz</nombre>
+            <rut>178</rut>
+            <apoderado>
+                <nombre>Marcos Heinz</nombre>
+                <rut>417</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Beron</nombre>
+            <rut>162</rut>
+            <apoderado>
+                <nombre>Alberto Palma</nombre>
+                <rut>981</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Palma</nombre>
+            <rut>773</rut>
+            <apoderado>
+                <nombre>Pablo Catalán</nombre>
+                <rut>738</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Angulo</nombre>
+            <rut>743</rut>
+            <apoderado>
+                <nombre>Cristiano Madrid</nombre>
+                <rut>184</rut>
+            </apoderado>
+            <asistencia>92</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Schwansteigger</nombre>
+            <rut>383</rut>
+            <apoderado>
+                <nombre>Marcos Heinz</nombre>
+                <rut>417</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Danielez</nombre>
+            <rut>841</rut>
+            <apoderado>
+                <nombre>Ignacio Papasthadopoulos</nombre>
+                <rut>872</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy McDonals</nombre>
+            <rut>285</rut>
+            <apoderado>
+                <nombre>Jannette Zambrotta</nombre>
+                <rut>545</rut>
+            </apoderado>
+            <asistencia>95</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Heinz</nombre>
+            <rut>120</rut>
+            <apoderado>
+                <nombre>Cristiano Madrid</nombre>
+                <rut>184</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Heinz</nombre>
+            <rut>360</rut>
+            <apoderado>
+                <nombre>Cristiano Madrid</nombre>
+                <rut>184</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Schwansteigger</nombre>
+            <rut>532</rut>
+            <apoderado>
+                <nombre>Ignacio Papasthadopoulos</nombre>
+                <rut>872</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Manuelo Black</nombre>
+            <rut>715</rut>
+            <asignaturaP>
+                <materia>Lenguaje</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>7</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Emiliano Salvatore</nombre>
+            <rut>166</rut>
+            <apoderado>
+                <nombre>Jannette Balentines</nombre>
+                <rut>828</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Fischio</nombre>
+            <rut>411</rut>
+            <apoderado>
+                <nombre>Pablo Burgos</nombre>
+                <rut>248</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Lumbico</nombre>
+            <rut>505</rut>
+            <apoderado>
+                <nombre>Lucas Beron</nombre>
+                <rut>299</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Zambrotta</nombre>
+            <rut>381</rut>
+            <apoderado>
+                <nombre>Pedro Catalán</nombre>
+                <rut>947</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Papasthadopoulos</nombre>
+            <rut>738</rut>
+            <apoderado>
+                <nombre>Pedro Catalán</nombre>
+                <rut>947</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Beron</nombre>
+            <rut>947</rut>
+            <apoderado>
+                <nombre>Mariana Curvanez</nombre>
+                <rut>122</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Zambrotta</nombre>
+            <rut>672</rut>
+            <apoderado>
+                <nombre>Cristiano Jacdaniels</nombre>
+                <rut>584</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Madrid</nombre>
+            <rut>482</rut>
+            <apoderado>
+                <nombre>Lionel Schwansteigger</nombre>
+                <rut>661</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Angulo</nombre>
+            <rut>606</rut>
+            <apoderado>
+                <nombre>Romero Curvanez</nombre>
+                <rut>225</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Angulo</nombre>
+            <rut>646</rut>
+            <apoderado>
+                <nombre>Mariana Catalán</nombre>
+                <rut>144</rut>
+            </apoderado>
+            <asistencia>96</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Madrid</nombre>
+            <rut>872</rut>
+            <apoderado>
+                <nombre>Lucas Beron</nombre>
+                <rut>299</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Danielez</nombre>
+            <rut>623</rut>
+            <apoderado>
+                <nombre>Lucas Beron</nombre>
+                <rut>299</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Burgos</nombre>
+            <rut>701</rut>
+            <apoderado>
+                <nombre>Mariana Curvanez</nombre>
+                <rut>122</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Balentines</nombre>
+            <rut>804</rut>
+            <apoderado>
+                <nombre>Lionel Papasthadopoulos</nombre>
+                <rut>192</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Balentines</nombre>
+            <rut>420</rut>
+            <apoderado>
+                <nombre>Romero Curvanez</nombre>
+                <rut>225</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Catalán</nombre>
+            <rut>898</rut>
+            <apoderado>
+                <nombre>Romero Silva</nombre>
+                <rut>309</rut>
+            </apoderado>
+            <asistencia>58</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Catalán</nombre>
+            <rut>577</rut>
+            <apoderado>
+                <nombre>Daniel Burgos</nombre>
+                <rut>467</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Burgos</nombre>
+            <rut>357</rut>
+            <apoderado>
+                <nombre>Daniel Burgos</nombre>
+                <rut>467</rut>
+            </apoderado>
+            <asistencia>98</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano McDonals</nombre>
+            <rut>993</rut>
+            <apoderado>
+                <nombre>Lucas Beron</nombre>
+                <rut>299</rut>
+            </apoderado>
+            <asistencia>38</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Heinz</nombre>
+            <rut>866</rut>
+            <apoderado>
+                <nombre>Mariana Catalán</nombre>
+                <rut>144</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Schwansteigger</nombre>
+            <rut>972</rut>
+            <apoderado>
+                <nombre>Romero Curvanez</nombre>
+                <rut>225</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Lumbico</nombre>
+            <rut>602</rut>
+            <apoderado>
+                <nombre>Felipe Lumbico</nombre>
+                <rut>462</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Heinz</nombre>
+            <rut>928</rut>
+            <apoderado>
+                <nombre>Jannette Balentines</nombre>
+                <rut>828</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Maxx</nombre>
+            <rut>813</rut>
+            <apoderado>
+                <nombre>Felipe Lumbico</nombre>
+                <rut>462</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Lumbico</nombre>
+            <rut>292</rut>
+            <apoderado>
+                <nombre>Felipe Lumbico</nombre>
+                <rut>462</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Zambrotta</nombre>
+            <rut>689</rut>
+            <apoderado>
+                <nombre>Raul Silva</nombre>
+                <rut>202</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Heinz</nombre>
+            <rut>654</rut>
+            <apoderado>
+                <nombre>Jannette Balentines</nombre>
+                <rut>828</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Catalán</nombre>
+            <rut>300</rut>
+            <apoderado>
+                <nombre>Raul Silva</nombre>
+                <rut>202</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Zambrotta</nombre>
+            <rut>955</rut>
+            <apoderado>
+                <nombre>Cristiano Jacdaniels</nombre>
+                <rut>584</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Papasthadopoulos</nombre>
+            <rut>424</rut>
+            <apoderado>
+                <nombre>Mariana Curvanez</nombre>
+                <rut>122</rut>
+            </apoderado>
+            <asistencia>38</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Jonathan Rojo</nombre>
+            <rut>721</rut>
+            <asignaturaP>
+                <materia>Lenguaje</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosa>
+        <nivel>8</nivel>
+        <letra>A</letra>
+        <estudiante>
+            <nombre>Lucy Angulo</nombre>
+            <rut>190</rut>
+            <apoderado>
+                <nombre>Cristiano Palma</nombre>
+                <rut>146</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Danielez</nombre>
+            <rut>349</rut>
+            <apoderado>
+                <nombre>Roberto Esparza</nombre>
+                <rut>208</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Esparza</nombre>
+            <rut>813</rut>
+            <apoderado>
+                <nombre>Felipe Catalán</nombre>
+                <rut>427</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel McDonals</nombre>
+            <rut>875</rut>
+            <apoderado>
+                <nombre>Cristiano Palma</nombre>
+                <rut>146</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Catalán</nombre>
+            <rut>652</rut>
+            <apoderado>
+                <nombre>Lucas Heinz</nombre>
+                <rut>371</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Zambrotta</nombre>
+            <rut>467</rut>
+            <apoderado>
+                <nombre>Raul Salvatore</nombre>
+                <rut>299</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Salvatore</nombre>
+            <rut>691</rut>
+            <apoderado>
+                <nombre>Alex Jacdaniels</nombre>
+                <rut>623</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Papasthadopoulos</nombre>
+            <rut>187</rut>
+            <apoderado>
+                <nombre>Cristiano Maxx</nombre>
+                <rut>191</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Angulo</nombre>
+            <rut>330</rut>
+            <apoderado>
+                <nombre>Lucas Heinz</nombre>
+                <rut>371</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Morenazo</nombre>
+            <rut>345</rut>
+            <apoderado>
+                <nombre>Cristiano Burgos</nombre>
+                <rut>106</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Jacdaniels</nombre>
+            <rut>517</rut>
+            <apoderado>
+                <nombre>Daniel Balentines</nombre>
+                <rut>696</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Silva</nombre>
+            <rut>980</rut>
+            <apoderado>
+                <nombre>Lucas Heinz</nombre>
+                <rut>371</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Balentines</nombre>
+            <rut>909</rut>
+            <apoderado>
+                <nombre>Daniel Balentines</nombre>
+                <rut>696</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack McDonals</nombre>
+            <rut>372</rut>
+            <apoderado>
+                <nombre>Lionel Silva</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Morenazo</nombre>
+            <rut>792</rut>
+            <apoderado>
+                <nombre>Cristiano Maxx</nombre>
+                <rut>191</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Madrid</nombre>
+            <rut>295</rut>
+            <apoderado>
+                <nombre>Daniel Fischio</nombre>
+                <rut>130</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Schwansteigger</nombre>
+            <rut>982</rut>
+            <apoderado>
+                <nombre>Roberto Esparza</nombre>
+                <rut>208</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Angulo</nombre>
+            <rut>506</rut>
+            <apoderado>
+                <nombre>Daniel Fischio</nombre>
+                <rut>130</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Curvanez</nombre>
+            <rut>186</rut>
+            <apoderado>
+                <nombre>Lionel Salvatore</nombre>
+                <rut>824</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Lee</nombre>
+            <rut>163</rut>
+            <apoderado>
+                <nombre>Vanessa Maxx</nombre>
+                <rut>690</rut>
+            </apoderado>
+            <asistencia>92</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Catalán</nombre>
+            <rut>614</rut>
+            <apoderado>
+                <nombre>Marcos Fischio</nombre>
+                <rut>516</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Maxx</nombre>
+            <rut>571</rut>
+            <apoderado>
+                <nombre>Lucas Burgos</nombre>
+                <rut>628</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Jacdaniels</nombre>
+            <rut>756</rut>
+            <apoderado>
+                <nombre>Vanessa Maxx</nombre>
+                <rut>690</rut>
+            </apoderado>
+            <asistencia>59</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Morenazo</nombre>
+            <rut>937</rut>
+            <apoderado>
+                <nombre>Cristiano Palma</nombre>
+                <rut>146</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Morenazo</nombre>
+            <rut>530</rut>
+            <apoderado>
+                <nombre>Cristiano Burgos</nombre>
+                <rut>106</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Heinz</nombre>
+            <rut>884</rut>
+            <apoderado>
+                <nombre>Lucas Burgos</nombre>
+                <rut>628</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Jacdaniels</nombre>
+            <rut>159</rut>
+            <apoderado>
+                <nombre>Vanessa Maxx</nombre>
+                <rut>690</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Papasthadopoulos</nombre>
+            <rut>338</rut>
+            <apoderado>
+                <nombre>Lionel Silva</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Morenazo</nombre>
+            <rut>558</rut>
+            <apoderado>
+                <nombre>Vanessa Maxx</nombre>
+                <rut>690</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Fischio</nombre>
+            <rut>105</rut>
+            <apoderado>
+                <nombre>Juan Salvatore</nombre>
+                <rut>838</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Pedro Assis</nombre>
+            <rut>728</rut>
+            <asignaturaP>
+                <materia>Lenguaje</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosa>
+    <cursosb>
+        <nivel>1</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Johannes Esparza</nombre>
+            <rut>724</rut>
+            <apoderado>
+                <nombre>Patricio Jacdaniels</nombre>
+                <rut>799</rut>
+            </apoderado>
+            <asistencia>65</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Silva</nombre>
+            <rut>735</rut>
+            <apoderado>
+                <nombre>Ignacio Madrid</nombre>
+                <rut>711</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Madrid</nombre>
+            <rut>867</rut>
+            <apoderado>
+                <nombre>Alex Beron</nombre>
+                <rut>993</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Jacdaniels</nombre>
+            <rut>706</rut>
+            <apoderado>
+                <nombre>Alex Beron</nombre>
+                <rut>993</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Lee</nombre>
+            <rut>684</rut>
+            <apoderado>
+                <nombre>Lucas Palma</nombre>
+                <rut>834</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Silva</nombre>
+            <rut>752</rut>
+            <apoderado>
+                <nombre>Cristiano Esparza</nombre>
+                <rut>619</rut>
+            </apoderado>
+            <asistencia>34</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Palma</nombre>
+            <rut>126</rut>
+            <apoderado>
+                <nombre>Alberto Zambrotta</nombre>
+                <rut>668</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Madrid</nombre>
+            <rut>882</rut>
+            <apoderado>
+                <nombre>Vanessa Zambrotta</nombre>
+                <rut>505</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Angulo</nombre>
+            <rut>787</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh McDonals</nombre>
+            <rut>639</rut>
+            <apoderado>
+                <nombre>Roberto Zambrotta</nombre>
+                <rut>564</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Burgos</nombre>
+            <rut>664</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Jacdaniels</nombre>
+            <rut>526</rut>
+            <apoderado>
+                <nombre>Lucas Palma</nombre>
+                <rut>834</rut>
+            </apoderado>
+            <asistencia>50</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Burgos</nombre>
+            <rut>637</rut>
+            <apoderado>
+                <nombre>Romero Angulo</nombre>
+                <rut>270</rut>
+            </apoderado>
+            <asistencia>52</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Schwansteigger</nombre>
+            <rut>418</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Silva</nombre>
+            <rut>714</rut>
+            <apoderado>
+                <nombre>Vanessa McDonals</nombre>
+                <rut>718</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Fischio</nombre>
+            <rut>822</rut>
+            <apoderado>
+                <nombre>Alberto Lee</nombre>
+                <rut>121</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Maxx</nombre>
+            <rut>994</rut>
+            <apoderado>
+                <nombre>Vanessa Maxx</nombre>
+                <rut>266</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Lee</nombre>
+            <rut>175</rut>
+            <apoderado>
+                <nombre>Vanessa Zambrotta</nombre>
+                <rut>505</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Angulo</nombre>
+            <rut>731</rut>
+            <apoderado>
+                <nombre>Juan Jacdaniels</nombre>
+                <rut>731</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan McDonals</nombre>
+            <rut>687</rut>
+            <apoderado>
+                <nombre>Juan Jacdaniels</nombre>
+                <rut>731</rut>
+            </apoderado>
+            <asistencia>93</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Madrid</nombre>
+            <rut>206</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>96</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Heinz</nombre>
+            <rut>596</rut>
+            <apoderado>
+                <nombre>Juan Jacdaniels</nombre>
+                <rut>731</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Fischio</nombre>
+            <rut>503</rut>
+            <apoderado>
+                <nombre>Lucas Palma</nombre>
+                <rut>834</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Beron</nombre>
+            <rut>977</rut>
+            <apoderado>
+                <nombre>Vanessa Zambrotta</nombre>
+                <rut>505</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Morenazo</nombre>
+            <rut>984</rut>
+            <apoderado>
+                <nombre>Lionel Balentines</nombre>
+                <rut>569</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Fischio</nombre>
+            <rut>848</rut>
+            <apoderado>
+                <nombre>Daniel Morenazo</nombre>
+                <rut>710</rut>
+            </apoderado>
+            <asistencia>65</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Madrid</nombre>
+            <rut>818</rut>
+            <apoderado>
+                <nombre>Alberto Lee</nombre>
+                <rut>121</rut>
+            </apoderado>
+            <asistencia>59</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Esparza</nombre>
+            <rut>976</rut>
+            <apoderado>
+                <nombre>Juan Jacdaniels</nombre>
+                <rut>731</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Heinz</nombre>
+            <rut>214</rut>
+            <apoderado>
+                <nombre>Vanessa McDonals</nombre>
+                <rut>718</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Silva</nombre>
+            <rut>948</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>352</rut>
+            </apoderado>
+            <asistencia>32</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Keblar Dulcez</nombre>
+            <rut>736</rut>
+            <asignaturaP>
+                <materia>Lenguaje</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>2</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Manueh Zambrotta</nombre>
+            <rut>474</rut>
+            <apoderado>
+                <nombre>Ignacio Palma</nombre>
+                <rut>526</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Burgos</nombre>
+            <rut>896</rut>
+            <apoderado>
+                <nombre>Romero Catalán</nombre>
+                <rut>666</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Jacdaniels</nombre>
+            <rut>679</rut>
+            <apoderado>
+                <nombre>Lucila Lumbico</nombre>
+                <rut>257</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Lee</nombre>
+            <rut>812</rut>
+            <apoderado>
+                <nombre>Mariana Lumbico</nombre>
+                <rut>941</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Fischio</nombre>
+            <rut>557</rut>
+            <apoderado>
+                <nombre>Alexis Curvanez</nombre>
+                <rut>291</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Maxx</nombre>
+            <rut>668</rut>
+            <apoderado>
+                <nombre>Marcos Jacdaniels</nombre>
+                <rut>451</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Madrid</nombre>
+            <rut>264</rut>
+            <apoderado>
+                <nombre>Lucila Lumbico</nombre>
+                <rut>257</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Burgos</nombre>
+            <rut>949</rut>
+            <apoderado>
+                <nombre>Ignacio Lumbico</nombre>
+                <rut>517</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Danielez</nombre>
+            <rut>245</rut>
+            <apoderado>
+                <nombre>Roberto Catalán</nombre>
+                <rut>224</rut>
+            </apoderado>
+            <asistencia>59</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Fischio</nombre>
+            <rut>658</rut>
+            <apoderado>
+                <nombre>Lucila Lumbico</nombre>
+                <rut>257</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Palma</nombre>
+            <rut>556</rut>
+            <apoderado>
+                <nombre>Marcos Jacdaniels</nombre>
+                <rut>451</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Fischio</nombre>
+            <rut>104</rut>
+            <apoderado>
+                <nombre>Daniel Heinz</nombre>
+                <rut>423</rut>
+            </apoderado>
+            <asistencia>46</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Angulo</nombre>
+            <rut>381</rut>
+            <apoderado>
+                <nombre>Denisse Burgos</nombre>
+                <rut>838</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Palma</nombre>
+            <rut>101</rut>
+            <apoderado>
+                <nombre>Denisse Burgos</nombre>
+                <rut>838</rut>
+            </apoderado>
+            <asistencia>80</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Fischio</nombre>
+            <rut>149</rut>
+            <apoderado>
+                <nombre>Alexis Curvanez</nombre>
+                <rut>291</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Burgos</nombre>
+            <rut>738</rut>
+            <apoderado>
+                <nombre>Roberto Catalán</nombre>
+                <rut>224</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Jacdaniels</nombre>
+            <rut>889</rut>
+            <apoderado>
+                <nombre>Alexis Curvanez</nombre>
+                <rut>291</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Salvatore</nombre>
+            <rut>186</rut>
+            <apoderado>
+                <nombre>Alex Lumbico</nombre>
+                <rut>130</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Zambrotta</nombre>
+            <rut>635</rut>
+            <apoderado>
+                <nombre>Vanessa Papasthadopoulos</nombre>
+                <rut>740</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Burgos</nombre>
+            <rut>319</rut>
+            <apoderado>
+                <nombre>Roberto Catalán</nombre>
+                <rut>224</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Heinz</nombre>
+            <rut>131</rut>
+            <apoderado>
+                <nombre>Ignacio Palma</nombre>
+                <rut>526</rut>
+            </apoderado>
+            <asistencia>79</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Morenazo</nombre>
+            <rut>894</rut>
+            <apoderado>
+                <nombre>Daniel Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Curvanez</nombre>
+            <rut>591</rut>
+            <apoderado>
+                <nombre>Vanessa Papasthadopoulos</nombre>
+                <rut>740</rut>
+            </apoderado>
+            <asistencia>87</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano McDonals</nombre>
+            <rut>666</rut>
+            <apoderado>
+                <nombre>Mariana Schwansteigger</nombre>
+                <rut>497</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Papasthadopoulos</nombre>
+            <rut>441</rut>
+            <apoderado>
+                <nombre>Lucas Curvanez</nombre>
+                <rut>215</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Lumbico</nombre>
+            <rut>977</rut>
+            <apoderado>
+                <nombre>Daniel Heinz</nombre>
+                <rut>423</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Beron</nombre>
+            <rut>485</rut>
+            <apoderado>
+                <nombre>Romero Catalán</nombre>
+                <rut>666</rut>
+            </apoderado>
+            <asistencia>35</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Papasthadopoulos</nombre>
+            <rut>756</rut>
+            <apoderado>
+                <nombre>Daniel Palma</nombre>
+                <rut>231</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Fischio</nombre>
+            <rut>892</rut>
+            <apoderado>
+                <nombre>Daniel Heinz</nombre>
+                <rut>423</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Curvanez</nombre>
+            <rut>909</rut>
+            <apoderado>
+                <nombre>Vanessa Papasthadopoulos</nombre>
+                <rut>740</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Pablo Consuelo</nombre>
+            <rut>745</rut>
+            <asignaturaP>
+                <materia>Lenguaje</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>3</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Logan Morenazo</nombre>
+            <rut>474</rut>
+            <apoderado>
+                <nombre>Ignacio Salvatore</nombre>
+                <rut>162</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Zambrotta</nombre>
+            <rut>291</rut>
+            <apoderado>
+                <nombre>Lucila Papasthadopoulos</nombre>
+                <rut>561</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Lee</nombre>
+            <rut>966</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>804</rut>
+            </apoderado>
+            <asistencia>83</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Papasthadopoulos</nombre>
+            <rut>274</rut>
+            <apoderado>
+                <nombre>Lucas Maxx</nombre>
+                <rut>456</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Danielez</nombre>
+            <rut>882</rut>
+            <apoderado>
+                <nombre>Lucas Maxx</nombre>
+                <rut>456</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Burgos</nombre>
+            <rut>592</rut>
+            <apoderado>
+                <nombre>Pedro Papasthadopoulos</nombre>
+                <rut>884</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Burgos</nombre>
+            <rut>876</rut>
+            <apoderado>
+                <nombre>Pablo Palma</nombre>
+                <rut>262</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Silva</nombre>
+            <rut>701</rut>
+            <apoderado>
+                <nombre>Pablo Palma</nombre>
+                <rut>262</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Lumbico</nombre>
+            <rut>296</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>804</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Fischio</nombre>
+            <rut>764</rut>
+            <apoderado>
+                <nombre>Pedro Papasthadopoulos</nombre>
+                <rut>884</rut>
+            </apoderado>
+            <asistencia>81</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Danielez</nombre>
+            <rut>110</rut>
+            <apoderado>
+                <nombre>Roberto Angulo</nombre>
+                <rut>408</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Morenazo</nombre>
+            <rut>132</rut>
+            <apoderado>
+                <nombre>Pablo Palma</nombre>
+                <rut>262</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Angulo</nombre>
+            <rut>946</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>804</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Danielez</nombre>
+            <rut>379</rut>
+            <apoderado>
+                <nombre>Lionel Fischio</nombre>
+                <rut>660</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Beron</nombre>
+            <rut>307</rut>
+            <apoderado>
+                <nombre>Ignacio Salvatore</nombre>
+                <rut>162</rut>
+            </apoderado>
+            <asistencia>92</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Catalán</nombre>
+            <rut>203</rut>
+            <apoderado>
+                <nombre>Lionel Fischio</nombre>
+                <rut>660</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Morenazo</nombre>
+            <rut>502</rut>
+            <apoderado>
+                <nombre>Alberto Maxx</nombre>
+                <rut>216</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Zambrotta</nombre>
+            <rut>416</rut>
+            <apoderado>
+                <nombre>Vanessa Palma</nombre>
+                <rut>867</rut>
+            </apoderado>
+            <asistencia>96</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Salvatore</nombre>
+            <rut>888</rut>
+            <apoderado>
+                <nombre>Carlos Esparza</nombre>
+                <rut>316</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Palma</nombre>
+            <rut>454</rut>
+            <apoderado>
+                <nombre>Romero Angulo</nombre>
+                <rut>503</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Lumbico</nombre>
+            <rut>305</rut>
+            <apoderado>
+                <nombre>Jannette Heinz</nombre>
+                <rut>394</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Zambrotta</nombre>
+            <rut>926</rut>
+            <apoderado>
+                <nombre>Cristiano Catalán</nombre>
+                <rut>866</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Palma</nombre>
+            <rut>344</rut>
+            <apoderado>
+                <nombre>Pablo Palma</nombre>
+                <rut>262</rut>
+            </apoderado>
+            <asistencia>78</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Esparza</nombre>
+            <rut>646</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>804</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Zambrotta</nombre>
+            <rut>153</rut>
+            <apoderado>
+                <nombre>Felipe Burgos</nombre>
+                <rut>224</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Curvanez</nombre>
+            <rut>642</rut>
+            <apoderado>
+                <nombre>Felipe Burgos</nombre>
+                <rut>224</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Palma</nombre>
+            <rut>792</rut>
+            <apoderado>
+                <nombre>Jannette Heinz</nombre>
+                <rut>394</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Zambrotta</nombre>
+            <rut>207</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>804</rut>
+            </apoderado>
+            <asistencia>35</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Lumbico</nombre>
+            <rut>204</rut>
+            <apoderado>
+                <nombre>Carlos Esparza</nombre>
+                <rut>316</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Balentines</nombre>
+            <rut>475</rut>
+            <apoderado>
+                <nombre>Lionel Fischio</nombre>
+                <rut>660</rut>
+            </apoderado>
+            <asistencia>35</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Karen Ferrada</nombre>
+            <rut>755</rut>
+            <asignaturaP>
+                <materia>Historia</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>4</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Flabio Madrid</nombre>
+            <rut>907</rut>
+            <apoderado>
+                <nombre>Mariana Burgos</nombre>
+                <rut>588</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Danielez</nombre>
+            <rut>185</rut>
+            <apoderado>
+                <nombre>Patricio Catalán</nombre>
+                <rut>329</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Maxx</nombre>
+            <rut>661</rut>
+            <apoderado>
+                <nombre>Carlos Catalán</nombre>
+                <rut>493</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Fischio</nombre>
+            <rut>803</rut>
+            <apoderado>
+                <nombre>Mariana Burgos</nombre>
+                <rut>588</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Balentines</nombre>
+            <rut>899</rut>
+            <apoderado>
+                <nombre>Lucila Morenazo</nombre>
+                <rut>318</rut>
+            </apoderado>
+            <asistencia>36</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Balentines</nombre>
+            <rut>844</rut>
+            <apoderado>
+                <nombre>Romero Heinz</nombre>
+                <rut>879</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Angulo</nombre>
+            <rut>223</rut>
+            <apoderado>
+                <nombre>Jannette Beron</nombre>
+                <rut>897</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan McDonals</nombre>
+            <rut>896</rut>
+            <apoderado>
+                <nombre>Roberto Madrid</nombre>
+                <rut>453</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Catalán</nombre>
+            <rut>355</rut>
+            <apoderado>
+                <nombre>Felipe Beron</nombre>
+                <rut>108</rut>
+            </apoderado>
+            <asistencia>56</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Papasthadopoulos</nombre>
+            <rut>751</rut>
+            <apoderado>
+                <nombre>Jannette Beron</nombre>
+                <rut>897</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Salvatore</nombre>
+            <rut>374</rut>
+            <apoderado>
+                <nombre>Carlos Burgos</nombre>
+                <rut>567</rut>
+            </apoderado>
+            <asistencia>84</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Danielez</nombre>
+            <rut>631</rut>
+            <apoderado>
+                <nombre>Raul Schwansteigger</nombre>
+                <rut>454</rut>
+            </apoderado>
+            <asistencia>43</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Lumbico</nombre>
+            <rut>564</rut>
+            <apoderado>
+                <nombre>Raul Schwansteigger</nombre>
+                <rut>454</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Burgos</nombre>
+            <rut>221</rut>
+            <apoderado>
+                <nombre>Jannette Beron</nombre>
+                <rut>897</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Esparza</nombre>
+            <rut>334</rut>
+            <apoderado>
+                <nombre>Jannette Beron</nombre>
+                <rut>897</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Curvanez</nombre>
+            <rut>853</rut>
+            <apoderado>
+                <nombre>Roberto Beron</nombre>
+                <rut>420</rut>
+            </apoderado>
+            <asistencia>76</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Schwansteigger</nombre>
+            <rut>767</rut>
+            <apoderado>
+                <nombre>Romero Heinz</nombre>
+                <rut>879</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Zambrotta</nombre>
+            <rut>739</rut>
+            <apoderado>
+                <nombre>Carlos Catalán</nombre>
+                <rut>493</rut>
+            </apoderado>
+            <asistencia>98</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Angulo</nombre>
+            <rut>769</rut>
+            <apoderado>
+                <nombre>Carlos Burgos</nombre>
+                <rut>567</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Balentines</nombre>
+            <rut>494</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>297</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Heinz</nombre>
+            <rut>742</rut>
+            <apoderado>
+                <nombre>Roberto Madrid</nombre>
+                <rut>453</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Esparza</nombre>
+            <rut>320</rut>
+            <apoderado>
+                <nombre>Mariana Burgos</nombre>
+                <rut>588</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Silva</nombre>
+            <rut>136</rut>
+            <apoderado>
+                <nombre>Alberto Papasthadopoulos</nombre>
+                <rut>637</rut>
+            </apoderado>
+            <asistencia>78</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Papasthadopoulos</nombre>
+            <rut>324</rut>
+            <apoderado>
+                <nombre>Raul Schwansteigger</nombre>
+                <rut>454</rut>
+            </apoderado>
+            <asistencia>75</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Jacdaniels</nombre>
+            <rut>769</rut>
+            <apoderado>
+                <nombre>Lucila Morenazo</nombre>
+                <rut>318</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Jacdaniels</nombre>
+            <rut>495</rut>
+            <apoderado>
+                <nombre>Alberto Papasthadopoulos</nombre>
+                <rut>637</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Lee</nombre>
+            <rut>466</rut>
+            <apoderado>
+                <nombre>Cristiano Esparza</nombre>
+                <rut>515</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Danielez</nombre>
+            <rut>257</rut>
+            <apoderado>
+                <nombre>Roberto Madrid</nombre>
+                <rut>453</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Angulo</nombre>
+            <rut>305</rut>
+            <apoderado>
+                <nombre>Felipe Beron</nombre>
+                <rut>108</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Angulo</nombre>
+            <rut>709</rut>
+            <apoderado>
+                <nombre>Romero Heinz</nombre>
+                <rut>879</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Daniela Montenegro</nombre>
+            <rut>766</rut>
+            <asignaturaP>
+                <materia>Historia</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>5</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Lucy Schwansteigger</nombre>
+            <rut>524</rut>
+            <apoderado>
+                <nombre>Daniel Zambrotta</nombre>
+                <rut>391</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Curvanez</nombre>
+            <rut>867</rut>
+            <apoderado>
+                <nombre>Alex Lee</nombre>
+                <rut>237</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Zambrotta</nombre>
+            <rut>743</rut>
+            <apoderado>
+                <nombre>Cristiano Lumbico</nombre>
+                <rut>317</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Beron</nombre>
+            <rut>931</rut>
+            <apoderado>
+                <nombre>Denisse Zambrotta</nombre>
+                <rut>882</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Balentines</nombre>
+            <rut>849</rut>
+            <apoderado>
+                <nombre>Cristiano Lumbico</nombre>
+                <rut>317</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Burgos</nombre>
+            <rut>132</rut>
+            <apoderado>
+                <nombre>Alexis Catalán</nombre>
+                <rut>888</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Angulo</nombre>
+            <rut>442</rut>
+            <apoderado>
+                <nombre>Marcos Morenazo</nombre>
+                <rut>968</rut>
+            </apoderado>
+            <asistencia>74</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Esparza</nombre>
+            <rut>597</rut>
+            <apoderado>
+                <nombre>Ignacio Schwansteigger</nombre>
+                <rut>525</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Papasthadopoulos</nombre>
+            <rut>982</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>528</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Lee</nombre>
+            <rut>703</rut>
+            <apoderado>
+                <nombre>Denisse Zambrotta</nombre>
+                <rut>778</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Palma</nombre>
+            <rut>422</rut>
+            <apoderado>
+                <nombre>Juan Fischio</nombre>
+                <rut>571</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Madrid</nombre>
+            <rut>965</rut>
+            <apoderado>
+                <nombre>Alexis Catalán</nombre>
+                <rut>888</rut>
+            </apoderado>
+            <asistencia>52</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Angulo</nombre>
+            <rut>294</rut>
+            <apoderado>
+                <nombre>Denisse Zambrotta</nombre>
+                <rut>778</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Lumbico</nombre>
+            <rut>893</rut>
+            <apoderado>
+                <nombre>Alex McDonals</nombre>
+                <rut>644</rut>
+            </apoderado>
+            <asistencia>80</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Balentines</nombre>
+            <rut>428</rut>
+            <apoderado>
+                <nombre>Denisse Zambrotta</nombre>
+                <rut>882</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Silva</nombre>
+            <rut>561</rut>
+            <apoderado>
+                <nombre>Romero Zambrotta</nombre>
+                <rut>763</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Palma</nombre>
+            <rut>196</rut>
+            <apoderado>
+                <nombre>Ignacio Schwansteigger</nombre>
+                <rut>525</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Jacdaniels</nombre>
+            <rut>306</rut>
+            <apoderado>
+                <nombre>Alexis Catalán</nombre>
+                <rut>888</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Catalán</nombre>
+            <rut>297</rut>
+            <apoderado>
+                <nombre>Romero Lumbico</nombre>
+                <rut>746</rut>
+            </apoderado>
+            <asistencia>70</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Palma</nombre>
+            <rut>248</rut>
+            <apoderado>
+                <nombre>Romero Lumbico</nombre>
+                <rut>746</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Balentines</nombre>
+            <rut>585</rut>
+            <apoderado>
+                <nombre>Vanessa Burgos</nombre>
+                <rut>519</rut>
+            </apoderado>
+            <asistencia>80</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Balentines</nombre>
+            <rut>119</rut>
+            <apoderado>
+                <nombre>Raul Maxx</nombre>
+                <rut>528</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio McDonals</nombre>
+            <rut>212</rut>
+            <apoderado>
+                <nombre>Alexis Catalán</nombre>
+                <rut>888</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Madrid</nombre>
+            <rut>689</rut>
+            <apoderado>
+                <nombre>Juan Fischio</nombre>
+                <rut>571</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Morenazo</nombre>
+            <rut>973</rut>
+            <apoderado>
+                <nombre>Juan Fischio</nombre>
+                <rut>571</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Lumbico</nombre>
+            <rut>410</rut>
+            <apoderado>
+                <nombre>Felipe Angulo</nombre>
+                <rut>633</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Curvanez</nombre>
+            <rut>970</rut>
+            <apoderado>
+                <nombre>Felipe Angulo</nombre>
+                <rut>633</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Salvatore</nombre>
+            <rut>851</rut>
+            <apoderado>
+                <nombre>Felipe Angulo</nombre>
+                <rut>633</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Silva</nombre>
+            <rut>154</rut>
+            <apoderado>
+                <nombre>Cristiano Lumbico</nombre>
+                <rut>317</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Silva</nombre>
+            <rut>435</rut>
+            <apoderado>
+                <nombre>Alex Jacdaniels</nombre>
+                <rut>387</rut>
+            </apoderado>
+            <asistencia>57</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Jennifer Schuherz</nombre>
+            <rut>778</rut>
+            <asignaturaP>
+                <materia>Inglés</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>6</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Jessica Silva</nombre>
+            <rut>338</rut>
+            <apoderado>
+                <nombre>Patricio Balentines</nombre>
+                <rut>687</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Balentines</nombre>
+            <rut>578</rut>
+            <apoderado>
+                <nombre>Patricio Balentines</nombre>
+                <rut>687</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Heinz</nombre>
+            <rut>593</rut>
+            <apoderado>
+                <nombre>Lucas Esparza</nombre>
+                <rut>704</rut>
+            </apoderado>
+            <asistencia>32</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Lumbico</nombre>
+            <rut>361</rut>
+            <apoderado>
+                <nombre>Patricio Balentines</nombre>
+                <rut>687</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Zambrotta</nombre>
+            <rut>918</rut>
+            <apoderado>
+                <nombre>Pablo Morenazo</nombre>
+                <rut>701</rut>
+            </apoderado>
+            <asistencia>42</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Schwansteigger</nombre>
+            <rut>460</rut>
+            <apoderado>
+                <nombre>Pedro Balentines</nombre>
+                <rut>161</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Danielez</nombre>
+            <rut>309</rut>
+            <apoderado>
+                <nombre>Lucila McDonals</nombre>
+                <rut>960</rut>
+            </apoderado>
+            <asistencia>47</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Zambrotta</nombre>
+            <rut>942</rut>
+            <apoderado>
+                <nombre>Patricio Balentines</nombre>
+                <rut>687</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Lee</nombre>
+            <rut>691</rut>
+            <apoderado>
+                <nombre>Marcos Burgos</nombre>
+                <rut>892</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Esparza</nombre>
+            <rut>994</rut>
+            <apoderado>
+                <nombre>Denisse Papasthadopoulos</nombre>
+                <rut>735</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Silva</nombre>
+            <rut>729</rut>
+            <apoderado>
+                <nombre>Denisse Papasthadopoulos</nombre>
+                <rut>735</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Palma</nombre>
+            <rut>522</rut>
+            <apoderado>
+                <nombre>Daniel Danielez</nombre>
+                <rut>729</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Burgos</nombre>
+            <rut>192</rut>
+            <apoderado>
+                <nombre>Raul Catalán</nombre>
+                <rut>143</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Beron</nombre>
+            <rut>130</rut>
+            <apoderado>
+                <nombre>Lucas Esparza</nombre>
+                <rut>704</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Beron</nombre>
+            <rut>551</rut>
+            <apoderado>
+                <nombre>Marcos Burgos</nombre>
+                <rut>892</rut>
+            </apoderado>
+            <asistencia>30</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Fischio</nombre>
+            <rut>383</rut>
+            <apoderado>
+                <nombre>Daniel Burgos</nombre>
+                <rut>744</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Maxx</nombre>
+            <rut>732</rut>
+            <apoderado>
+                <nombre>Lucila Silva</nombre>
+                <rut>922</rut>
+            </apoderado>
+            <asistencia>60</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Lumbico</nombre>
+            <rut>321</rut>
+            <apoderado>
+                <nombre>Daniel Burgos</nombre>
+                <rut>744</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Beron</nombre>
+            <rut>242</rut>
+            <apoderado>
+                <nombre>Lionel Lee</nombre>
+                <rut>488</rut>
+            </apoderado>
+            <asistencia>52</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Zambrotta</nombre>
+            <rut>219</rut>
+            <apoderado>
+                <nombre>Denisse Papasthadopoulos</nombre>
+                <rut>735</rut>
+            </apoderado>
+            <asistencia>56</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Fischio</nombre>
+            <rut>458</rut>
+            <apoderado>
+                <nombre>Lucas Lee</nombre>
+                <rut>201</rut>
+            </apoderado>
+            <asistencia>45</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Papasthadopoulos</nombre>
+            <rut>645</rut>
+            <apoderado>
+                <nombre>Daniel Danielez</nombre>
+                <rut>729</rut>
+            </apoderado>
+            <asistencia>71</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Jacdaniels</nombre>
+            <rut>759</rut>
+            <apoderado>
+                <nombre>Daniel Burgos</nombre>
+                <rut>744</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Palma</nombre>
+            <rut>903</rut>
+            <apoderado>
+                <nombre>Lucas Esparza</nombre>
+                <rut>704</rut>
+            </apoderado>
+            <asistencia>86</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maickel Palma</nombre>
+            <rut>305</rut>
+            <apoderado>
+                <nombre>Roberto Palma</nombre>
+                <rut>172</rut>
+            </apoderado>
+            <asistencia>54</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Lee</nombre>
+            <rut>353</rut>
+            <apoderado>
+                <nombre>Lucila Silva</nombre>
+                <rut>922</rut>
+            </apoderado>
+            <asistencia>58</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Papasthadopoulos</nombre>
+            <rut>732</rut>
+            <apoderado>
+                <nombre>Marcos Burgos</nombre>
+                <rut>892</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Maxx</nombre>
+            <rut>137</rut>
+            <apoderado>
+                <nombre>Lionel Lee</nombre>
+                <rut>488</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Balentines</nombre>
+            <rut>354</rut>
+            <apoderado>
+                <nombre>Lucas Esparza</nombre>
+                <rut>704</rut>
+            </apoderado>
+            <asistencia>61</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Palma</nombre>
+            <rut>232</rut>
+            <apoderado>
+                <nombre>Roberto Palma</nombre>
+                <rut>172</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Jorge Joyland</nombre>
+            <rut>791</rut>
+            <asignaturaP>
+                <materia>Inglés</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>7</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Mario Beron</nombre>
+            <rut>198</rut>
+            <apoderado>
+                <nombre>Denisse Lee</nombre>
+                <rut>305</rut>
+            </apoderado>
+            <asistencia>52</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Burgos</nombre>
+            <rut>694</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>311</rut>
+            </apoderado>
+            <asistencia>38</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Zambrotta</nombre>
+            <rut>219</rut>
+            <apoderado>
+                <nombre>Ignacio Burgos</nombre>
+                <rut>976</rut>
+            </apoderado>
+            <asistencia>71</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Silva</nombre>
+            <rut>974</rut>
+            <apoderado>
+                <nombre>Vanessa Heinz</nombre>
+                <rut>210</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Madrid</nombre>
+            <rut>758</rut>
+            <apoderado>
+                <nombre>Denisse Lee</nombre>
+                <rut>458</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Curvanez</nombre>
+            <rut>148</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>539</rut>
+            </apoderado>
+            <asistencia>34</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Salvatore</nombre>
+            <rut>284</rut>
+            <apoderado>
+                <nombre>Denisse Lee</nombre>
+                <rut>458</rut>
+            </apoderado>
+            <asistencia>48</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Papasthadopoulos</nombre>
+            <rut>359</rut>
+            <apoderado>
+                <nombre>Denisse Lee</nombre>
+                <rut>458</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Logan Heinz</nombre>
+            <rut>260</rut>
+            <apoderado>
+                <nombre>Mariana Beron</nombre>
+                <rut>925</rut>
+            </apoderado>
+            <asistencia>95</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Danielez</nombre>
+            <rut>823</rut>
+            <apoderado>
+                <nombre>Daniel Jacdaniels</nombre>
+                <rut>611</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Esparza</nombre>
+            <rut>915</rut>
+            <apoderado>
+                <nombre>Daniel Jacdaniels</nombre>
+                <rut>611</rut>
+            </apoderado>
+            <asistencia>39</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Palma</nombre>
+            <rut>710</rut>
+            <apoderado>
+                <nombre>Daniel Jacdaniels</nombre>
+                <rut>611</rut>
+            </apoderado>
+            <asistencia>69</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Jacdaniels</nombre>
+            <rut>401</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>539</rut>
+            </apoderado>
+            <asistencia>37</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan McDonals</nombre>
+            <rut>269</rut>
+            <apoderado>
+                <nombre>Denisse Lee</nombre>
+                <rut>458</rut>
+            </apoderado>
+            <asistencia>59</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Curvanez</nombre>
+            <rut>834</rut>
+            <apoderado>
+                <nombre>Mariana Beron</nombre>
+                <rut>925</rut>
+            </apoderado>
+            <asistencia>82</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Heinz</nombre>
+            <rut>334</rut>
+            <apoderado>
+                <nombre>Lucila Heinz</nombre>
+                <rut>986</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Curvanez</nombre>
+            <rut>910</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>948</rut>
+            </apoderado>
+            <asistencia>63</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Papasthadopoulos</nombre>
+            <rut>124</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>539</rut>
+            </apoderado>
+            <asistencia>62</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano McDonals</nombre>
+            <rut>913</rut>
+            <apoderado>
+                <nombre>Alberto Danielez</nombre>
+                <rut>514</rut>
+            </apoderado>
+            <asistencia>31</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Morenazo</nombre>
+            <rut>528</rut>
+            <apoderado>
+                <nombre>Marcos Curvanez</nombre>
+                <rut>751</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Silva</nombre>
+            <rut>326</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>948</rut>
+            </apoderado>
+            <asistencia>44</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Jacdaniels</nombre>
+            <rut>536</rut>
+            <apoderado>
+                <nombre>Mariana Madrid</nombre>
+                <rut>948</rut>
+            </apoderado>
+            <asistencia>32</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Schwansteigger</nombre>
+            <rut>504</rut>
+            <apoderado>
+                <nombre>Juan Burgos</nombre>
+                <rut>311</rut>
+            </apoderado>
+            <asistencia>72</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Emiliano Heinz</nombre>
+            <rut>764</rut>
+            <apoderado>
+                <nombre>Jannette Catalán</nombre>
+                <rut>980</rut>
+            </apoderado>
+            <asistencia>97</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Curvanez</nombre>
+            <rut>113</rut>
+            <apoderado>
+                <nombre>Lucas McDonals</nombre>
+                <rut>828</rut>
+            </apoderado>
+            <asistencia>66</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carl Danielez</nombre>
+            <rut>878</rut>
+            <apoderado>
+                <nombre>Vanessa Heinz</nombre>
+                <rut>210</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jessica Catalán</nombre>
+            <rut>891</rut>
+            <apoderado>
+                <nombre>Daniel Jacdaniels</nombre>
+                <rut>611</rut>
+            </apoderado>
+            <asistencia>73</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Fabio Esparza</nombre>
+            <rut>744</rut>
+            <apoderado>
+                <nombre>Jannette Catalán</nombre>
+                <rut>980</rut>
+            </apoderado>
+            <asistencia>68</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Esparza</nombre>
+            <rut>356</rut>
+            <apoderado>
+                <nombre>Marcos Curvanez</nombre>
+                <rut>751</rut>
+            </apoderado>
+            <asistencia>91</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Burgos</nombre>
+            <rut>183</rut>
+            <apoderado>
+                <nombre>Alberto Danielez</nombre>
+                <rut>514</rut>
+            </apoderado>
+            <asistencia>94</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>Macarena Salvatierra</nombre>
+            <rut>805</rut>
+            <asignaturaP>
+                <materia>Ciencias</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+    <cursosb>
+        <nivel>8</nivel>
+        <letra>B</letra>
+        <estudiante>
+            <nombre>Johannes Angulo</nombre>
+            <rut>919</rut>
+            <apoderado>
+                <nombre>Alexis Salvatore</nombre>
+                <rut>659</rut>
+            </apoderado>
+            <asistencia>55</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Angulo</nombre>
+            <rut>400</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>356</rut>
+            </apoderado>
+            <asistencia>83</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Johannes Palma</nombre>
+            <rut>265</rut>
+            <apoderado>
+                <nombre>Alex Balentines</nombre>
+                <rut>463</rut>
+            </apoderado>
+            <asistencia>93</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Manueh Papasthadopoulos</nombre>
+            <rut>197</rut>
+            <apoderado>
+                <nombre>Pedro Angulo</nombre>
+                <rut>829</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jack Zambrotta</nombre>
+            <rut>612</rut>
+            <apoderado>
+                <nombre>Lucas Balentines</nombre>
+                <rut>225</rut>
+            </apoderado>
+            <asistencia>77</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Fischio</nombre>
+            <rut>689</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>356</rut>
+            </apoderado>
+            <asistencia>95</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Marco Morenazo</nombre>
+            <rut>131</rut>
+            <apoderado>
+                <nombre>Jannette Maxx</nombre>
+                <rut>475</rut>
+            </apoderado>
+            <asistencia>89</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Salvatore</nombre>
+            <rut>965</rut>
+            <apoderado>
+                <nombre>Carlos Balentines</nombre>
+                <rut>898</rut>
+            </apoderado>
+            <asistencia>80</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Morenazo</nombre>
+            <rut>621</rut>
+            <apoderado>
+                <nombre>Alex Madrid</nombre>
+                <rut>776</rut>
+            </apoderado>
+            <asistencia>34</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Morenazo</nombre>
+            <rut>114</rut>
+            <apoderado>
+                <nombre>Lucas Balentines</nombre>
+                <rut>225</rut>
+            </apoderado>
+            <asistencia>64</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maximiliano Esparza</nombre>
+            <rut>594</rut>
+            <apoderado>
+                <nombre>Carlos Balentines</nombre>
+                <rut>898</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Catalán</nombre>
+            <rut>897</rut>
+            <apoderado>
+                <nombre>Pedro Angulo</nombre>
+                <rut>829</rut>
+            </apoderado>
+            <asistencia>98</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Maxx</nombre>
+            <rut>722</rut>
+            <apoderado>
+                <nombre>Lucila Salvatore</nombre>
+                <rut>645</rut>
+            </apoderado>
+            <asistencia>71</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Catalán</nombre>
+            <rut>931</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>356</rut>
+            </apoderado>
+            <asistencia>51</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Salvatore</nombre>
+            <rut>557</rut>
+            <apoderado>
+                <nombre>Lionel Salvatore</nombre>
+                <rut>716</rut>
+            </apoderado>
+            <asistencia>41</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Curvanez</nombre>
+            <rut>944</rut>
+            <apoderado>
+                <nombre>Pablo Catalán</nombre>
+                <rut>814</rut>
+            </apoderado>
+            <asistencia>49</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mariano Danielez</nombre>
+            <rut>643</rut>
+            <apoderado>
+                <nombre>Pablo Catalán</nombre>
+                <rut>814</rut>
+            </apoderado>
+            <asistencia>51</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Morenazo</nombre>
+            <rut>997</rut>
+            <apoderado>
+                <nombre>Pedro Angulo</nombre>
+                <rut>829</rut>
+            </apoderado>
+            <asistencia>92</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jucliouco Salvatore</nombre>
+            <rut>448</rut>
+            <apoderado>
+                <nombre>Daniel Catalán</nombre>
+                <rut>659</rut>
+            </apoderado>
+            <asistencia>40</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Gabriel Schwansteigger</nombre>
+            <rut>327</rut>
+            <apoderado>
+                <nombre>Daniel Curvanez</nombre>
+                <rut>356</rut>
+            </apoderado>
+            <asistencia>71</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jorge Burgos</nombre>
+            <rut>713</rut>
+            <apoderado>
+                <nombre>Jannette Maxx</nombre>
+                <rut>475</rut>
+            </apoderado>
+            <asistencia>85</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Carlos Burgos</nombre>
+            <rut>249</rut>
+            <apoderado>
+                <nombre>Alexis Danielez</nombre>
+                <rut>542</rut>
+            </apoderado>
+            <asistencia>99</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Angulo</nombre>
+            <rut>769</rut>
+            <apoderado>
+                <nombre>Carlos Balentines</nombre>
+                <rut>898</rut>
+            </apoderado>
+            <asistencia>33</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Inés Beron</nombre>
+            <rut>428</rut>
+            <apoderado>
+                <nombre>Pedro Angulo</nombre>
+                <rut>829</rut>
+            </apoderado>
+            <asistencia>53</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Bryan Lee</nombre>
+            <rut>275</rut>
+            <apoderado>
+                <nombre>Lionel Salvatore</nombre>
+                <rut>716</rut>
+            </apoderado>
+            <asistencia>65</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Mario Balentines</nombre>
+            <rut>721</rut>
+            <apoderado>
+                <nombre>Lionel Salvatore</nombre>
+                <rut>716</rut>
+            </apoderado>
+            <asistencia>95</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria Heinz</nombre>
+            <rut>862</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>367</rut>
+            </apoderado>
+            <asistencia>90</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Lucy Balentines</nombre>
+            <rut>637</rut>
+            <apoderado>
+                <nombre>Lionel Salvatore</nombre>
+                <rut>716</rut>
+            </apoderado>
+            <asistencia>67</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Jamna Maxx</nombre>
+            <rut>890</rut>
+            <apoderado>
+                <nombre>Mariana Zambrotta</nombre>
+                <rut>367</rut>
+            </apoderado>
+            <asistencia>88</asistencia>
+        </estudiante>
+        <estudiante>
+            <nombre>Flabio Lee</nombre>
+            <rut>569</rut>
+            <apoderado>
+                <nombre>Pedro Angulo</nombre>
+                <rut>829</rut>
+            </apoderado>
+            <asistencia>52</asistencia>
+        </estudiante>
+        <profesor>
+            <nombre>John Paul</nombre>
+            <rut>820</rut>
+            <asignaturaP>
+                <materia>Ciencias</materia>
+            </asignaturaP>
+        </profesor>
+        <asignatura>
+            <materia>Matemáticas</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Lenguaje</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Historia</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Inglés</materia>
+        </asignatura>
+        <asignatura>
+            <materia>Ciencias</materia>
+        </asignatura>
+    </cursosb>
+</Colegio>
