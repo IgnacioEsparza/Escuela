@@ -16,7 +16,7 @@ import javax.xml.bind.annotation.XmlType;
  * @author Ignacio Esparza
  */
 @XmlRootElement(name="Estudiante")
-@XmlType(propOrder = {"nombre","rut","anotaciones","apoderado","curso","asistencia","asignatura","notas"})
+@XmlType(propOrder = {"nombre","rut","anotaciones","apoderado","curso","asistencia","asignatura"})
 
 public class Estudiante {
 
@@ -26,19 +26,13 @@ public class Estudiante {
     private Apoderado apoderado;
     private Curso curso;
     private int asistencia;
-    double[] notas;
-    ArrayList<Asignatura> asignatura = new ArrayList();
-
-    public Estudiante(String nombre, String rut, Apoderado apoderado) {
+    Asignatura [] asignatura;
+    
+    public Estudiante(String nombre, String rut, Apoderado apoderado, Asignatura[] asignatura) {
         this.nombre = nombre;
         this.rut = rut;
         this.apoderado = apoderado;
-
-    }
-
-    public Estudiante(String nombre, String rut) {
-        this.nombre = nombre;
-        this.rut = rut;
+        this.asignatura = asignatura;
     }
     
     @XmlElement(name="asistencia")
@@ -52,26 +46,6 @@ public class Estudiante {
         this.asistencia = asistencia;
     }
 
-    public void setNotas(double[] notas) {
-        this.notas = notas;
-    }
-    
-    
-    /*public double[] setNotas(int n1, int n2, int n3, int n4, int n5) {
-        this.notas = new double[5];
-        notas[0] = n1;
-        notas[1] = n2;
-        notas[2] = n3;
-        notas[3] = n4;
-        notas[4] = n5;
-        return notas;
-    }*/
-    
-    @XmlElement(name="notas")
-    public double[] getNotas() {
-        return notas;
-    }
-    
     @XmlElement(name="anotaciones")
     public String getAnotaciones() {
         return anotaciones;
@@ -100,7 +74,7 @@ public class Estudiante {
         return apoderado;
     }
     @XmlElement(name="asignatura")
-    public ArrayList<Asignatura> getAsignatura() {
+    public Asignatura [] getAsignatura() {
         return asignatura;
     }
     @XmlElement(name="curso")

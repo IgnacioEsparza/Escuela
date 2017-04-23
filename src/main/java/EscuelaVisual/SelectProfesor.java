@@ -21,9 +21,10 @@ public class SelectProfesor extends javax.swing.JFrame {
 
     public SelectProfesor() {
         initComponents();
+        setLocationRelativeTo(null);
+        setTitle("Principal");
         nombresProfes();
     }
-
 
     public void nombresProfes() {
         ProfesMate.addItem(CA[0].getProfesor().getNombre());
@@ -44,8 +45,9 @@ public class SelectProfesor extends javax.swing.JFrame {
         ProfesCiencias.addItem(CB[7].getProfesor().getNombre());
 
     }
-    
-    public void ProfesMateSeleccion (){
+
+    public void ProfesMateSeleccion() {
+        TablaRegistro tr = new TablaRegistro();
         if (ProfesMate.getSelectedIndex() == 1) {
             ic.llenadoInfoCurso(CA[0]);
             ic.setVisible(true);
@@ -68,6 +70,73 @@ public class SelectProfesor extends javax.swing.JFrame {
         }
         if (ProfesMate.getSelectedIndex() == 5) {
             ic.llenadoInfoCurso(CA[4]);
+            ic.setVisible(true);
+            dispose();
+        }
+    }
+
+    public void ProfesLenguaSeleccion() {
+        if (ProfesLengua.getSelectedIndex() == 1) {
+            ic.llenadoInfoCurso(CA[5]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesLengua.getSelectedIndex() == 2) {
+            ic.llenadoInfoCurso(CA[6]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesLengua.getSelectedIndex() == 3) {
+            ic.llenadoInfoCurso(CA[7]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesLengua.getSelectedIndex() == 4) {
+            ic.llenadoInfoCurso(CB[0]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesLengua.getSelectedIndex() == 5) {
+            ic.llenadoInfoCurso(CB[1]);
+            ic.setVisible(true);
+            dispose();
+        }
+    }
+
+    public void ProfesHistoriaSeleccion() {
+        if (ProfesHistoria.getSelectedIndex() == 1) {
+            ic.llenadoInfoCurso(CB[2]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesHistoria.getSelectedIndex() == 2) {
+            ic.llenadoInfoCurso(CB[3]);
+            ic.setVisible(true);
+            dispose();
+        }
+    }
+
+    public void ProfesInglesSeleccion() {
+        if (ProfesIngles.getSelectedIndex() == 1) {
+            ic.llenadoInfoCurso(CB[4]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesIngles.getSelectedIndex() == 2) {
+            ic.llenadoInfoCurso(CB[5]);
+            ic.setVisible(true);
+            dispose();
+        }
+    }
+
+    public void ProfesCienciasSeleccion() {
+        if (ProfesCiencias.getSelectedIndex() == 1) {
+            ic.llenadoInfoCurso(CB[6]);
+            ic.setVisible(true);
+            dispose();
+        }
+        if (ProfesCiencias.getSelectedIndex() == 2) {
+            ic.llenadoInfoCurso(CB[7]);
             ic.setVisible(true);
             dispose();
         }
@@ -98,7 +167,7 @@ public class SelectProfesor extends javax.swing.JFrame {
         Saludo = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
-        jButton1 = new javax.swing.JButton();
+        SalirButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -139,12 +208,27 @@ public class SelectProfesor extends javax.swing.JFrame {
         jLabel5.setText("Ciencias");
 
         ProfesHistoria.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Seleccione su Nombre" }));
+        ProfesHistoria.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ProfesHistoriaActionPerformed(evt);
+            }
+        });
 
         ProfesCiencias.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Seleccione su Nombre" }));
+        ProfesCiencias.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ProfesCienciasActionPerformed(evt);
+            }
+        });
 
         LabelIngles.setText("Inglés");
 
         ProfesIngles.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Seleccione su Nombre" }));
+        ProfesIngles.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ProfesInglesActionPerformed(evt);
+            }
+        });
 
         Saludo.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         Saludo.setText("                          ");
@@ -159,10 +243,10 @@ public class SelectProfesor extends javax.swing.JFrame {
         jTextArea1.setText("Se generará un\nreporte con : Notas,\nEvaluaciones,\nAnotaciones,\nPlanificaciones.\n");
         jScrollPane1.setViewportView(jTextArea1);
 
-        jButton1.setText("Salir");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        SalirButton.setText("Salir");
+        SalirButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                SalirButtonActionPerformed(evt);
             }
         });
 
@@ -203,14 +287,14 @@ public class SelectProfesor extends javax.swing.JFrame {
                 .addGap(59, 59, 59))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jButton1)
+                .addComponent(SalirButton)
                 .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jButton1)
+                .addComponent(SalirButton)
                 .addGap(26, 26, 26)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel1)
@@ -256,20 +340,34 @@ public class SelectProfesor extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void GenReporteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_GenReporteActionPerformed
-        // TODO add your handling code here:
+        SelectCursos sc = new SelectCursos();
+        sc.setVisible(true);
+        dispose();
     }//GEN-LAST:event_GenReporteActionPerformed
 
     private void ProfesMateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProfesMateActionPerformed
         ProfesMateSeleccion();
     }//GEN-LAST:event_ProfesMateActionPerformed
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void SalirButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SalirButtonActionPerformed
         System.exit(0);
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }//GEN-LAST:event_SalirButtonActionPerformed
 
     private void ProfesLenguaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProfesLenguaActionPerformed
-        // TODO add your handling code here:
+        ProfesLenguaSeleccion();
     }//GEN-LAST:event_ProfesLenguaActionPerformed
+
+    private void ProfesHistoriaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProfesHistoriaActionPerformed
+        ProfesHistoriaSeleccion();
+    }//GEN-LAST:event_ProfesHistoriaActionPerformed
+
+    private void ProfesCienciasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProfesCienciasActionPerformed
+        ProfesCienciasSeleccion();
+    }//GEN-LAST:event_ProfesCienciasActionPerformed
+
+    private void ProfesInglesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProfesInglesActionPerformed
+        ProfesInglesSeleccion();
+    }//GEN-LAST:event_ProfesInglesActionPerformed
 
     /**
      * @param args the command line arguments
@@ -316,8 +414,8 @@ public class SelectProfesor extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> ProfesIngles;
     private javax.swing.JComboBox<String> ProfesLengua;
     private javax.swing.JComboBox<String> ProfesMate;
+    private javax.swing.JButton SalirButton;
     private javax.swing.JLabel Saludo;
-    private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;

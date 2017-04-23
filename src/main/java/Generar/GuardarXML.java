@@ -22,13 +22,6 @@ import javax.xml.bind.Unmarshaller;
 public class GuardarXML {
 
     public void guardar() throws JAXBException, IOException {
-        /*GenerarCursos gc = new GenerarCursos();
-        Curso[] CA = gc.CursosA();
-        Curso[] CB = gc.CursosB();
-        JAXBContext context = JAXBContext.newInstance(Curso.class);
-        Marshaller mar = context.createMarshaller();
-        mar.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
-        mar.marshal(CA[0], new FileWriter("Curso.xml"));*/
         
         JAXBContext context = JAXBContext.newInstance(Colegio.class);
         Marshaller mar = context.createMarshaller();

@@ -30,8 +30,7 @@ public class Apoderado {
     }
     
     public void ApoderadoDe(Estudiante e){
-        Estudiante est = new Estudiante(e.getNombre(),e.getRut());
-        pupilo.add(est);
+        pupilo.add(e);
     }
     public String impPupilos(){
         String pupilos="";
@@ -57,7 +56,7 @@ public class Apoderado {
 
     @Override
     public String toString() {
-        return "Nombre :" + nombre + "\nRut :" + rut;
+        return "Nombre :" + nombre + "\nRut :" + rut+"\nPupilo : "+pupilo;
     }
     
     

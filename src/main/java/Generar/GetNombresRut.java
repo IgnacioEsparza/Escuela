@@ -61,8 +61,5 @@ public class GetNombresRut {
         return String.valueOf(ale1);
     }
     
-    public int numRandom(){
-        return r.nextInt(19);
-    }
     
 }

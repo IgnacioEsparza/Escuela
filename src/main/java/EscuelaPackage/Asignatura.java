@@ -5,7 +5,7 @@
  */
 package EscuelaPackage;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
@@ -14,10 +14,11 @@ import javax.xml.bind.annotation.XmlType;
  * @author Ignacio Esparza
  */
 @XmlRootElement(name="Asignatura")
-@XmlType(propOrder={"materia","actividades"})
+@XmlType(propOrder={"materia","notas","actividades"})
 public class Asignatura {
 
     private String materia;
+    private double [] notas;
     private Planificacion [] actividades;
 
     public Asignatura() {
@@ -27,42 +28,19 @@ public class Asignatura {
         this.materia = materia;
     }
 
-    public Asignatura(String materia, Planificacion[] actividades) {
+    public Asignatura(String materia, double[] notas, Planificacion[] actividades) {
         this.materia = materia;
+        this.notas = notas;
         this.actividades = actividades;
     }
     
-    public ArrayList<Asignatura> asignProfes() {
-        ArrayList<Asignatura> asigna = new ArrayList();
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Historia"));
-        asigna.add(new Asignatura("Historia"));
-        asigna.add(new Asignatura("Inglés"));
-        asigna.add(new Asignatura("Inglés"));
-        asigna.add(new Asignatura("Ciencias"));
-        asigna.add(new Asignatura("Ciencias"));
-
-        return asigna;
+    @XmlElement(name="notas")
+    public double[] getNotas() {
+        return notas;
     }
-    
-    public ArrayList<Asignatura> asignatura() {
-        ArrayList<Asignatura> asigna = new ArrayList();
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Historia"));
-        asigna.add(new Asignatura("Inglés"));
-        asigna.add(new Asignatura("Ciencias"));
 
-        return asigna;
+    public void setNotas(double[] notas) {
+        this.notas = notas;
     }
     
     @XmlElement(name="materia")
@@ -74,11 +52,13 @@ public class Asignatura {
     public Planificacion[] getActividades() {
         return actividades;
     }
-    
+
     @Override
     public String toString() {
-        return materia;
+        return "Materia : " + materia + "\nActividades : " + Arrays.toString(actividades);
     }
+    
+    
     
     
 }
