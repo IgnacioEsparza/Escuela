@@ -15,7 +15,7 @@ import javax.xml.bind.annotation.XmlType;
  *
  * @author Ignacio Esparza
  */
-@XmlRootElement(name="Estudiante")
+//@XmlRootElement(name="Estudiante")
 @XmlType(propOrder = {"nombre","rut","anotaciones","apoderado","curso","asistencia","asignatura"})
 
 public class Estudiante {

@@ -7,8 +7,8 @@ package EscuelaPackage;
 
 import Generar.GuardarXML;
 import EscuelaVisual.SelectProfesor;
-import EscuelaVisual.TablaRegistro;
 import java.io.IOException;
+import java.util.Arrays;
 import javax.xml.bind.JAXBException;
 
 /**
@@ -23,20 +23,16 @@ public class EscuelaProyecto {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws JAXBException, IOException {
-       
+
         GuardarXML g = new GuardarXML();
         g.guardar();
+        Colegio c = g.cargar();
+        System.out.println(c);
         
-        /*TablaRegistro t = new TablaRegistro();
-        t.setVisible(true);*/
-        //g.cargar();
-       SelectProfesor s = new SelectProfesor();
-        s.setVisible(true);
-        
-        
-        
+        //SelectProfesor s = new SelectProfesor();
+        //s.setVisible(true);
+
         //Principal principal = new Principal();
         //principal.setVisible(true);
-        
     }
 }

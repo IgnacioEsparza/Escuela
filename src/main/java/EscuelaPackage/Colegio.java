@@ -5,6 +5,7 @@
  */
 package EscuelaPackage;
 
+import java.util.Arrays;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
@@ -34,6 +35,11 @@ public class Colegio {
     @XmlElement(name="cursosb")
     public Curso[] getCursosb() {
         return cursosb;
+    }
+
+    @Override
+    public String toString() {
+        return "Colegio{" + "cursosa=" + Arrays.toString(cursosa) + ", cursosb=" + Arrays.toString(cursosb) + '}';
     }
     
     

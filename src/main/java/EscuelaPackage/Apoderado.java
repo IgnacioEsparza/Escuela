@@ -14,7 +14,7 @@ import javax.xml.bind.annotation.XmlType;
  *
  * @author Ignacio Esparza
  */
-@XmlRootElement(name="Apoderado")
+//@XmlRootElement(name="Apoderado")
 @XmlType(propOrder={"nombre","rut","pupilo"})
 public class Apoderado {
     private String nombre;

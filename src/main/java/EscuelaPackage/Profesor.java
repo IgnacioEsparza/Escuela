@@ -13,7 +13,7 @@ import javax.xml.bind.annotation.XmlType;
  *
  * @author Ignacio Esparza
  */
-@XmlRootElement(name = "Profesor")
+//@XmlRootElement(name = "Profesor")
 @XmlType(propOrder = {"nombre", "rut", "asignaturaP"})
 public class Profesor {
 

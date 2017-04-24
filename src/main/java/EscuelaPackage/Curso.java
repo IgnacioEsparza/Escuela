@@ -10,7 +10,7 @@ import javax.xml.bind.annotation.XmlType;
  *
  * @author Ignacio Esparza
  */
-@XmlRootElement(name="Curso")
+//@XmlRootElement(name="Curso")
 @XmlType(propOrder={"nivel","letra","estudiante","profesor","asignaturaC"})
 public class Curso {
 

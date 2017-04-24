@@ -13,7 +13,7 @@ import javax.xml.bind.annotation.XmlType;
  *
  * @author Ignacio Esparza
  */
-@XmlRootElement(name="Planificacion")
+//@XmlRootElement(name="Planificacion")
 @XmlType(propOrder={"actividad"})
 public class Planificacion {
     private String actividad;

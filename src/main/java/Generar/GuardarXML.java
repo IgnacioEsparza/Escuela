@@ -6,9 +6,8 @@
 package Generar;
 
 import EscuelaPackage.Colegio;
-import com.sun.xml.internal.ws.util.Pool;
 import java.io.File;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -28,13 +27,14 @@ public class GuardarXML {
         mar.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         GenerarCursos gc = new GenerarCursos();
         Colegio college = new Colegio(gc.CursosA(), gc.CursosB());
-        mar.marshal(college, new FileWriter("Colegio.xml"));
+        mar.marshal(college, new FileOutputStream(("Colegio.xml")) );
 
     }
     
-    public void cargar() throws JAXBException{
+    public Colegio cargar() throws JAXBException{
         JAXBContext context = JAXBContext.newInstance(Colegio.class);
         Unmarshaller unma = context.createUnmarshaller();
         Colegio college = (Colegio) unma.unmarshal(new File("Colegio.xml"));
+        return college;
     }
 }
