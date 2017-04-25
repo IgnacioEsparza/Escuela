@@ -17,7 +17,7 @@ import javax.xml.bind.annotation.XmlType;
 public class Asignatura {
 
     private String materia;
-    private double [] notas;
+    private Notas[] notas;
     private Planificacion [] actividades;
 
     public Asignatura() {
@@ -32,17 +32,17 @@ public class Asignatura {
         this.actividades = actividades;
     }
 
-    public Asignatura(String materia, double[] notas) {
+    public Asignatura(String materia, Notas[] notas) {
         this.materia = materia;
         this.notas = notas;
     }
     
     @XmlElement(name="notas")
-    public double[] getNotas() {
+    public Notas[] getNotas() {
         return notas;
     }
 
-    public void setNotas(double[] notas) {
+    public void setNotas(Notas[] notas) {
         this.notas = notas;
     }
 

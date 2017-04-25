@@ -8,6 +8,7 @@ package Generar;
 import EscuelaPackage.Apoderado;
 import EscuelaPackage.Asignatura;
 import EscuelaPackage.Estudiante;
+import EscuelaPackage.Notas;
 import EscuelaPackage.Planificacion;
 import EscuelaPackage.Profesor;
 import java.util.ArrayList;
@@ -25,10 +26,10 @@ public class GenerarPersonas {
     public GenerarPersonas() {
     }
 
-    public double[] notasRandom() {
-        double[] notas = new double[5];
+    public Notas[] notasRandom() {
+        Notas[] notas = new Notas[5];
         for (int i = 0; i < notas.length; i++) {
-            notas[i] = ra.nextInt(6) + 2;
+            notas[i] = new Notas(ra.nextInt(6) + 2);
         }
         return notas;
     }

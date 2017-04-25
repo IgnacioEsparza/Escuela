@@ -28,7 +28,7 @@ public class GuardarXML {
         mar.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         GenerarCursos gc = new GenerarCursos();
         Colegio college = new Colegio(gc.CursosA(), gc.CursosB());
-        mar.marshal(college, new FileOutputStream(("ColegioInicial.xml")));
+        mar.marshal(college, new FileOutputStream(("Colegio.xml")));
 
     }
 

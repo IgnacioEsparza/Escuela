@@ -13,7 +13,7 @@ import java.util.Arrays;
 import javax.xml.bind.JAXBException;
 
 /**
- * @version 1.6.24
+ * @version 1.7.24
  * @author Ignacio Esparza
  */
 public class EscuelaProyecto {
@@ -25,21 +25,14 @@ public class EscuelaProyecto {
      */
     public static void main(String[] args) throws JAXBException, IOException {
         
-        /*GuardarXML g = new GuardarXML();
-        //g.generarCursos();
-        Colegio col = g.cargar();
+        GuardarXML g = new GuardarXML();
+        g.generarCursos();
+        //Colegio col = g.cargar();
         
-        Planificacion [] plan = new Planificacion[10];
-        for (int i = 0; i < 10; i++) {
-            plan[i]= new Planificacion("Actividad :"+i);
-        }
-        col.cursosa[0].getProfesor().setNombre("Venedictino Zambrolatti");
-        col.getCursosa()[0].getAsignaturaC()[0].setActividades(plan);
+       // g.guardar(col);
         
-        g.guardar(col);*/
-        
-        SelectProfesor sp = new SelectProfesor();
-        sp.setVisible(true);
+        //SelectProfesor sp = new SelectProfesor();
+        //sp.setVisible(true);
         
         
     }
