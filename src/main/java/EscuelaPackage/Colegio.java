@@ -19,10 +19,11 @@ import javax.xml.bind.annotation.XmlType;
 public class Colegio {
     Curso [] cursosa;
     Curso [] cursosb;
+    //Curso [] TCursos;
 
     public Colegio() {
     }
-
+    
     public void setCursosa(Curso[] cursosa) {
         this.cursosa = cursosa;
     }
@@ -30,6 +31,18 @@ public class Colegio {
     public void setCursosb(Curso[] cursosb) {
         this.cursosb = cursosb;
     }
+    /*
+    public Colegio(Curso[] TCursos) {
+        this.TCursos = TCursos;
+    }
+
+    public Curso[] getTCursos() {
+        return TCursos;
+    }
+
+    public void setTCursos(Curso[] TCursos) {
+        this.TCursos = TCursos;
+    }*/
     
     public Colegio(Curso[] cursosa, Curso[] cursosb) {
         this.cursosa = cursosa;

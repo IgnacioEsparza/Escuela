@@ -11,7 +11,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
 /**
- *
+ * Clase crea un objeto Apoderado
  * @author Ignacio Esparza
  */
 //@XmlRootElement(name="Apoderado")

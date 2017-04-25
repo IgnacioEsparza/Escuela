@@ -57,23 +57,23 @@ public class SelectProfesor extends javax.swing.JFrame {
             dispose();
         }
         if (ProfesMate.getSelectedIndex() == 2) {
-            ic.llenadoInfoCurso(CA[1]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[1],1);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesMate.getSelectedIndex() == 3) {
-            ic.llenadoInfoCurso(CA[2]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[2],2);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesMate.getSelectedIndex() == 4) {
-            ic.llenadoInfoCurso(CA[3]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[3],3);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesMate.getSelectedIndex() == 5) {
-            ic.llenadoInfoCurso(CA[4]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[4],4);
+            oc.setVisible(true);
             dispose();
         }
     }
@@ -85,62 +85,62 @@ public class SelectProfesor extends javax.swing.JFrame {
             dispose();
         }
         if (ProfesLengua.getSelectedIndex() == 2) {
-            ic.llenadoInfoCurso(CA[6]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[6],6);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesLengua.getSelectedIndex() == 3) {
-            ic.llenadoInfoCurso(CA[7]);
-            ic.setVisible(true);
+            oc.SelectCurso(CA[7],7);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesLengua.getSelectedIndex() == 4) {
-            ic.llenadoInfoCurso(CB[0]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[0],0);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesLengua.getSelectedIndex() == 5) {
-            ic.llenadoInfoCurso(CB[1]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[1],1);
+            oc.setVisible(true);
             dispose();
         }
     }
 
     public void ProfesHistoriaSeleccion() {
         if (ProfesHistoria.getSelectedIndex() == 1) {
-            ic.llenadoInfoCurso(CB[2]);
-            ic.setVisible(true);
+           oc.SelectCurso(CB[2],2);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesHistoria.getSelectedIndex() == 2) {
-            ic.llenadoInfoCurso(CB[3]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[3],3);
+            oc.setVisible(true);
             dispose();
         }
     }
 
     public void ProfesInglesSeleccion() {
         if (ProfesIngles.getSelectedIndex() == 1) {
-            ic.llenadoInfoCurso(CB[4]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[4],4);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesIngles.getSelectedIndex() == 2) {
-            ic.llenadoInfoCurso(CB[5]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[5],5);
+            oc.setVisible(true);
             dispose();
         }
     }
 
     public void ProfesCienciasSeleccion() {
         if (ProfesCiencias.getSelectedIndex() == 1) {
-            ic.llenadoInfoCurso(CB[6]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[6],6);
+            oc.setVisible(true);
             dispose();
         }
         if (ProfesCiencias.getSelectedIndex() == 2) {
-            ic.llenadoInfoCurso(CB[7]);
-            ic.setVisible(true);
+            oc.SelectCurso(CB[7],7);
+            oc.setVisible(true);
             dispose();
         }
     }

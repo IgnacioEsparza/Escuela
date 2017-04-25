@@ -10,7 +10,7 @@
                 <nombre>Roberto Catalán</nombre>
                 <rut>587</rut>
             </apoderado>
-            <asistencia>81</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -109,7 +109,7 @@
                 <nombre>Lucila Angulo</nombre>
                 <rut>714</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>128</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -208,7 +208,7 @@
                 <nombre>Cristiano Angulo</nombre>
                 <rut>782</rut>
             </apoderado>
-            <asistencia>169</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -307,7 +307,7 @@
                 <nombre>Daniel Burgos</nombre>
                 <rut>693</rut>
             </apoderado>
-            <asistencia>106</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -406,7 +406,7 @@
                 <nombre>Cristiano Papasthadopoulos</nombre>
                 <rut>613</rut>
             </apoderado>
-            <asistencia>124</asistencia>
+            <asistencia>137</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -505,7 +505,7 @@
                 <nombre>Marcos Papasthadopoulos</nombre>
                 <rut>122</rut>
             </apoderado>
-            <asistencia>49</asistencia>
+            <asistencia>72</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -604,7 +604,7 @@
                 <nombre>Alex Heinz</nombre>
                 <rut>513</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>115</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -703,7 +703,7 @@
                 <nombre>Cristiano Angulo</nombre>
                 <rut>782</rut>
             </apoderado>
-            <asistencia>105</asistencia>
+            <asistencia>65</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -802,7 +802,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>725</rut>
             </apoderado>
-            <asistencia>151</asistencia>
+            <asistencia>91</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -901,7 +901,7 @@
                 <nombre>Daniel Burgos</nombre>
                 <rut>693</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>83</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1000,7 +1000,7 @@
                 <nombre>Marcos Papasthadopoulos</nombre>
                 <rut>122</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1099,7 +1099,7 @@
                 <nombre>Ignacio Balentines</nombre>
                 <rut>989</rut>
             </apoderado>
-            <asistencia>114</asistencia>
+            <asistencia>105</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1198,7 +1198,7 @@
                 <nombre>Daniel Burgos</nombre>
                 <rut>693</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1297,7 +1297,7 @@
                 <nombre>Roberto Catalán</nombre>
                 <rut>587</rut>
             </apoderado>
-            <asistencia>154</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1396,7 +1396,7 @@
                 <nombre>Cristiano Papasthadopoulos</nombre>
                 <rut>665</rut>
             </apoderado>
-            <asistencia>143</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1495,7 +1495,7 @@
                 <nombre>Marcos Papasthadopoulos</nombre>
                 <rut>122</rut>
             </apoderado>
-            <asistencia>45</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1594,7 +1594,7 @@
                 <nombre>Vanessa Balentines</nombre>
                 <rut>665</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1693,7 +1693,7 @@
                 <nombre>Cristiano Angulo</nombre>
                 <rut>782</rut>
             </apoderado>
-            <asistencia>76</asistencia>
+            <asistencia>138</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1792,7 +1792,7 @@
                 <nombre>Lucila Angulo</nombre>
                 <rut>714</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>60</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1891,7 +1891,7 @@
                 <nombre>Marcos Papasthadopoulos</nombre>
                 <rut>122</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -1990,7 +1990,7 @@
                 <nombre>Ignacio Balentines</nombre>
                 <rut>989</rut>
             </apoderado>
-            <asistencia>46</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2089,7 +2089,7 @@
                 <nombre>Jannette Madrid</nombre>
                 <rut>155</rut>
             </apoderado>
-            <asistencia>38</asistencia>
+            <asistencia>160</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2188,7 +2188,7 @@
                 <nombre>Alberto Heinz</nombre>
                 <rut>792</rut>
             </apoderado>
-            <asistencia>138</asistencia>
+            <asistencia>132</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2287,7 +2287,7 @@
                 <nombre>Daniel Madrid</nombre>
                 <rut>853</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>31</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2386,7 +2386,7 @@
                 <nombre>Marcos Zambrotta</nombre>
                 <rut>400</rut>
             </apoderado>
-            <asistencia>129</asistencia>
+            <asistencia>36</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2485,7 +2485,7 @@
                 <nombre>Ignacio Balentines</nombre>
                 <rut>989</rut>
             </apoderado>
-            <asistencia>154</asistencia>
+            <asistencia>104</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2584,7 +2584,7 @@
                 <nombre>Cristiano Angulo</nombre>
                 <rut>782</rut>
             </apoderado>
-            <asistencia>149</asistencia>
+            <asistencia>135</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2683,7 +2683,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>725</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>79</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2782,7 +2782,7 @@
                 <nombre>Roberto Catalán</nombre>
                 <rut>587</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>175</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2881,7 +2881,7 @@
                 <nombre>Daniel Burgos</nombre>
                 <rut>693</rut>
             </apoderado>
-            <asistencia>67</asistencia>
+            <asistencia>168</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -2986,16 +2986,16 @@
                 <actividad>Unidad 1</actividad>
             </actividades>
             <actividades>
-                <actividad>Unidad 2</actividad>
+                <actividad>Unidad Operaciones Aritméticas</actividad>
             </actividades>
             <actividades>
-                <actividad>Prueba 1</actividad>
+                <actividad>Prueba Geometría</actividad>
             </actividades>
             <actividades>
-                <actividad>Revision Cuaderno 1</actividad>
+                <actividad>Revision Cuaderno Geometría</actividad>
             </actividades>
             <actividades>
-                <actividad>Unidad 3</actividad>
+                <actividad>ALberto</actividad>
             </actividades>
             <actividades>
                 <actividad>Unidad 4 </actividad>
@@ -3156,7 +3156,7 @@
                 <nombre>Alberto Palma</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>110</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3255,7 +3255,7 @@
                 <nombre>Daniel Heinz</nombre>
                 <rut>462</rut>
             </apoderado>
-            <asistencia>125</asistencia>
+            <asistencia>43</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3354,7 +3354,7 @@
                 <nombre>Felipe Fischio</nombre>
                 <rut>922</rut>
             </apoderado>
-            <asistencia>138</asistencia>
+            <asistencia>125</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3453,7 +3453,7 @@
                 <nombre>Pablo Curvanez</nombre>
                 <rut>398</rut>
             </apoderado>
-            <asistencia>84</asistencia>
+            <asistencia>73</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3552,7 +3552,7 @@
                 <nombre>Romero Schwansteigger</nombre>
                 <rut>279</rut>
             </apoderado>
-            <asistencia>91</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3651,7 +3651,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>452</rut>
             </apoderado>
-            <asistencia>94</asistencia>
+            <asistencia>132</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3750,7 +3750,7 @@
                 <nombre>Mariana Maxx</nombre>
                 <rut>677</rut>
             </apoderado>
-            <asistencia>82</asistencia>
+            <asistencia>176</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3849,7 +3849,7 @@
                 <nombre>Alberto Palma</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -3948,7 +3948,7 @@
                 <nombre>Romero Schwansteigger</nombre>
                 <rut>279</rut>
             </apoderado>
-            <asistencia>146</asistencia>
+            <asistencia>80</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4047,7 +4047,7 @@
                 <nombre>Daniel Heinz</nombre>
                 <rut>462</rut>
             </apoderado>
-            <asistencia>41</asistencia>
+            <asistencia>163</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4146,7 +4146,7 @@
                 <nombre>Felipe Fischio</nombre>
                 <rut>922</rut>
             </apoderado>
-            <asistencia>122</asistencia>
+            <asistencia>80</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4245,7 +4245,7 @@
                 <nombre>Felipe Curvanez</nombre>
                 <rut>396</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4344,7 +4344,7 @@
                 <nombre>Daniel Heinz</nombre>
                 <rut>462</rut>
             </apoderado>
-            <asistencia>115</asistencia>
+            <asistencia>113</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4443,7 +4443,7 @@
                 <nombre>Juan Catalán</nombre>
                 <rut>262</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>178</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4542,7 +4542,7 @@
                 <nombre>Pedro Fischio</nombre>
                 <rut>730</rut>
             </apoderado>
-            <asistencia>140</asistencia>
+            <asistencia>73</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4641,7 +4641,7 @@
                 <nombre>Vanessa Silva</nombre>
                 <rut>610</rut>
             </apoderado>
-            <asistencia>158</asistencia>
+            <asistencia>113</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4740,7 +4740,7 @@
                 <nombre>Mariana Maxx</nombre>
                 <rut>677</rut>
             </apoderado>
-            <asistencia>152</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4839,7 +4839,7 @@
                 <nombre>Pedro Madrid</nombre>
                 <rut>428</rut>
             </apoderado>
-            <asistencia>144</asistencia>
+            <asistencia>82</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -4938,7 +4938,7 @@
                 <nombre>Pedro Madrid</nombre>
                 <rut>428</rut>
             </apoderado>
-            <asistencia>174</asistencia>
+            <asistencia>148</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5037,7 +5037,7 @@
                 <nombre>Daniel Heinz</nombre>
                 <rut>462</rut>
             </apoderado>
-            <asistencia>126</asistencia>
+            <asistencia>49</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5136,7 +5136,7 @@
                 <nombre>Pedro Madrid</nombre>
                 <rut>428</rut>
             </apoderado>
-            <asistencia>91</asistencia>
+            <asistencia>42</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5235,7 +5235,7 @@
                 <nombre>Daniel Schwansteigger</nombre>
                 <rut>358</rut>
             </apoderado>
-            <asistencia>98</asistencia>
+            <asistencia>91</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5334,7 +5334,7 @@
                 <nombre>Daniel Heinz</nombre>
                 <rut>462</rut>
             </apoderado>
-            <asistencia>61</asistencia>
+            <asistencia>162</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5433,7 +5433,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>452</rut>
             </apoderado>
-            <asistencia>114</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5532,7 +5532,7 @@
                 <nombre>Alberto Palma</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>77</asistencia>
+            <asistencia>33</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5631,7 +5631,7 @@
                 <nombre>Patricio Madrid</nombre>
                 <rut>942</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5730,7 +5730,7 @@
                 <nombre>Felipe Fischio</nombre>
                 <rut>922</rut>
             </apoderado>
-            <asistencia>110</asistencia>
+            <asistencia>128</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5829,7 +5829,7 @@
                 <nombre>Pedro Fischio</nombre>
                 <rut>730</rut>
             </apoderado>
-            <asistencia>119</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -5928,7 +5928,7 @@
                 <nombre>Daniel Schwansteigger</nombre>
                 <rut>358</rut>
             </apoderado>
-            <asistencia>62</asistencia>
+            <asistencia>40</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6027,7 +6027,7 @@
                 <nombre>Cristiano Catalán</nombre>
                 <rut>879</rut>
             </apoderado>
-            <asistencia>81</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6302,7 +6302,7 @@
                 <nombre>Lucas Palma</nombre>
                 <rut>172</rut>
             </apoderado>
-            <asistencia>157</asistencia>
+            <asistencia>63</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6401,7 +6401,7 @@
                 <nombre>Alberto McDonals</nombre>
                 <rut>570</rut>
             </apoderado>
-            <asistencia>106</asistencia>
+            <asistencia>132</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6500,7 +6500,7 @@
                 <nombre>Alberto McDonals</nombre>
                 <rut>570</rut>
             </apoderado>
-            <asistencia>122</asistencia>
+            <asistencia>109</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6599,7 +6599,7 @@
                 <nombre>Roberto Balentines</nombre>
                 <rut>709</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>119</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6698,7 +6698,7 @@
                 <nombre>Daniel Lee</nombre>
                 <rut>979</rut>
             </apoderado>
-            <asistencia>144</asistencia>
+            <asistencia>71</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6797,7 +6797,7 @@
                 <nombre>Alex Morenazo</nombre>
                 <rut>252</rut>
             </apoderado>
-            <asistencia>176</asistencia>
+            <asistencia>136</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6896,7 +6896,7 @@
                 <nombre>Alex Jacdaniels</nombre>
                 <rut>472</rut>
             </apoderado>
-            <asistencia>171</asistencia>
+            <asistencia>83</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -6995,7 +6995,7 @@
                 <nombre>Lucila Catalán</nombre>
                 <rut>930</rut>
             </apoderado>
-            <asistencia>119</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7094,7 +7094,7 @@
                 <nombre>Lucila Schwansteigger</nombre>
                 <rut>390</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>47</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7193,7 +7193,7 @@
                 <nombre>Daniel Lee</nombre>
                 <rut>979</rut>
             </apoderado>
-            <asistencia>32</asistencia>
+            <asistencia>78</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7292,7 +7292,7 @@
                 <nombre>Pablo Salvatore</nombre>
                 <rut>918</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>131</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7391,7 +7391,7 @@
                 <nombre>Alex Morenazo</nombre>
                 <rut>252</rut>
             </apoderado>
-            <asistencia>67</asistencia>
+            <asistencia>53</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7490,7 +7490,7 @@
                 <nombre>Alex Heinz</nombre>
                 <rut>363</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7589,7 +7589,7 @@
                 <nombre>Denisse Catalán</nombre>
                 <rut>621</rut>
             </apoderado>
-            <asistencia>97</asistencia>
+            <asistencia>81</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7688,7 +7688,7 @@
                 <nombre>Alexis Beron</nombre>
                 <rut>368</rut>
             </apoderado>
-            <asistencia>31</asistencia>
+            <asistencia>144</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7787,7 +7787,7 @@
                 <nombre>Alex Jacdaniels</nombre>
                 <rut>472</rut>
             </apoderado>
-            <asistencia>60</asistencia>
+            <asistencia>89</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7886,7 +7886,7 @@
                 <nombre>Alberto McDonals</nombre>
                 <rut>570</rut>
             </apoderado>
-            <asistencia>30</asistencia>
+            <asistencia>44</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -7985,7 +7985,7 @@
                 <nombre>Felipe Beron</nombre>
                 <rut>597</rut>
             </apoderado>
-            <asistencia>43</asistencia>
+            <asistencia>124</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8084,7 +8084,7 @@
                 <nombre>Roberto Danielez</nombre>
                 <rut>291</rut>
             </apoderado>
-            <asistencia>51</asistencia>
+            <asistencia>162</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8183,7 +8183,7 @@
                 <nombre>Lucila Catalán</nombre>
                 <rut>930</rut>
             </apoderado>
-            <asistencia>120</asistencia>
+            <asistencia>142</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8381,7 +8381,7 @@
                 <nombre>Daniel Lee</nombre>
                 <rut>979</rut>
             </apoderado>
-            <asistencia>75</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8480,7 +8480,7 @@
                 <nombre>Pablo Lumbico</nombre>
                 <rut>148</rut>
             </apoderado>
-            <asistencia>85</asistencia>
+            <asistencia>111</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8579,7 +8579,7 @@
                 <nombre>Pablo Salvatore</nombre>
                 <rut>918</rut>
             </apoderado>
-            <asistencia>149</asistencia>
+            <asistencia>135</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8678,7 +8678,7 @@
                 <nombre>Alex Heinz</nombre>
                 <rut>363</rut>
             </apoderado>
-            <asistencia>166</asistencia>
+            <asistencia>103</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8777,7 +8777,7 @@
                 <nombre>Alexis Beron</nombre>
                 <rut>368</rut>
             </apoderado>
-            <asistencia>173</asistencia>
+            <asistencia>59</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8876,7 +8876,7 @@
                 <nombre>Pablo Lumbico</nombre>
                 <rut>148</rut>
             </apoderado>
-            <asistencia>54</asistencia>
+            <asistencia>48</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -8975,7 +8975,7 @@
                 <nombre>Alex Lee</nombre>
                 <rut>352</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>86</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9074,7 +9074,7 @@
                 <nombre>Alex Heinz</nombre>
                 <rut>363</rut>
             </apoderado>
-            <asistencia>93</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9173,7 +9173,7 @@
                 <nombre>Lucas Palma</nombre>
                 <rut>172</rut>
             </apoderado>
-            <asistencia>85</asistencia>
+            <asistencia>111</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9448,7 +9448,7 @@
                 <nombre>Cristiano Burgos</nombre>
                 <rut>341</rut>
             </apoderado>
-            <asistencia>83</asistencia>
+            <asistencia>68</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9547,7 +9547,7 @@
                 <nombre>Lucila Jacdaniels</nombre>
                 <rut>717</rut>
             </apoderado>
-            <asistencia>176</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9646,7 +9646,7 @@
                 <nombre>Alberto Catalán</nombre>
                 <rut>605</rut>
             </apoderado>
-            <asistencia>153</asistencia>
+            <asistencia>106</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9745,7 +9745,7 @@
                 <nombre>Denisse Angulo</nombre>
                 <rut>404</rut>
             </apoderado>
-            <asistencia>38</asistencia>
+            <asistencia>157</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9844,7 +9844,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>116</rut>
             </apoderado>
-            <asistencia>100</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -9943,7 +9943,7 @@
                 <nombre>Vanessa Salvatore</nombre>
                 <rut>752</rut>
             </apoderado>
-            <asistencia>63</asistencia>
+            <asistencia>70</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10042,7 +10042,7 @@
                 <nombre>Lucila Jacdaniels</nombre>
                 <rut>717</rut>
             </apoderado>
-            <asistencia>41</asistencia>
+            <asistencia>120</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10141,7 +10141,7 @@
                 <nombre>Carlos Curvanez</nombre>
                 <rut>443</rut>
             </apoderado>
-            <asistencia>38</asistencia>
+            <asistencia>47</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10240,7 +10240,7 @@
                 <nombre>Lucila Jacdaniels</nombre>
                 <rut>717</rut>
             </apoderado>
-            <asistencia>174</asistencia>
+            <asistencia>49</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10339,7 +10339,7 @@
                 <nombre>Mariana Lumbico</nombre>
                 <rut>585</rut>
             </apoderado>
-            <asistencia>100</asistencia>
+            <asistencia>66</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10438,7 +10438,7 @@
                 <nombre>Lucila Madrid</nombre>
                 <rut>886</rut>
             </apoderado>
-            <asistencia>52</asistencia>
+            <asistencia>35</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10537,7 +10537,7 @@
                 <nombre>Carlos Lumbico</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>56</asistencia>
+            <asistencia>118</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10636,7 +10636,7 @@
                 <nombre>Raul McDonals</nombre>
                 <rut>457</rut>
             </apoderado>
-            <asistencia>45</asistencia>
+            <asistencia>78</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10735,7 +10735,7 @@
                 <nombre>Carlos Lumbico</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>75</asistencia>
+            <asistencia>168</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10834,7 +10834,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>116</rut>
             </apoderado>
-            <asistencia>178</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -10933,7 +10933,7 @@
                 <nombre>Raul McDonals</nombre>
                 <rut>457</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>94</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11032,7 +11032,7 @@
                 <nombre>Cristiano Burgos</nombre>
                 <rut>341</rut>
             </apoderado>
-            <asistencia>157</asistencia>
+            <asistencia>108</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11131,7 +11131,7 @@
                 <nombre>Romero Esparza</nombre>
                 <rut>735</rut>
             </apoderado>
-            <asistencia>158</asistencia>
+            <asistencia>35</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11230,7 +11230,7 @@
                 <nombre>Lionel Beron</nombre>
                 <rut>254</rut>
             </apoderado>
-            <asistencia>53</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11329,7 +11329,7 @@
                 <nombre>Alberto Palma</nombre>
                 <rut>319</rut>
             </apoderado>
-            <asistencia>65</asistencia>
+            <asistencia>42</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11428,7 +11428,7 @@
                 <nombre>Alex Curvanez</nombre>
                 <rut>364</rut>
             </apoderado>
-            <asistencia>99</asistencia>
+            <asistencia>62</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11527,7 +11527,7 @@
                 <nombre>Lucila Jacdaniels</nombre>
                 <rut>717</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>117</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11626,7 +11626,7 @@
                 <nombre>Denisse Angulo</nombre>
                 <rut>404</rut>
             </apoderado>
-            <asistencia>110</asistencia>
+            <asistencia>70</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11725,7 +11725,7 @@
                 <nombre>Carlos Curvanez</nombre>
                 <rut>443</rut>
             </apoderado>
-            <asistencia>100</asistencia>
+            <asistencia>85</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11824,7 +11824,7 @@
                 <nombre>Felipe Lumbico</nombre>
                 <rut>915</rut>
             </apoderado>
-            <asistencia>30</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -11923,7 +11923,7 @@
                 <nombre>Patricio Salvatore</nombre>
                 <rut>650</rut>
             </apoderado>
-            <asistencia>36</asistencia>
+            <asistencia>53</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12022,7 +12022,7 @@
                 <nombre>Romero Beron</nombre>
                 <rut>589</rut>
             </apoderado>
-            <asistencia>125</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12121,7 +12121,7 @@
                 <nombre>Romero Beron</nombre>
                 <rut>589</rut>
             </apoderado>
-            <asistencia>74</asistencia>
+            <asistencia>164</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12220,7 +12220,7 @@
                 <nombre>Alberto Palma</nombre>
                 <rut>319</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>149</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12319,7 +12319,7 @@
                 <nombre>Carlos Curvanez</nombre>
                 <rut>443</rut>
             </apoderado>
-            <asistencia>105</asistencia>
+            <asistencia>119</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12594,7 +12594,7 @@
                 <nombre>Jannette Fischio</nombre>
                 <rut>394</rut>
             </apoderado>
-            <asistencia>159</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12693,7 +12693,7 @@
                 <nombre>Ignacio Esparza</nombre>
                 <rut>179</rut>
             </apoderado>
-            <asistencia>46</asistencia>
+            <asistencia>76</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12792,7 +12792,7 @@
                 <nombre>Alex Heinz</nombre>
                 <rut>360</rut>
             </apoderado>
-            <asistencia>84</asistencia>
+            <asistencia>163</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12891,7 +12891,7 @@
                 <nombre>Mariana Esparza</nombre>
                 <rut>431</rut>
             </apoderado>
-            <asistencia>145</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -12990,7 +12990,7 @@
                 <nombre>Lucila Zambrotta</nombre>
                 <rut>639</rut>
             </apoderado>
-            <asistencia>156</asistencia>
+            <asistencia>74</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13089,7 +13089,7 @@
                 <nombre>Denisse Salvatore</nombre>
                 <rut>420</rut>
             </apoderado>
-            <asistencia>82</asistencia>
+            <asistencia>96</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13188,7 +13188,7 @@
                 <nombre>Mariana Madrid</nombre>
                 <rut>778</rut>
             </apoderado>
-            <asistencia>38</asistencia>
+            <asistencia>131</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13287,7 +13287,7 @@
                 <nombre>Lucila Madrid</nombre>
                 <rut>577</rut>
             </apoderado>
-            <asistencia>168</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13386,7 +13386,7 @@
                 <nombre>Romero Balentines</nombre>
                 <rut>355</rut>
             </apoderado>
-            <asistencia>35</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13485,7 +13485,7 @@
                 <nombre>Felipe Schwansteigger</nombre>
                 <rut>351</rut>
             </apoderado>
-            <asistencia>153</asistencia>
+            <asistencia>73</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13584,7 +13584,7 @@
                 <nombre>Lucila Madrid</nombre>
                 <rut>577</rut>
             </apoderado>
-            <asistencia>148</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13683,7 +13683,7 @@
                 <nombre>Alex Schwansteigger</nombre>
                 <rut>171</rut>
             </apoderado>
-            <asistencia>95</asistencia>
+            <asistencia>158</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13782,7 +13782,7 @@
                 <nombre>Pedro Danielez</nombre>
                 <rut>998</rut>
             </apoderado>
-            <asistencia>142</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13881,7 +13881,7 @@
                 <nombre>Jannette Lee</nombre>
                 <rut>955</rut>
             </apoderado>
-            <asistencia>142</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -13980,7 +13980,7 @@
                 <nombre>Jannette Fischio</nombre>
                 <rut>394</rut>
             </apoderado>
-            <asistencia>92</asistencia>
+            <asistencia>170</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14079,7 +14079,7 @@
                 <nombre>Denisse Salvatore</nombre>
                 <rut>420</rut>
             </apoderado>
-            <asistencia>128</asistencia>
+            <asistencia>63</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14178,7 +14178,7 @@
                 <nombre>Jannette Lee</nombre>
                 <rut>955</rut>
             </apoderado>
-            <asistencia>142</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14277,7 +14277,7 @@
                 <nombre>Pedro Lee</nombre>
                 <rut>426</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14376,7 +14376,7 @@
                 <nombre>Cristiano Zambrotta</nombre>
                 <rut>905</rut>
             </apoderado>
-            <asistencia>156</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14475,7 +14475,7 @@
                 <nombre>Pedro Lee</nombre>
                 <rut>426</rut>
             </apoderado>
-            <asistencia>109</asistencia>
+            <asistencia>74</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14673,7 +14673,7 @@
                 <nombre>Felipe Catalán</nombre>
                 <rut>131</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>164</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14772,7 +14772,7 @@
                 <nombre>Romero Schwansteigger</nombre>
                 <rut>958</rut>
             </apoderado>
-            <asistencia>32</asistencia>
+            <asistencia>129</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14871,7 +14871,7 @@
                 <nombre>Ignacio Esparza</nombre>
                 <rut>179</rut>
             </apoderado>
-            <asistencia>108</asistencia>
+            <asistencia>37</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -14970,7 +14970,7 @@
                 <nombre>Romero Balentines</nombre>
                 <rut>355</rut>
             </apoderado>
-            <asistencia>66</asistencia>
+            <asistencia>34</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15069,7 +15069,7 @@
                 <nombre>Romero Madrid</nombre>
                 <rut>963</rut>
             </apoderado>
-            <asistencia>129</asistencia>
+            <asistencia>95</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15168,7 +15168,7 @@
                 <nombre>Raul Catalán</nombre>
                 <rut>242</rut>
             </apoderado>
-            <asistencia>65</asistencia>
+            <asistencia>118</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15267,7 +15267,7 @@
                 <nombre>Pedro Lee</nombre>
                 <rut>426</rut>
             </apoderado>
-            <asistencia>176</asistencia>
+            <asistencia>45</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15366,7 +15366,7 @@
                 <nombre>Cristiano Zambrotta</nombre>
                 <rut>905</rut>
             </apoderado>
-            <asistencia>129</asistencia>
+            <asistencia>81</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15465,7 +15465,7 @@
                 <nombre>Alex Schwansteigger</nombre>
                 <rut>171</rut>
             </apoderado>
-            <asistencia>179</asistencia>
+            <asistencia>109</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15672,7 +15672,7 @@
                 <actividad>Unidad 2</actividad>
             </actividades>
             <actividades>
-                <actividad>Prueba 1</actividad>
+                <actividad>Prueba 1 verb to be</actividad>
             </actividades>
             <actividades>
                 <actividad>Revision Cuaderno 1</actividad>
@@ -15740,7 +15740,7 @@
                 <nombre>Alexis Balentines</nombre>
                 <rut>543</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>155</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15839,7 +15839,7 @@
                 <nombre>Patricio Maxx</nombre>
                 <rut>867</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>158</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -15938,7 +15938,7 @@
                 <nombre>Jannette Morenazo</nombre>
                 <rut>740</rut>
             </apoderado>
-            <asistencia>66</asistencia>
+            <asistencia>86</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16037,7 +16037,7 @@
                 <nombre>Daniel Lumbico</nombre>
                 <rut>222</rut>
             </apoderado>
-            <asistencia>49</asistencia>
+            <asistencia>170</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16136,7 +16136,7 @@
                 <nombre>Alberto Morenazo</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>112</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16235,7 +16235,7 @@
                 <nombre>Lucila Curvanez</nombre>
                 <rut>504</rut>
             </apoderado>
-            <asistencia>128</asistencia>
+            <asistencia>42</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16334,7 +16334,7 @@
                 <nombre>Alexis Balentines</nombre>
                 <rut>543</rut>
             </apoderado>
-            <asistencia>91</asistencia>
+            <asistencia>115</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16433,7 +16433,7 @@
                 <nombre>Felipe Silva</nombre>
                 <rut>887</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16532,7 +16532,7 @@
                 <nombre>Alex Schwansteigger</nombre>
                 <rut>879</rut>
             </apoderado>
-            <asistencia>89</asistencia>
+            <asistencia>116</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16631,7 +16631,7 @@
                 <nombre>Mariana Lee</nombre>
                 <rut>143</rut>
             </apoderado>
-            <asistencia>90</asistencia>
+            <asistencia>93</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16730,7 +16730,7 @@
                 <nombre>Alberto Morenazo</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>93</asistencia>
+            <asistencia>47</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16829,7 +16829,7 @@
                 <nombre>Vanessa Zambrotta</nombre>
                 <rut>594</rut>
             </apoderado>
-            <asistencia>175</asistencia>
+            <asistencia>163</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -16928,7 +16928,7 @@
                 <nombre>Alberto Morenazo</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>131</asistencia>
+            <asistencia>64</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17027,7 +17027,7 @@
                 <nombre>Vanessa Zambrotta</nombre>
                 <rut>594</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>72</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17126,7 +17126,7 @@
                 <nombre>Vanessa Zambrotta</nombre>
                 <rut>594</rut>
             </apoderado>
-            <asistencia>41</asistencia>
+            <asistencia>161</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17225,7 +17225,7 @@
                 <nombre>Vanessa Zambrotta</nombre>
                 <rut>594</rut>
             </apoderado>
-            <asistencia>165</asistencia>
+            <asistencia>163</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17324,7 +17324,7 @@
                 <nombre>Alexis Catalán</nombre>
                 <rut>911</rut>
             </apoderado>
-            <asistencia>133</asistencia>
+            <asistencia>120</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17423,7 +17423,7 @@
                 <nombre>Ignacio Fischio</nombre>
                 <rut>129</rut>
             </apoderado>
-            <asistencia>116</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17522,7 +17522,7 @@
                 <nombre>Alex Esparza</nombre>
                 <rut>217</rut>
             </apoderado>
-            <asistencia>41</asistencia>
+            <asistencia>54</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17621,7 +17621,7 @@
                 <nombre>Carlos Jacdaniels</nombre>
                 <rut>729</rut>
             </apoderado>
-            <asistencia>170</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17720,7 +17720,7 @@
                 <nombre>Patricio Maxx</nombre>
                 <rut>867</rut>
             </apoderado>
-            <asistencia>76</asistencia>
+            <asistencia>179</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17819,7 +17819,7 @@
                 <nombre>Alberto Morenazo</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>55</asistencia>
+            <asistencia>172</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -17918,7 +17918,7 @@
                 <nombre>Ignacio Fischio</nombre>
                 <rut>129</rut>
             </apoderado>
-            <asistencia>168</asistencia>
+            <asistencia>68</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18017,7 +18017,7 @@
                 <nombre>Carlos Papasthadopoulos</nombre>
                 <rut>618</rut>
             </apoderado>
-            <asistencia>169</asistencia>
+            <asistencia>120</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18116,7 +18116,7 @@
                 <nombre>Alberto Morenazo</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>67</asistencia>
+            <asistencia>156</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18215,7 +18215,7 @@
                 <nombre>Ignacio Fischio</nombre>
                 <rut>129</rut>
             </apoderado>
-            <asistencia>163</asistencia>
+            <asistencia>137</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18314,7 +18314,7 @@
                 <nombre>Alex Esparza</nombre>
                 <rut>217</rut>
             </apoderado>
-            <asistencia>171</asistencia>
+            <asistencia>66</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18413,7 +18413,7 @@
                 <nombre>Marcos Papasthadopoulos</nombre>
                 <rut>909</rut>
             </apoderado>
-            <asistencia>170</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18512,7 +18512,7 @@
                 <nombre>Carlos Jacdaniels</nombre>
                 <rut>729</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>96</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18611,7 +18611,7 @@
                 <nombre>Juan Papasthadopoulos</nombre>
                 <rut>601</rut>
             </apoderado>
-            <asistencia>39</asistencia>
+            <asistencia>177</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18752,7 +18752,7 @@
                 <actividad>Unidad 2</actividad>
             </actividades>
             <actividades>
-                <actividad>Prueba 1</actividad>
+                <actividad>Prueba 1 Comunicación</actividad>
             </actividades>
             <actividades>
                 <actividad>Revision Cuaderno 1</actividad>
@@ -18886,7 +18886,7 @@
                 <nombre>Patricio McDonals</nombre>
                 <rut>330</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>172</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -18985,7 +18985,7 @@
                 <nombre>Carlos Heinz</nombre>
                 <rut>300</rut>
             </apoderado>
-            <asistencia>84</asistencia>
+            <asistencia>70</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19084,7 +19084,7 @@
                 <nombre>Alex Curvanez</nombre>
                 <rut>796</rut>
             </apoderado>
-            <asistencia>150</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19183,7 +19183,7 @@
                 <nombre>Carlos Heinz</nombre>
                 <rut>300</rut>
             </apoderado>
-            <asistencia>48</asistencia>
+            <asistencia>33</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19282,7 +19282,7 @@
                 <nombre>Alex Curvanez</nombre>
                 <rut>796</rut>
             </apoderado>
-            <asistencia>83</asistencia>
+            <asistencia>54</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19381,7 +19381,7 @@
                 <nombre>Juan Schwansteigger</nombre>
                 <rut>793</rut>
             </apoderado>
-            <asistencia>164</asistencia>
+            <asistencia>95</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19480,7 +19480,7 @@
                 <nombre>Carlos Heinz</nombre>
                 <rut>300</rut>
             </apoderado>
-            <asistencia>30</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19579,7 +19579,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>401</rut>
             </apoderado>
-            <asistencia>125</asistencia>
+            <asistencia>117</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19678,7 +19678,7 @@
                 <nombre>Juan Papasthadopoulos</nombre>
                 <rut>252</rut>
             </apoderado>
-            <asistencia>40</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19777,7 +19777,7 @@
                 <nombre>Denisse Burgos</nombre>
                 <rut>168</rut>
             </apoderado>
-            <asistencia>166</asistencia>
+            <asistencia>169</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19876,7 +19876,7 @@
                 <nombre>Romero Fischio</nombre>
                 <rut>994</rut>
             </apoderado>
-            <asistencia>77</asistencia>
+            <asistencia>142</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -19975,7 +19975,7 @@
                 <nombre>Felipe Fischio</nombre>
                 <rut>159</rut>
             </apoderado>
-            <asistencia>90</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20074,7 +20074,7 @@
                 <nombre>Denisse Burgos</nombre>
                 <rut>168</rut>
             </apoderado>
-            <asistencia>149</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20173,7 +20173,7 @@
                 <nombre>Patricio McDonals</nombre>
                 <rut>330</rut>
             </apoderado>
-            <asistencia>76</asistencia>
+            <asistencia>178</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20272,7 +20272,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>762</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>156</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20371,7 +20371,7 @@
                 <nombre>Pablo Lumbico</nombre>
                 <rut>610</rut>
             </apoderado>
-            <asistencia>93</asistencia>
+            <asistencia>91</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20470,7 +20470,7 @@
                 <nombre>Alex Curvanez</nombre>
                 <rut>796</rut>
             </apoderado>
-            <asistencia>110</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20569,7 +20569,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>401</rut>
             </apoderado>
-            <asistencia>132</asistencia>
+            <asistencia>130</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20668,7 +20668,7 @@
                 <nombre>Pedro Heinz</nombre>
                 <rut>259</rut>
             </apoderado>
-            <asistencia>78</asistencia>
+            <asistencia>94</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20767,7 +20767,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>415</rut>
             </apoderado>
-            <asistencia>138</asistencia>
+            <asistencia>94</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20866,7 +20866,7 @@
                 <nombre>Ignacio Lumbico</nombre>
                 <rut>271</rut>
             </apoderado>
-            <asistencia>115</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -20965,7 +20965,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>415</rut>
             </apoderado>
-            <asistencia>104</asistencia>
+            <asistencia>92</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21064,7 +21064,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>762</rut>
             </apoderado>
-            <asistencia>39</asistencia>
+            <asistencia>44</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21163,7 +21163,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>762</rut>
             </apoderado>
-            <asistencia>153</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21262,7 +21262,7 @@
                 <nombre>Patricio McDonals</nombre>
                 <rut>330</rut>
             </apoderado>
-            <asistencia>124</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21361,7 +21361,7 @@
                 <nombre>Cristiano Silva</nombre>
                 <rut>874</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>76</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21460,7 +21460,7 @@
                 <nombre>Juan Salvatore</nombre>
                 <rut>601</rut>
             </apoderado>
-            <asistencia>34</asistencia>
+            <asistencia>127</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21559,7 +21559,7 @@
                 <nombre>Romero Fischio</nombre>
                 <rut>994</rut>
             </apoderado>
-            <asistencia>47</asistencia>
+            <asistencia>37</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21658,7 +21658,7 @@
                 <nombre>Raul Danielez</nombre>
                 <rut>762</rut>
             </apoderado>
-            <asistencia>139</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -21757,7 +21757,7 @@
                 <nombre>Juan Salvatore</nombre>
                 <rut>601</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>54</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22032,7 +22032,7 @@
                 <nombre>Cristiano Burgos</nombre>
                 <rut>406</rut>
             </apoderado>
-            <asistencia>64</asistencia>
+            <asistencia>53</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22131,7 +22131,7 @@
                 <nombre>Mariana Lumbico</nombre>
                 <rut>522</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>166</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22230,7 +22230,7 @@
                 <nombre>Cristiano Papasthadopoulos</nombre>
                 <rut>505</rut>
             </apoderado>
-            <asistencia>125</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22329,7 +22329,7 @@
                 <nombre>Romero Morenazo</nombre>
                 <rut>393</rut>
             </apoderado>
-            <asistencia>120</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22428,7 +22428,7 @@
                 <nombre>Lionel Curvanez</nombre>
                 <rut>194</rut>
             </apoderado>
-            <asistencia>164</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22527,7 +22527,7 @@
                 <nombre>Cristiano Burgos</nombre>
                 <rut>406</rut>
             </apoderado>
-            <asistencia>121</asistencia>
+            <asistencia>114</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22626,7 +22626,7 @@
                 <nombre>Patricio Jacdaniels</nombre>
                 <rut>387</rut>
             </apoderado>
-            <asistencia>130</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22725,7 +22725,7 @@
                 <nombre>Patricio Jacdaniels</nombre>
                 <rut>387</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22824,7 +22824,7 @@
                 <nombre>Jannette Beron</nombre>
                 <rut>299</rut>
             </apoderado>
-            <asistencia>157</asistencia>
+            <asistencia>160</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -22923,7 +22923,7 @@
                 <nombre>Marcos Beron</nombre>
                 <rut>776</rut>
             </apoderado>
-            <asistencia>131</asistencia>
+            <asistencia>100</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23022,7 +23022,7 @@
                 <nombre>Carlos Heinz</nombre>
                 <rut>791</rut>
             </apoderado>
-            <asistencia>59</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23121,7 +23121,7 @@
                 <nombre>Alberto Maxx</nombre>
                 <rut>242</rut>
             </apoderado>
-            <asistencia>110</asistencia>
+            <asistencia>160</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23220,7 +23220,7 @@
                 <nombre>Alberto Catalán</nombre>
                 <rut>772</rut>
             </apoderado>
-            <asistencia>148</asistencia>
+            <asistencia>144</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23319,7 +23319,7 @@
                 <nombre>Denisse Jacdaniels</nombre>
                 <rut>600</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>36</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23418,7 +23418,7 @@
                 <nombre>Lucila Maxx</nombre>
                 <rut>710</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>86</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23517,7 +23517,7 @@
                 <nombre>Carlos Heinz</nombre>
                 <rut>791</rut>
             </apoderado>
-            <asistencia>56</asistencia>
+            <asistencia>178</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23616,7 +23616,7 @@
                 <nombre>Felipe Beron</nombre>
                 <rut>161</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>177</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23715,7 +23715,7 @@
                 <nombre>Raul Morenazo</nombre>
                 <rut>484</rut>
             </apoderado>
-            <asistencia>165</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23814,7 +23814,7 @@
                 <nombre>Raul Lumbico</nombre>
                 <rut>219</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>164</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -23913,7 +23913,7 @@
                 <nombre>Jannette Beron</nombre>
                 <rut>299</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>166</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24012,7 +24012,7 @@
                 <nombre>Felipe Beron</nombre>
                 <rut>161</rut>
             </apoderado>
-            <asistencia>157</asistencia>
+            <asistencia>119</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24111,7 +24111,7 @@
                 <nombre>Carlos Burgos</nombre>
                 <rut>580</rut>
             </apoderado>
-            <asistencia>45</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24210,7 +24210,7 @@
                 <nombre>Lionel Curvanez</nombre>
                 <rut>194</rut>
             </apoderado>
-            <asistencia>133</asistencia>
+            <asistencia>119</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24309,7 +24309,7 @@
                 <nombre>Marcos Beron</nombre>
                 <rut>776</rut>
             </apoderado>
-            <asistencia>115</asistencia>
+            <asistencia>89</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24408,7 +24408,7 @@
                 <nombre>Marcos Beron</nombre>
                 <rut>776</rut>
             </apoderado>
-            <asistencia>129</asistencia>
+            <asistencia>88</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24507,7 +24507,7 @@
                 <nombre>Jannette Beron</nombre>
                 <rut>299</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>124</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24606,7 +24606,7 @@
                 <nombre>Cristiano Burgos</nombre>
                 <rut>406</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>60</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24705,7 +24705,7 @@
                 <nombre>Alberto Maxx</nombre>
                 <rut>242</rut>
             </apoderado>
-            <asistencia>90</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24804,7 +24804,7 @@
                 <nombre>Denisse Jacdaniels</nombre>
                 <rut>600</rut>
             </apoderado>
-            <asistencia>108</asistencia>
+            <asistencia>49</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -24903,7 +24903,7 @@
                 <nombre>Jannette Beron</nombre>
                 <rut>299</rut>
             </apoderado>
-            <asistencia>74</asistencia>
+            <asistencia>133</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25178,7 +25178,7 @@
                 <nombre>Alberto Silva</nombre>
                 <rut>674</rut>
             </apoderado>
-            <asistencia>176</asistencia>
+            <asistencia>67</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25277,7 +25277,7 @@
                 <nombre>Juan Angulo</nombre>
                 <rut>677</rut>
             </apoderado>
-            <asistencia>128</asistencia>
+            <asistencia>140</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25376,7 +25376,7 @@
                 <nombre>Felipe Esparza</nombre>
                 <rut>812</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>94</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25475,7 +25475,7 @@
                 <nombre>Alex Papasthadopoulos</nombre>
                 <rut>722</rut>
             </apoderado>
-            <asistencia>105</asistencia>
+            <asistencia>137</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25574,7 +25574,7 @@
                 <nombre>Felipe Madrid</nombre>
                 <rut>732</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>46</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25673,7 +25673,7 @@
                 <nombre>Ignacio Maxx</nombre>
                 <rut>419</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>68</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25772,7 +25772,7 @@
                 <nombre>Mariana Angulo</nombre>
                 <rut>511</rut>
             </apoderado>
-            <asistencia>113</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25871,7 +25871,7 @@
                 <nombre>Juan Morenazo</nombre>
                 <rut>213</rut>
             </apoderado>
-            <asistencia>157</asistencia>
+            <asistencia>111</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -25970,7 +25970,7 @@
                 <nombre>Alberto Lee</nombre>
                 <rut>962</rut>
             </apoderado>
-            <asistencia>32</asistencia>
+            <asistencia>56</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26069,7 +26069,7 @@
                 <nombre>Felipe Palma</nombre>
                 <rut>235</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>53</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26168,7 +26168,7 @@
                 <nombre>Lucas Fischio</nombre>
                 <rut>206</rut>
             </apoderado>
-            <asistencia>48</asistencia>
+            <asistencia>58</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26267,7 +26267,7 @@
                 <nombre>Cristiano Fischio</nombre>
                 <rut>729</rut>
             </apoderado>
-            <asistencia>139</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26366,7 +26366,7 @@
                 <nombre>Lucas Lumbico</nombre>
                 <rut>567</rut>
             </apoderado>
-            <asistencia>42</asistencia>
+            <asistencia>131</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26465,7 +26465,7 @@
                 <nombre>Ignacio Maxx</nombre>
                 <rut>419</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>116</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26564,7 +26564,7 @@
                 <nombre>Mariana Balentines</nombre>
                 <rut>572</rut>
             </apoderado>
-            <asistencia>120</asistencia>
+            <asistencia>161</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26663,7 +26663,7 @@
                 <nombre>Ignacio Maxx</nombre>
                 <rut>419</rut>
             </apoderado>
-            <asistencia>109</asistencia>
+            <asistencia>64</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26762,7 +26762,7 @@
                 <nombre>Alberto Lee</nombre>
                 <rut>962</rut>
             </apoderado>
-            <asistencia>119</asistencia>
+            <asistencia>50</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26861,7 +26861,7 @@
                 <nombre>Denisse Fischio</nombre>
                 <rut>235</rut>
             </apoderado>
-            <asistencia>95</asistencia>
+            <asistencia>154</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -26960,7 +26960,7 @@
                 <nombre>Juan Morenazo</nombre>
                 <rut>213</rut>
             </apoderado>
-            <asistencia>92</asistencia>
+            <asistencia>89</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27059,7 +27059,7 @@
                 <nombre>Mariana Angulo</nombre>
                 <rut>511</rut>
             </apoderado>
-            <asistencia>151</asistencia>
+            <asistencia>140</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27158,7 +27158,7 @@
                 <nombre>Denisse Fischio</nombre>
                 <rut>235</rut>
             </apoderado>
-            <asistencia>153</asistencia>
+            <asistencia>169</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27257,7 +27257,7 @@
                 <nombre>Lucas Lumbico</nombre>
                 <rut>567</rut>
             </apoderado>
-            <asistencia>169</asistencia>
+            <asistencia>161</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27356,7 +27356,7 @@
                 <nombre>Roberto Catalán</nombre>
                 <rut>810</rut>
             </apoderado>
-            <asistencia>33</asistencia>
+            <asistencia>154</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27455,7 +27455,7 @@
                 <nombre>Patricio Danielez</nombre>
                 <rut>646</rut>
             </apoderado>
-            <asistencia>84</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27554,7 +27554,7 @@
                 <nombre>Alex Papasthadopoulos</nombre>
                 <rut>722</rut>
             </apoderado>
-            <asistencia>34</asistencia>
+            <asistencia>75</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27653,7 +27653,7 @@
                 <nombre>Juan Morenazo</nombre>
                 <rut>213</rut>
             </apoderado>
-            <asistencia>91</asistencia>
+            <asistencia>69</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27752,7 +27752,7 @@
                 <nombre>Lucas Fischio</nombre>
                 <rut>206</rut>
             </apoderado>
-            <asistencia>164</asistencia>
+            <asistencia>82</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27851,7 +27851,7 @@
                 <nombre>Alberto Lee</nombre>
                 <rut>962</rut>
             </apoderado>
-            <asistencia>54</asistencia>
+            <asistencia>71</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -27950,7 +27950,7 @@
                 <nombre>Felipe Esparza</nombre>
                 <rut>812</rut>
             </apoderado>
-            <asistencia>170</asistencia>
+            <asistencia>119</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28049,7 +28049,7 @@
                 <nombre>Raul Catalán</nombre>
                 <rut>454</rut>
             </apoderado>
-            <asistencia>145</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28324,7 +28324,7 @@
                 <nombre>Alex Papasthadopoulos</nombre>
                 <rut>466</rut>
             </apoderado>
-            <asistencia>69</asistencia>
+            <asistencia>114</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28423,7 +28423,7 @@
                 <nombre>Juan Schwansteigger</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>84</asistencia>
+            <asistencia>93</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28522,7 +28522,7 @@
                 <nombre>Alexis Salvatore</nombre>
                 <rut>479</rut>
             </apoderado>
-            <asistencia>92</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28621,7 +28621,7 @@
                 <nombre>Juan Schwansteigger</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>35</asistencia>
+            <asistencia>86</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28720,7 +28720,7 @@
                 <nombre>Juan Schwansteigger</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>96</asistencia>
+            <asistencia>78</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28819,7 +28819,7 @@
                 <nombre>Mariana Lumbico</nombre>
                 <rut>229</rut>
             </apoderado>
-            <asistencia>50</asistencia>
+            <asistencia>70</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -28918,7 +28918,7 @@
                 <nombre>Romero Silva</nombre>
                 <rut>245</rut>
             </apoderado>
-            <asistencia>97</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29017,7 +29017,7 @@
                 <nombre>Alexis Salvatore</nombre>
                 <rut>479</rut>
             </apoderado>
-            <asistencia>56</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29116,7 +29116,7 @@
                 <nombre>Marcos Beron</nombre>
                 <rut>857</rut>
             </apoderado>
-            <asistencia>66</asistencia>
+            <asistencia>101</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29215,7 +29215,7 @@
                 <nombre>Marcos Lee</nombre>
                 <rut>927</rut>
             </apoderado>
-            <asistencia>161</asistencia>
+            <asistencia>162</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29314,7 +29314,7 @@
                 <nombre>Alex Maxx</nombre>
                 <rut>366</rut>
             </apoderado>
-            <asistencia>141</asistencia>
+            <asistencia>108</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29413,7 +29413,7 @@
                 <nombre>Patricio Palma</nombre>
                 <rut>546</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29512,7 +29512,7 @@
                 <nombre>Patricio Palma</nombre>
                 <rut>546</rut>
             </apoderado>
-            <asistencia>143</asistencia>
+            <asistencia>97</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29611,7 +29611,7 @@
                 <nombre>Pablo Curvanez</nombre>
                 <rut>920</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>97</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29710,7 +29710,7 @@
                 <nombre>Pablo Curvanez</nombre>
                 <rut>920</rut>
             </apoderado>
-            <asistencia>163</asistencia>
+            <asistencia>129</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29809,7 +29809,7 @@
                 <nombre>Mariana Lumbico</nombre>
                 <rut>229</rut>
             </apoderado>
-            <asistencia>34</asistencia>
+            <asistencia>71</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -29908,7 +29908,7 @@
                 <nombre>Romero Morenazo</nombre>
                 <rut>488</rut>
             </apoderado>
-            <asistencia>161</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30007,7 +30007,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>806</rut>
             </apoderado>
-            <asistencia>64</asistencia>
+            <asistencia>97</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30106,7 +30106,7 @@
                 <nombre>Alexis Salvatore</nombre>
                 <rut>479</rut>
             </apoderado>
-            <asistencia>106</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30205,7 +30205,7 @@
                 <nombre>Mariana Lumbico</nombre>
                 <rut>229</rut>
             </apoderado>
-            <asistencia>50</asistencia>
+            <asistencia>149</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30304,7 +30304,7 @@
                 <nombre>Pablo Curvanez</nombre>
                 <rut>920</rut>
             </apoderado>
-            <asistencia>179</asistencia>
+            <asistencia>49</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30403,7 +30403,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>806</rut>
             </apoderado>
-            <asistencia>156</asistencia>
+            <asistencia>124</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30502,7 +30502,7 @@
                 <nombre>Daniel Curvanez</nombre>
                 <rut>144</rut>
             </apoderado>
-            <asistencia>96</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30601,7 +30601,7 @@
                 <nombre>Raul Balentines</nombre>
                 <rut>713</rut>
             </apoderado>
-            <asistencia>133</asistencia>
+            <asistencia>152</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30700,7 +30700,7 @@
                 <nombre>Pablo Silva</nombre>
                 <rut>568</rut>
             </apoderado>
-            <asistencia>71</asistencia>
+            <asistencia>93</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30799,7 +30799,7 @@
                 <nombre>Pedro Catalán</nombre>
                 <rut>503</rut>
             </apoderado>
-            <asistencia>59</asistencia>
+            <asistencia>112</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30898,7 +30898,7 @@
                 <nombre>Jannette Schwansteigger</nombre>
                 <rut>819</rut>
             </apoderado>
-            <asistencia>67</asistencia>
+            <asistencia>62</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -30997,7 +30997,7 @@
                 <nombre>Alex Papasthadopoulos</nombre>
                 <rut>466</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>62</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31096,7 +31096,7 @@
                 <nombre>Daniel Curvanez</nombre>
                 <rut>144</rut>
             </apoderado>
-            <asistencia>94</asistencia>
+            <asistencia>173</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31195,7 +31195,7 @@
                 <nombre>Jannette Heinz</nombre>
                 <rut>738</rut>
             </apoderado>
-            <asistencia>39</asistencia>
+            <asistencia>92</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31470,7 +31470,7 @@
                 <nombre>Alberto Heinz</nombre>
                 <rut>246</rut>
             </apoderado>
-            <asistencia>139</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31569,7 +31569,7 @@
                 <nombre>Vanessa Fischio</nombre>
                 <rut>641</rut>
             </apoderado>
-            <asistencia>43</asistencia>
+            <asistencia>59</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31668,7 +31668,7 @@
                 <nombre>Daniel Catalán</nombre>
                 <rut>419</rut>
             </apoderado>
-            <asistencia>175</asistencia>
+            <asistencia>79</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31767,7 +31767,7 @@
                 <nombre>Vanessa McDonals</nombre>
                 <rut>737</rut>
             </apoderado>
-            <asistencia>45</asistencia>
+            <asistencia>54</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31866,7 +31866,7 @@
                 <nombre>Marcos Lee</nombre>
                 <rut>709</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>43</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -31965,7 +31965,7 @@
                 <nombre>Raul Angulo</nombre>
                 <rut>132</rut>
             </apoderado>
-            <asistencia>31</asistencia>
+            <asistencia>40</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32064,7 +32064,7 @@
                 <nombre>Romero Curvanez</nombre>
                 <rut>175</rut>
             </apoderado>
-            <asistencia>93</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32163,7 +32163,7 @@
                 <nombre>Raul Morenazo</nombre>
                 <rut>345</rut>
             </apoderado>
-            <asistencia>83</asistencia>
+            <asistencia>155</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32262,7 +32262,7 @@
                 <nombre>Denisse Papasthadopoulos</nombre>
                 <rut>627</rut>
             </apoderado>
-            <asistencia>47</asistencia>
+            <asistencia>38</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32361,7 +32361,7 @@
                 <nombre>Jannette Fischio</nombre>
                 <rut>418</rut>
             </apoderado>
-            <asistencia>161</asistencia>
+            <asistencia>49</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32460,7 +32460,7 @@
                 <nombre>Raul Curvanez</nombre>
                 <rut>196</rut>
             </apoderado>
-            <asistencia>59</asistencia>
+            <asistencia>176</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32559,7 +32559,7 @@
                 <nombre>Lionel Balentines</nombre>
                 <rut>936</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>50</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32658,7 +32658,7 @@
                 <nombre>Raul Morenazo</nombre>
                 <rut>345</rut>
             </apoderado>
-            <asistencia>166</asistencia>
+            <asistencia>167</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32757,7 +32757,7 @@
                 <nombre>Alex Jacdaniels</nombre>
                 <rut>898</rut>
             </apoderado>
-            <asistencia>121</asistencia>
+            <asistencia>36</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32856,7 +32856,7 @@
                 <nombre>Romero Morenazo</nombre>
                 <rut>660</rut>
             </apoderado>
-            <asistencia>131</asistencia>
+            <asistencia>46</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -32955,7 +32955,7 @@
                 <nombre>Raul Angulo</nombre>
                 <rut>132</rut>
             </apoderado>
-            <asistencia>158</asistencia>
+            <asistencia>67</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33054,7 +33054,7 @@
                 <nombre>Denisse Madrid</nombre>
                 <rut>615</rut>
             </apoderado>
-            <asistencia>98</asistencia>
+            <asistencia>31</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33153,7 +33153,7 @@
                 <nombre>Vanessa McDonals</nombre>
                 <rut>737</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>80</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33252,7 +33252,7 @@
                 <nombre>Vanessa McDonals</nombre>
                 <rut>737</rut>
             </apoderado>
-            <asistencia>68</asistencia>
+            <asistencia>78</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33351,7 +33351,7 @@
                 <nombre>Marcos Maxx</nombre>
                 <rut>335</rut>
             </apoderado>
-            <asistencia>92</asistencia>
+            <asistencia>124</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33450,7 +33450,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>702</rut>
             </apoderado>
-            <asistencia>137</asistencia>
+            <asistencia>173</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33549,7 +33549,7 @@
                 <nombre>Raul Curvanez</nombre>
                 <rut>196</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>146</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33648,7 +33648,7 @@
                 <nombre>Felipe Beron</nombre>
                 <rut>790</rut>
             </apoderado>
-            <asistencia>70</asistencia>
+            <asistencia>112</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33747,7 +33747,7 @@
                 <nombre>Vanessa Fischio</nombre>
                 <rut>641</rut>
             </apoderado>
-            <asistencia>166</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33846,7 +33846,7 @@
                 <nombre>Alexis Morenazo</nombre>
                 <rut>355</rut>
             </apoderado>
-            <asistencia>30</asistencia>
+            <asistencia>138</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -33945,7 +33945,7 @@
                 <nombre>Daniel Burgos</nombre>
                 <rut>608</rut>
             </apoderado>
-            <asistencia>47</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34044,7 +34044,7 @@
                 <nombre>Felipe Beron</nombre>
                 <rut>790</rut>
             </apoderado>
-            <asistencia>107</asistencia>
+            <asistencia>163</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34143,7 +34143,7 @@
                 <nombre>Vanessa Morenazo</nombre>
                 <rut>702</rut>
             </apoderado>
-            <asistencia>97</asistencia>
+            <asistencia>50</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34242,7 +34242,7 @@
                 <nombre>Denisse Madrid</nombre>
                 <rut>615</rut>
             </apoderado>
-            <asistencia>52</asistencia>
+            <asistencia>178</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34341,7 +34341,7 @@
                 <nombre>Marcos Maxx</nombre>
                 <rut>335</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>96</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34616,7 +34616,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>321</rut>
             </apoderado>
-            <asistencia>138</asistencia>
+            <asistencia>111</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34715,7 +34715,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>321</rut>
             </apoderado>
-            <asistencia>179</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34814,7 +34814,7 @@
                 <nombre>Romero Lee</nombre>
                 <rut>921</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -34913,7 +34913,7 @@
                 <nombre>Mariana Burgos</nombre>
                 <rut>160</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35012,7 +35012,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>321</rut>
             </apoderado>
-            <asistencia>99</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35111,7 +35111,7 @@
                 <nombre>Lionel Papasthadopoulos</nombre>
                 <rut>914</rut>
             </apoderado>
-            <asistencia>135</asistencia>
+            <asistencia>56</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35210,7 +35210,7 @@
                 <nombre>Lucila Palma</nombre>
                 <rut>485</rut>
             </apoderado>
-            <asistencia>105</asistencia>
+            <asistencia>157</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35309,7 +35309,7 @@
                 <nombre>Pablo Morenazo</nombre>
                 <rut>807</rut>
             </apoderado>
-            <asistencia>32</asistencia>
+            <asistencia>44</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35408,7 +35408,7 @@
                 <nombre>Ignacio Beron</nombre>
                 <rut>483</rut>
             </apoderado>
-            <asistencia>80</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35507,7 +35507,7 @@
                 <nombre>Lucila Palma</nombre>
                 <rut>485</rut>
             </apoderado>
-            <asistencia>159</asistencia>
+            <asistencia>46</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35606,7 +35606,7 @@
                 <nombre>Lucila Palma</nombre>
                 <rut>485</rut>
             </apoderado>
-            <asistencia>129</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35705,7 +35705,7 @@
                 <nombre>Cristiano Morenazo</nombre>
                 <rut>246</rut>
             </apoderado>
-            <asistencia>120</asistencia>
+            <asistencia>136</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35804,7 +35804,7 @@
                 <nombre>Mariana Angulo</nombre>
                 <rut>603</rut>
             </apoderado>
-            <asistencia>145</asistencia>
+            <asistencia>115</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -35903,7 +35903,7 @@
                 <nombre>Alberto Lumbico</nombre>
                 <rut>411</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>105</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36002,7 +36002,7 @@
                 <nombre>Lucas Maxx</nombre>
                 <rut>535</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36101,7 +36101,7 @@
                 <nombre>Pablo Morenazo</nombre>
                 <rut>807</rut>
             </apoderado>
-            <asistencia>90</asistencia>
+            <asistencia>94</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36200,7 +36200,7 @@
                 <nombre>Romero Lee</nombre>
                 <rut>921</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>156</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36299,7 +36299,7 @@
                 <nombre>Felipe Burgos</nombre>
                 <rut>321</rut>
             </apoderado>
-            <asistencia>119</asistencia>
+            <asistencia>160</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36398,7 +36398,7 @@
                 <nombre>Pedro Palma</nombre>
                 <rut>321</rut>
             </apoderado>
-            <asistencia>51</asistencia>
+            <asistencia>45</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36497,7 +36497,7 @@
                 <nombre>Carlos Fischio</nombre>
                 <rut>972</rut>
             </apoderado>
-            <asistencia>143</asistencia>
+            <asistencia>33</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36596,7 +36596,7 @@
                 <nombre>Pablo McDonals</nombre>
                 <rut>442</rut>
             </apoderado>
-            <asistencia>132</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36695,7 +36695,7 @@
                 <nombre>Lionel Papasthadopoulos</nombre>
                 <rut>914</rut>
             </apoderado>
-            <asistencia>103</asistencia>
+            <asistencia>109</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36794,7 +36794,7 @@
                 <nombre>Carlos Fischio</nombre>
                 <rut>972</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>41</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36893,7 +36893,7 @@
                 <nombre>Alex Salvatore</nombre>
                 <rut>832</rut>
             </apoderado>
-            <asistencia>144</asistencia>
+            <asistencia>135</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -36992,7 +36992,7 @@
                 <nombre>Lionel Papasthadopoulos</nombre>
                 <rut>914</rut>
             </apoderado>
-            <asistencia>49</asistencia>
+            <asistencia>172</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37091,7 +37091,7 @@
                 <nombre>Ignacio Beron</nombre>
                 <rut>483</rut>
             </apoderado>
-            <asistencia>101</asistencia>
+            <asistencia>44</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37190,7 +37190,7 @@
                 <nombre>Patricio Beron</nombre>
                 <rut>129</rut>
             </apoderado>
-            <asistencia>73</asistencia>
+            <asistencia>33</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37289,7 +37289,7 @@
                 <nombre>Patricio Palma</nombre>
                 <rut>264</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37388,7 +37388,7 @@
                 <nombre>Alexis Fischio</nombre>
                 <rut>961</rut>
             </apoderado>
-            <asistencia>53</asistencia>
+            <asistencia>69</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37487,7 +37487,7 @@
                 <nombre>Lucila Palma</nombre>
                 <rut>485</rut>
             </apoderado>
-            <asistencia>143</asistencia>
+            <asistencia>92</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37762,7 +37762,7 @@
                 <nombre>Daniel Papasthadopoulos</nombre>
                 <rut>679</rut>
             </apoderado>
-            <asistencia>56</asistencia>
+            <asistencia>99</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37861,7 +37861,7 @@
                 <nombre>Raul Burgos</nombre>
                 <rut>424</rut>
             </apoderado>
-            <asistencia>159</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -37960,7 +37960,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>383</rut>
             </apoderado>
-            <asistencia>97</asistencia>
+            <asistencia>153</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38059,7 +38059,7 @@
                 <nombre>Lionel Schwansteigger</nombre>
                 <rut>611</rut>
             </apoderado>
-            <asistencia>168</asistencia>
+            <asistencia>155</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38158,7 +38158,7 @@
                 <nombre>Raul Burgos</nombre>
                 <rut>424</rut>
             </apoderado>
-            <asistencia>130</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38257,7 +38257,7 @@
                 <nombre>Alberto Silva</nombre>
                 <rut>631</rut>
             </apoderado>
-            <asistencia>153</asistencia>
+            <asistencia>35</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38356,7 +38356,7 @@
                 <nombre>Roberto Beron</nombre>
                 <rut>301</rut>
             </apoderado>
-            <asistencia>142</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38455,7 +38455,7 @@
                 <nombre>Denisse Zambrotta</nombre>
                 <rut>144</rut>
             </apoderado>
-            <asistencia>68</asistencia>
+            <asistencia>32</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38554,7 +38554,7 @@
                 <nombre>Jannette Lumbico</nombre>
                 <rut>467</rut>
             </apoderado>
-            <asistencia>40</asistencia>
+            <asistencia>103</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38653,7 +38653,7 @@
                 <nombre>Cristiano Papasthadopoulos</nombre>
                 <rut>283</rut>
             </apoderado>
-            <asistencia>168</asistencia>
+            <asistencia>98</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38752,7 +38752,7 @@
                 <nombre>Alberto Silva</nombre>
                 <rut>631</rut>
             </apoderado>
-            <asistencia>83</asistencia>
+            <asistencia>78</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38851,7 +38851,7 @@
                 <nombre>Mariana Palma</nombre>
                 <rut>218</rut>
             </apoderado>
-            <asistencia>102</asistencia>
+            <asistencia>87</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -38950,7 +38950,7 @@
                 <nombre>Denisse Silva</nombre>
                 <rut>653</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>152</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39049,7 +39049,7 @@
                 <nombre>Alberto Silva</nombre>
                 <rut>631</rut>
             </apoderado>
-            <asistencia>102</asistencia>
+            <asistencia>147</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39148,7 +39148,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>383</rut>
             </apoderado>
-            <asistencia>39</asistencia>
+            <asistencia>58</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39247,7 +39247,7 @@
                 <nombre>Lucas Maxx</nombre>
                 <rut>234</rut>
             </apoderado>
-            <asistencia>36</asistencia>
+            <asistencia>76</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39346,7 +39346,7 @@
                 <nombre>Raul Burgos</nombre>
                 <rut>424</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>152</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39445,7 +39445,7 @@
                 <nombre>Jannette Lumbico</nombre>
                 <rut>467</rut>
             </apoderado>
-            <asistencia>146</asistencia>
+            <asistencia>130</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39544,7 +39544,7 @@
                 <nombre>Pedro Morenazo</nombre>
                 <rut>332</rut>
             </apoderado>
-            <asistencia>103</asistencia>
+            <asistencia>101</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39643,7 +39643,7 @@
                 <nombre>Lionel Schwansteigger</nombre>
                 <rut>611</rut>
             </apoderado>
-            <asistencia>126</asistencia>
+            <asistencia>65</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39742,7 +39742,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>383</rut>
             </apoderado>
-            <asistencia>165</asistencia>
+            <asistencia>131</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39841,7 +39841,7 @@
                 <nombre>Cristiano Fischio</nombre>
                 <rut>337</rut>
             </apoderado>
-            <asistencia>138</asistencia>
+            <asistencia>144</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -39940,7 +39940,7 @@
                 <nombre>Vanessa Maxx</nombre>
                 <rut>956</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>114</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40039,7 +40039,7 @@
                 <nombre>Alexis Lumbico</nombre>
                 <rut>136</rut>
             </apoderado>
-            <asistencia>122</asistencia>
+            <asistencia>112</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40138,7 +40138,7 @@
                 <nombre>Romero Silva</nombre>
                 <rut>300</rut>
             </apoderado>
-            <asistencia>135</asistencia>
+            <asistencia>68</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40237,7 +40237,7 @@
                 <nombre>Lucas Maxx</nombre>
                 <rut>234</rut>
             </apoderado>
-            <asistencia>150</asistencia>
+            <asistencia>134</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40336,7 +40336,7 @@
                 <nombre>Lionel Schwansteigger</nombre>
                 <rut>611</rut>
             </apoderado>
-            <asistencia>145</asistencia>
+            <asistencia>85</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40435,7 +40435,7 @@
                 <nombre>Mariana Angulo</nombre>
                 <rut>146</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>168</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40534,7 +40534,7 @@
                 <nombre>Denisse Zambrotta</nombre>
                 <rut>144</rut>
             </apoderado>
-            <asistencia>69</asistencia>
+            <asistencia>135</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40633,7 +40633,7 @@
                 <nombre>Romero Silva</nombre>
                 <rut>300</rut>
             </apoderado>
-            <asistencia>70</asistencia>
+            <asistencia>95</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -40908,7 +40908,7 @@
                 <nombre>Denisse Curvanez</nombre>
                 <rut>863</rut>
             </apoderado>
-            <asistencia>111</asistencia>
+            <asistencia>173</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41007,7 +41007,7 @@
                 <nombre>Alberto Madrid</nombre>
                 <rut>750</rut>
             </apoderado>
-            <asistencia>123</asistencia>
+            <asistencia>178</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41106,7 +41106,7 @@
                 <nombre>Marcos Salvatore</nombre>
                 <rut>269</rut>
             </apoderado>
-            <asistencia>113</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41205,7 +41205,7 @@
                 <nombre>Marcos Salvatore</nombre>
                 <rut>269</rut>
             </apoderado>
-            <asistencia>114</asistencia>
+            <asistencia>39</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41304,7 +41304,7 @@
                 <nombre>Patricio Zambrotta</nombre>
                 <rut>310</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>156</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41403,7 +41403,7 @@
                 <nombre>Marcos Salvatore</nombre>
                 <rut>269</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41502,7 +41502,7 @@
                 <nombre>Juan Angulo</nombre>
                 <rut>143</rut>
             </apoderado>
-            <asistencia>83</asistencia>
+            <asistencia>34</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41601,7 +41601,7 @@
                 <nombre>Denisse Curvanez</nombre>
                 <rut>863</rut>
             </apoderado>
-            <asistencia>160</asistencia>
+            <asistencia>138</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41700,7 +41700,7 @@
                 <nombre>Mariana Jacdaniels</nombre>
                 <rut>222</rut>
             </apoderado>
-            <asistencia>47</asistencia>
+            <asistencia>48</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41799,7 +41799,7 @@
                 <nombre>Mariana Madrid</nombre>
                 <rut>316</rut>
             </apoderado>
-            <asistencia>151</asistencia>
+            <asistencia>70</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41898,7 +41898,7 @@
                 <nombre>Mariana Madrid</nombre>
                 <rut>316</rut>
             </apoderado>
-            <asistencia>177</asistencia>
+            <asistencia>159</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -41997,7 +41997,7 @@
                 <nombre>Ignacio Danielez</nombre>
                 <rut>573</rut>
             </apoderado>
-            <asistencia>123</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42096,7 +42096,7 @@
                 <nombre>Denisse Curvanez</nombre>
                 <rut>863</rut>
             </apoderado>
-            <asistencia>177</asistencia>
+            <asistencia>42</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42195,7 +42195,7 @@
                 <nombre>Alberto Madrid</nombre>
                 <rut>750</rut>
             </apoderado>
-            <asistencia>72</asistencia>
+            <asistencia>141</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42294,7 +42294,7 @@
                 <nombre>Pablo Salvatore</nombre>
                 <rut>131</rut>
             </apoderado>
-            <asistencia>127</asistencia>
+            <asistencia>168</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42393,7 +42393,7 @@
                 <nombre>Juan Angulo</nombre>
                 <rut>143</rut>
             </apoderado>
-            <asistencia>175</asistencia>
+            <asistencia>102</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42492,7 +42492,7 @@
                 <nombre>Raul Balentines</nombre>
                 <rut>107</rut>
             </apoderado>
-            <asistencia>35</asistencia>
+            <asistencia>75</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42591,7 +42591,7 @@
                 <nombre>Marcos Lumbico</nombre>
                 <rut>170</rut>
             </apoderado>
-            <asistencia>45</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42690,7 +42690,7 @@
                 <nombre>Mariana Jacdaniels</nombre>
                 <rut>222</rut>
             </apoderado>
-            <asistencia>125</asistencia>
+            <asistencia>100</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42789,7 +42789,7 @@
                 <nombre>Cristiano Maxx</nombre>
                 <rut>510</rut>
             </apoderado>
-            <asistencia>69</asistencia>
+            <asistencia>113</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42888,7 +42888,7 @@
                 <nombre>Juan Angulo</nombre>
                 <rut>143</rut>
             </apoderado>
-            <asistencia>108</asistencia>
+            <asistencia>159</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -42987,7 +42987,7 @@
                 <nombre>Mariana Madrid</nombre>
                 <rut>156</rut>
             </apoderado>
-            <asistencia>57</asistencia>
+            <asistencia>155</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43086,7 +43086,7 @@
                 <nombre>Alexis Heinz</nombre>
                 <rut>532</rut>
             </apoderado>
-            <asistencia>159</asistencia>
+            <asistencia>65</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43185,7 +43185,7 @@
                 <nombre>Marcos Zambrotta</nombre>
                 <rut>361</rut>
             </apoderado>
-            <asistencia>31</asistencia>
+            <asistencia>167</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43284,7 +43284,7 @@
                 <nombre>Ignacio Danielez</nombre>
                 <rut>573</rut>
             </apoderado>
-            <asistencia>97</asistencia>
+            <asistencia>30</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43383,7 +43383,7 @@
                 <nombre>Pablo Salvatore</nombre>
                 <rut>131</rut>
             </apoderado>
-            <asistencia>36</asistencia>
+            <asistencia>73</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43482,7 +43482,7 @@
                 <nombre>Marcos Salvatore</nombre>
                 <rut>269</rut>
             </apoderado>
-            <asistencia>55</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43581,7 +43581,7 @@
                 <nombre>Alexis Heinz</nombre>
                 <rut>532</rut>
             </apoderado>
-            <asistencia>47</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43680,7 +43680,7 @@
                 <nombre>Alberto Beron</nombre>
                 <rut>566</rut>
             </apoderado>
-            <asistencia>103</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -43779,7 +43779,7 @@
                 <nombre>Mariana Papasthadopoulos</nombre>
                 <rut>743</rut>
             </apoderado>
-            <asistencia>88</asistencia>
+            <asistencia>51</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44054,7 +44054,7 @@
                 <nombre>Lionel Catalán</nombre>
                 <rut>596</rut>
             </apoderado>
-            <asistencia>166</asistencia>
+            <asistencia>117</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44153,7 +44153,7 @@
                 <nombre>Juan Maxx</nombre>
                 <rut>792</rut>
             </apoderado>
-            <asistencia>124</asistencia>
+            <asistencia>67</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44252,7 +44252,7 @@
                 <nombre>Felipe Zambrotta</nombre>
                 <rut>708</rut>
             </apoderado>
-            <asistencia>89</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44351,7 +44351,7 @@
                 <nombre>Lionel Lumbico</nombre>
                 <rut>425</rut>
             </apoderado>
-            <asistencia>174</asistencia>
+            <asistencia>69</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44450,7 +44450,7 @@
                 <nombre>Mariana Papasthadopoulos</nombre>
                 <rut>125</rut>
             </apoderado>
-            <asistencia>158</asistencia>
+            <asistencia>139</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44549,7 +44549,7 @@
                 <nombre>Lionel Lumbico</nombre>
                 <rut>425</rut>
             </apoderado>
-            <asistencia>161</asistencia>
+            <asistencia>62</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44648,7 +44648,7 @@
                 <nombre>Ignacio Madrid</nombre>
                 <rut>539</rut>
             </apoderado>
-            <asistencia>144</asistencia>
+            <asistencia>68</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44747,7 +44747,7 @@
                 <nombre>Marcos Palma</nombre>
                 <rut>181</rut>
             </apoderado>
-            <asistencia>60</asistencia>
+            <asistencia>138</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44846,7 +44846,7 @@
                 <nombre>Lionel Lumbico</nombre>
                 <rut>425</rut>
             </apoderado>
-            <asistencia>69</asistencia>
+            <asistencia>153</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -44945,7 +44945,7 @@
                 <nombre>Denisse Balentines</nombre>
                 <rut>509</rut>
             </apoderado>
-            <asistencia>56</asistencia>
+            <asistencia>162</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45044,7 +45044,7 @@
                 <nombre>Juan Madrid</nombre>
                 <rut>279</rut>
             </apoderado>
-            <asistencia>46</asistencia>
+            <asistencia>65</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45143,7 +45143,7 @@
                 <nombre>Marcos Angulo</nombre>
                 <rut>306</rut>
             </apoderado>
-            <asistencia>74</asistencia>
+            <asistencia>116</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45242,7 +45242,7 @@
                 <nombre>Alex Burgos</nombre>
                 <rut>633</rut>
             </apoderado>
-            <asistencia>155</asistencia>
+            <asistencia>58</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45341,7 +45341,7 @@
                 <nombre>Denisse Balentines</nombre>
                 <rut>509</rut>
             </apoderado>
-            <asistencia>75</asistencia>
+            <asistencia>165</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45440,7 +45440,7 @@
                 <nombre>Juan Maxx</nombre>
                 <rut>792</rut>
             </apoderado>
-            <asistencia>52</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45539,7 +45539,7 @@
                 <nombre>Lionel Catalán</nombre>
                 <rut>596</rut>
             </apoderado>
-            <asistencia>53</asistencia>
+            <asistencia>120</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45638,7 +45638,7 @@
                 <nombre>Ignacio Madrid</nombre>
                 <rut>539</rut>
             </apoderado>
-            <asistencia>87</asistencia>
+            <asistencia>59</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45737,7 +45737,7 @@
                 <nombre>Lucila Danielez</nombre>
                 <rut>980</rut>
             </apoderado>
-            <asistencia>145</asistencia>
+            <asistencia>81</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45836,7 +45836,7 @@
                 <nombre>Lionel Catalán</nombre>
                 <rut>596</rut>
             </apoderado>
-            <asistencia>121</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -45935,7 +45935,7 @@
                 <nombre>Marcos Palma</nombre>
                 <rut>181</rut>
             </apoderado>
-            <asistencia>126</asistencia>
+            <asistencia>45</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46034,7 +46034,7 @@
                 <nombre>Cristiano Zambrotta</nombre>
                 <rut>540</rut>
             </apoderado>
-            <asistencia>82</asistencia>
+            <asistencia>61</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46133,7 +46133,7 @@
                 <nombre>Marcos Angulo</nombre>
                 <rut>306</rut>
             </apoderado>
-            <asistencia>68</asistencia>
+            <asistencia>51</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46232,7 +46232,7 @@
                 <nombre>Mariana Papasthadopoulos</nombre>
                 <rut>125</rut>
             </apoderado>
-            <asistencia>109</asistencia>
+            <asistencia>153</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46331,7 +46331,7 @@
                 <nombre>Romero Palma</nombre>
                 <rut>778</rut>
             </apoderado>
-            <asistencia>79</asistencia>
+            <asistencia>154</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46430,7 +46430,7 @@
                 <nombre>Juan Fischio</nombre>
                 <rut>870</rut>
             </apoderado>
-            <asistencia>76</asistencia>
+            <asistencia>176</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46529,7 +46529,7 @@
                 <nombre>Ignacio Madrid</nombre>
                 <rut>539</rut>
             </apoderado>
-            <asistencia>71</asistencia>
+            <asistencia>151</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46628,7 +46628,7 @@
                 <nombre>Alberto Zambrotta</nombre>
                 <rut>823</rut>
             </apoderado>
-            <asistencia>61</asistencia>
+            <asistencia>110</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46727,7 +46727,7 @@
                 <nombre>Lucila Danielez</nombre>
                 <rut>980</rut>
             </apoderado>
-            <asistencia>48</asistencia>
+            <asistencia>111</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46826,7 +46826,7 @@
                 <nombre>Mariana Papasthadopoulos</nombre>
                 <rut>125</rut>
             </apoderado>
-            <asistencia>31</asistencia>
+            <asistencia>86</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -46925,7 +46925,7 @@
                 <nombre>Juan Maxx</nombre>
                 <rut>792</rut>
             </apoderado>
-            <asistencia>156</asistencia>
+            <asistencia>150</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47200,7 +47200,7 @@
                 <nombre>Lucas Maxx</nombre>
                 <rut>464</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>53</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47299,7 +47299,7 @@
                 <nombre>Lucila McDonals</nombre>
                 <rut>171</rut>
             </apoderado>
-            <asistencia>37</asistencia>
+            <asistencia>169</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47398,7 +47398,7 @@
                 <nombre>Felipe Catalán</nombre>
                 <rut>965</rut>
             </apoderado>
-            <asistencia>49</asistencia>
+            <asistencia>92</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47497,7 +47497,7 @@
                 <nombre>Lucila Heinz</nombre>
                 <rut>191</rut>
             </apoderado>
-            <asistencia>169</asistencia>
+            <asistencia>138</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47596,7 +47596,7 @@
                 <nombre>Marcos Fischio</nombre>
                 <rut>822</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>124</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47695,7 +47695,7 @@
                 <nombre>Alberto Lee</nombre>
                 <rut>654</rut>
             </apoderado>
-            <asistencia>163</asistencia>
+            <asistencia>88</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47794,7 +47794,7 @@
                 <nombre>Ignacio Curvanez</nombre>
                 <rut>797</rut>
             </apoderado>
-            <asistencia>173</asistencia>
+            <asistencia>90</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47893,7 +47893,7 @@
                 <nombre>Lucas Maxx</nombre>
                 <rut>464</rut>
             </apoderado>
-            <asistencia>159</asistencia>
+            <asistencia>122</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -47992,7 +47992,7 @@
                 <nombre>Alexis Beron</nombre>
                 <rut>493</rut>
             </apoderado>
-            <asistencia>44</asistencia>
+            <asistencia>55</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48091,7 +48091,7 @@
                 <nombre>Patricio Silva</nombre>
                 <rut>350</rut>
             </apoderado>
-            <asistencia>108</asistencia>
+            <asistencia>121</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48190,7 +48190,7 @@
                 <nombre>Marcos Palma</nombre>
                 <rut>362</rut>
             </apoderado>
-            <asistencia>118</asistencia>
+            <asistencia>76</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48289,7 +48289,7 @@
                 <nombre>Cristiano Papasthadopoulos</nombre>
                 <rut>230</rut>
             </apoderado>
-            <asistencia>98</asistencia>
+            <asistencia>110</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48388,7 +48388,7 @@
                 <nombre>Marcos Palma</nombre>
                 <rut>362</rut>
             </apoderado>
-            <asistencia>94</asistencia>
+            <asistencia>127</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48487,7 +48487,7 @@
                 <nombre>Raul Schwansteigger</nombre>
                 <rut>749</rut>
             </apoderado>
-            <asistencia>147</asistencia>
+            <asistencia>60</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48586,7 +48586,7 @@
                 <nombre>Pablo Schwansteigger</nombre>
                 <rut>827</rut>
             </apoderado>
-            <asistencia>160</asistencia>
+            <asistencia>76</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48685,7 +48685,7 @@
                 <nombre>Raul Schwansteigger</nombre>
                 <rut>749</rut>
             </apoderado>
-            <asistencia>143</asistencia>
+            <asistencia>47</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48784,7 +48784,7 @@
                 <nombre>Lucas Curvanez</nombre>
                 <rut>696</rut>
             </apoderado>
-            <asistencia>61</asistencia>
+            <asistencia>148</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48883,7 +48883,7 @@
                 <nombre>Vanessa Maxx</nombre>
                 <rut>102</rut>
             </apoderado>
-            <asistencia>178</asistencia>
+            <asistencia>126</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -48982,7 +48982,7 @@
                 <nombre>Patricio Silva</nombre>
                 <rut>350</rut>
             </apoderado>
-            <asistencia>61</asistencia>
+            <asistencia>175</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49081,7 +49081,7 @@
                 <nombre>Pablo Schwansteigger</nombre>
                 <rut>827</rut>
             </apoderado>
-            <asistencia>105</asistencia>
+            <asistencia>46</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49180,7 +49180,7 @@
                 <nombre>Romero Silva</nombre>
                 <rut>207</rut>
             </apoderado>
-            <asistencia>86</asistencia>
+            <asistencia>142</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49279,7 +49279,7 @@
                 <nombre>Juan Silva</nombre>
                 <rut>147</rut>
             </apoderado>
-            <asistencia>76</asistencia>
+            <asistencia>74</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49378,7 +49378,7 @@
                 <nombre>Carlos Fischio</nombre>
                 <rut>740</rut>
             </apoderado>
-            <asistencia>44</asistencia>
+            <asistencia>149</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49477,7 +49477,7 @@
                 <nombre>Vanessa Maxx</nombre>
                 <rut>102</rut>
             </apoderado>
-            <asistencia>118</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49576,7 +49576,7 @@
                 <nombre>Roberto Catalán</nombre>
                 <rut>845</rut>
             </apoderado>
-            <asistencia>59</asistencia>
+            <asistencia>123</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49675,7 +49675,7 @@
                 <nombre>Lucila Heinz</nombre>
                 <rut>191</rut>
             </apoderado>
-            <asistencia>162</asistencia>
+            <asistencia>176</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49774,7 +49774,7 @@
                 <nombre>Pablo Maxx</nombre>
                 <rut>407</rut>
             </apoderado>
-            <asistencia>40</asistencia>
+            <asistencia>62</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49873,7 +49873,7 @@
                 <nombre>Lucila Heinz</nombre>
                 <rut>191</rut>
             </apoderado>
-            <asistencia>167</asistencia>
+            <asistencia>107</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -49972,7 +49972,7 @@
                 <nombre>Ignacio Curvanez</nombre>
                 <rut>797</rut>
             </apoderado>
-            <asistencia>44</asistencia>
+            <asistencia>115</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>
@@ -50071,7 +50071,7 @@
                 <nombre>Carlos Lumbico</nombre>
                 <rut>612</rut>
             </apoderado>
-            <asistencia>131</asistencia>
+            <asistencia>143</asistencia>
             <asignatura>
                 <materia>Matemáticas</materia>
                 <notas>

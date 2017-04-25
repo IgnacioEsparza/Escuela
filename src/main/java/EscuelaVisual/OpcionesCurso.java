@@ -6,7 +6,11 @@
 package EscuelaVisual;
 
 import EscuelaPackage.Curso;
+import EscuelaVisual.IngresoDatos.IngAnotaciones;
+import EscuelaVisual.IngresoDatos.IngNotas;
 import EscuelaVisual.IngresoDatos.IngPlanificaciones;
+import EscuelaVisual.IngresoDatos.VerAsistencias;
+import EscuelaVisual.IngresoDatos.VerPromedios;
 
 /**
  *
@@ -58,10 +62,25 @@ public class OpcionesCurso extends javax.swing.JFrame {
         NomProfesor.setText("Nombre Profesor, Materia");
 
         IAnotacionesBoton.setText("Ingresar Anotaciones");
+        IAnotacionesBoton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                IAnotacionesBotonActionPerformed(evt);
+            }
+        });
 
         VPromediosBoton.setText("Ver Promedios");
+        VPromediosBoton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                VPromediosBotonActionPerformed(evt);
+            }
+        });
 
         VAsistenciasBoton.setText("Ver Asistencias");
+        VAsistenciasBoton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                VAsistenciasBotonActionPerformed(evt);
+            }
+        });
 
         VolverOC.setText("Volver");
         VolverOC.addActionListener(new java.awt.event.ActionListener() {
@@ -115,7 +134,9 @@ public class OpcionesCurso extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void INotasBotonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_INotasBotonActionPerformed
-        // TODO add your handling code here:
+        IngNotas in = new IngNotas();
+        in.setVisible(true);
+        dispose();
     }//GEN-LAST:event_INotasBotonActionPerformed
 
     private void IPlanificacionesBotonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_IPlanificacionesBotonActionPerformed
@@ -130,6 +151,24 @@ public class OpcionesCurso extends javax.swing.JFrame {
         sp.setVisible(true);
         dispose();
     }//GEN-LAST:event_VolverOCActionPerformed
+
+    private void IAnotacionesBotonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_IAnotacionesBotonActionPerformed
+        IngAnotaciones ia = new IngAnotaciones();
+        ia.setVisible(true);
+        dispose();
+    }//GEN-LAST:event_IAnotacionesBotonActionPerformed
+
+    private void VPromediosBotonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VPromediosBotonActionPerformed
+        VerPromedios vp = new VerPromedios();
+        vp.setVisible(true);
+        dispose();
+    }//GEN-LAST:event_VPromediosBotonActionPerformed
+
+    private void VAsistenciasBotonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VAsistenciasBotonActionPerformed
+        VerAsistencias va = new VerAsistencias();
+        va.setVisible(true);
+        dispose();
+    }//GEN-LAST:event_VAsistenciasBotonActionPerformed
 
     /**
      * @param args the command line arguments

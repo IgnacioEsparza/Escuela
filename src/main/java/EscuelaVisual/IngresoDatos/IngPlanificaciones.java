@@ -12,6 +12,7 @@ import EscuelaPackage.Planificacion;
 import EscuelaVisual.OpcionesCurso;
 import Generar.GuardarXML;
 import java.io.FileNotFoundException;
+import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
@@ -77,8 +78,10 @@ public class IngPlanificaciones extends javax.swing.JFrame {
         Planificacion[] plan = new Planificacion[10];
         for (int i = 0; i < plan.length; i++) {
             plan[i] = new Planificacion((String) JTPlanificaciones.getValueAt(i, 1));
+            System.out.println((String) JTPlanificaciones.getValueAt(i, 1));
         }
         college.getCursosa()[pos].getAsignaturaC()[materia].setActividades(plan);
+        
         gx.guardar(college);
         System.out.println("Éxito");
 
@@ -115,6 +118,12 @@ public class IngPlanificaciones extends javax.swing.JFrame {
         ));
         JTPlanificaciones.getTableHeader().setReorderingAllowed(false);
         jScrollPane1.setViewportView(JTPlanificaciones);
+        if (JTPlanificaciones.getColumnModel().getColumnCount() > 0) {
+            JTPlanificaciones.getColumnModel().getColumn(0).setResizable(false);
+            JTPlanificaciones.getColumnModel().getColumn(1).setResizable(false);
+            JTPlanificaciones.getColumnModel().getColumn(2).setResizable(false);
+            JTPlanificaciones.getColumnModel().getColumn(3).setResizable(false);
+        }
 
         PlanMateria.setText("Planificaciones");
 
@@ -176,15 +185,12 @@ public class IngPlanificaciones extends javax.swing.JFrame {
 
     private void VolverAOpcCursoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VolverAOpcCursoActionPerformed
         OpcionesCurso oc = new OpcionesCurso();
+        oc.SelectCurso(college.getCursosa()[pos], pos);
         oc.setVisible(true);
         dispose();
     }//GEN-LAST:event_VolverAOpcCursoActionPerformed
 
     private void GuardarPlanesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_GuardarPlanesActionPerformed
-        
-    }//GEN-LAST:event_GuardarPlanesActionPerformed
-
-    private void GuardarPlanesMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_GuardarPlanesMouseClicked
         try {
             obtenerPlanes();
         } catch (JAXBException ex) {
@@ -192,6 +198,10 @@ public class IngPlanificaciones extends javax.swing.JFrame {
         } catch (FileNotFoundException ex) {
             Logger.getLogger(IngPlanificaciones.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }//GEN-LAST:event_GuardarPlanesActionPerformed
+
+    private void GuardarPlanesMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_GuardarPlanesMouseClicked
+        
     }//GEN-LAST:event_GuardarPlanesMouseClicked
 
     /**

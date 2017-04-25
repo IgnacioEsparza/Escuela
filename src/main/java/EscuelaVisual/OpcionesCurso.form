@@ -98,16 +98,25 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Ingresar Anotaciones"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="IAnotacionesBotonActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="VPromediosBoton">
       <Properties>
         <Property name="text" type="java.lang.String" value="Ver Promedios"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VPromediosBotonActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="VAsistenciasBoton">
       <Properties>
         <Property name="text" type="java.lang.String" value="Ver Asistencias"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VAsistenciasBotonActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="VolverOC">
       <Properties>

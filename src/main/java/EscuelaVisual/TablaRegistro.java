@@ -38,11 +38,11 @@ public class TablaRegistro extends javax.swing.JFrame {
         for (int i = 0; i < 5; i++) {
 
             String datosMate[] = {e.getAsignatura()[i].getMateria(),
-                String.valueOf(e.getAsignatura()[i].getNotas()[0]),
-                String.valueOf(e.getAsignatura()[i].getNotas()[1]),
-                String.valueOf(e.getAsignatura()[i].getNotas()[2]),
-                String.valueOf(e.getAsignatura()[i].getNotas()[3]),
-                String.valueOf(e.getAsignatura()[i].getNotas()[4])};
+                String.valueOf(e.getAsignatura()[i].getNotas()[0].getNotas()),
+                String.valueOf(e.getAsignatura()[i].getNotas()[1].getNotas()),
+                String.valueOf(e.getAsignatura()[i].getNotas()[2].getNotas()),
+                String.valueOf(e.getAsignatura()[i].getNotas()[3].getNotas()),
+                String.valueOf(e.getAsignatura()[i].getNotas()[4].getNotas())};
 
             modelo.addRow(datosMate);
         }

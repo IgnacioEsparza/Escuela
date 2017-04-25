@@ -16,6 +16,9 @@ import EscuelaPackage.Profesor;
 public class GenerarCursos {
 
     GenerarPersonas gp = new GenerarPersonas();
+    //private Curso[] TCursos = new Curso[16];
+    Curso[] cursoa = new Curso[8];
+    Curso[] cursob = new Curso[8];
 
     //Curso curso1a = new Curso("A", 1, gp.estudiantes30(), Profe[0], asignatura.asignatura());
     public GenerarCursos() {
@@ -24,7 +27,6 @@ public class GenerarCursos {
     public Curso[] CursosA() {
         Asignatura asignatura = new Asignatura();
         Profesor[] Profe = gp.profesor(asignatura);
-        Curso[] cursoa = new Curso[8];
         for (int i = 0; i < cursoa.length; i++) {
             cursoa[i] = new Curso("A", i + 1, gp.estudiantes30(), Profe[i], gp.asignaturaC());
         }
@@ -35,10 +37,15 @@ public class GenerarCursos {
 
         Asignatura asignatura = new Asignatura();
         Profesor[] Profe = gp.profesor(asignatura);
-        Curso[] cursob = new Curso[8];
         for (int i = 0; i < cursob.length; i++) {
             cursob[i] = new Curso("B", i + 1, gp.estudiantes30(), Profe[i + 8], gp.asignaturaC());
         }
         return cursob;
     }
+
+    /*public Curso[] CursosAB() {
+        System.arraycopy(CursosA(), 0, TCursos, 0, CursosA().length);
+        System.arraycopy(CursosB(), 0, TCursos, CursosA().length, CursosB().length);
+        return TCursos;
+    }*/
 }

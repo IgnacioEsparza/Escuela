@@ -7,6 +7,7 @@ package EscuelaPackage;
 
 import EscuelaVisual.IngresoDatos.IngPlanificaciones;
 import EscuelaVisual.SelectProfesor;
+import Generar.GenerarCursos;
 import Generar.GuardarXML;
 import java.io.IOException;
 import java.util.Arrays;
@@ -25,15 +26,17 @@ public class EscuelaProyecto {
      */
     public static void main(String[] args) throws JAXBException, IOException {
         
-        GuardarXML g = new GuardarXML();
-        g.generarCursos();
+        //GuardarXML g = new GuardarXML();
+        //g.generarCursos();
         //Colegio col = g.cargar();
         
        // g.guardar(col);
         
-        //SelectProfesor sp = new SelectProfesor();
-        //sp.setVisible(true);
+        SelectProfesor sp = new SelectProfesor();
+        sp.setVisible(true);
         
-        
+        //GenerarCursos gc = new GenerarCursos();
+        //Colegio c = new Colegio(gc.CursosAB());
+        //System.out.println(Arrays.toString(c.getTCursos()));
     }
 }
