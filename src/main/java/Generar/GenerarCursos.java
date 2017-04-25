@@ -8,7 +8,6 @@ package Generar;
 import EscuelaPackage.Asignatura;
 import EscuelaPackage.Curso;
 import EscuelaPackage.Profesor;
-import java.util.ArrayList;
 
 /**
  *
@@ -22,23 +21,12 @@ public class GenerarCursos {
     public GenerarCursos() {
     }
 
-    public ArrayList<Asignatura> asignatura() {
-        ArrayList<Asignatura> asigna = new ArrayList();
-        asigna.add(new Asignatura("Matemáticas"));
-        asigna.add(new Asignatura("Lenguaje"));
-        asigna.add(new Asignatura("Historia"));
-        asigna.add(new Asignatura("Inglés"));
-        asigna.add(new Asignatura("Ciencias"));
-
-        return asigna;
-    }
-
     public Curso[] CursosA() {
         Asignatura asignatura = new Asignatura();
         Profesor[] Profe = gp.profesor(asignatura);
         Curso[] cursoa = new Curso[8];
         for (int i = 0; i < cursoa.length; i++) {
-            cursoa[i] = new Curso("A", i + 1, gp.estudiantes30(), Profe[i], asignatura());
+            cursoa[i] = new Curso("A", i + 1, gp.estudiantes30(), Profe[i], gp.asignaturaC());
         }
         return cursoa;
     }
@@ -49,7 +37,7 @@ public class GenerarCursos {
         Profesor[] Profe = gp.profesor(asignatura);
         Curso[] cursob = new Curso[8];
         for (int i = 0; i < cursob.length; i++) {
-            cursob[i] = new Curso("B", i + 1, gp.estudiantes30(), Profe[i + 8], asignatura());
+            cursob[i] = new Curso("B", i + 1, gp.estudiantes30(), Profe[i + 8], gp.asignaturaC());
         }
         return cursob;
     }

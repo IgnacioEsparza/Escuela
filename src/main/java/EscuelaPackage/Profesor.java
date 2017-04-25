@@ -24,6 +24,18 @@ public class Profesor {
     public Profesor() {
     }
 
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setRut(String rut) {
+        this.rut = rut;
+    }
+
+    public void setAsignaturaP(Asignatura asignaturaP) {
+        this.asignaturaP = asignaturaP;
+    }
+    
     public Profesor(String nombre, String rut, Asignatura asign) {
         this.nombre = nombre;
         this.rut = rut;

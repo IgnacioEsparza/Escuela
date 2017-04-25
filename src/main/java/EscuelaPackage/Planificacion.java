@@ -21,6 +21,10 @@ public class Planificacion {
     public Planificacion() {
     }
 
+    public void setActividad(String actividad) {
+        this.actividad = actividad;
+    }
+    
     public Planificacion(String actividad) {
         this.actividad = actividad;
     }

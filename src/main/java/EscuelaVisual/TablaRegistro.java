@@ -31,10 +31,10 @@ public class TablaRegistro extends javax.swing.JFrame {
         String datos[][] = {};
         modelo = new DefaultTableModel(datos, cabecera);
         TablaDatos.setModel(modelo);
+
     }
 
     public void datos(Estudiante e) {
-        String a = e.getAsignatura()[0].toString();
         for (int i = 0; i < 5; i++) {
 
             String datosMate[] = {e.getAsignatura()[i].getMateria(),
@@ -46,6 +46,7 @@ public class TablaRegistro extends javax.swing.JFrame {
 
             modelo.addRow(datosMate);
         }
+        nomEstudiante.setText(e.getNombre());
         estudiante = e;
     }
 
@@ -58,6 +59,8 @@ public class TablaRegistro extends javax.swing.JFrame {
         GenerarReporte = new javax.swing.JButton();
         Volver = new javax.swing.JButton();
         nomEstudiante = new javax.swing.JLabel();
+        jButton1 = new javax.swing.JButton();
+        EstadoExpo = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Datos Alumno");
@@ -105,26 +108,38 @@ public class TablaRegistro extends javax.swing.JFrame {
 
         nomEstudiante.setText("Estudiante");
 
+        jButton1.setText("Salir");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
+        EstadoExpo.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        EstadoExpo.setText("Estado Exportacion");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(EstadoExpo, javax.swing.GroupLayout.PREFERRED_SIZE, 229, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 63, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(Volver)
+                .addGap(24, 24, 24))
+            .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 548, Short.MAX_VALUE)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
-                        .addComponent(GenerarReporte)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addComponent(GenerarReporte))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(19, 19, 19)
-                        .addComponent(nomEstudiante, javax.swing.GroupLayout.PREFERRED_SIZE, 234, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 0, Short.MAX_VALUE))
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 573, Short.MAX_VALUE))
-                .addContainerGap())
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
-                .addComponent(Volver)
-                .addGap(24, 24, 24))
+                        .addComponent(nomEstudiante, javax.swing.GroupLayout.PREFERRED_SIZE, 234, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -134,9 +149,12 @@ public class TablaRegistro extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 40, Short.MAX_VALUE)
                 .addComponent(GenerarReporte)
                 .addGap(33, 33, 33)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 176, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(42, 42, 42)
-                .addComponent(Volver)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 142, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(76, 76, 76)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(Volver)
+                    .addComponent(jButton1)
+                    .addComponent(EstadoExpo))
                 .addGap(19, 19, 19))
         );
 
@@ -144,15 +162,19 @@ public class TablaRegistro extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void GenerarReporteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_GenerarReporteActionPerformed
-        estudiante.getNombre();
-        ee.exportar(new File(estudiante.getNombre()+".xls"), TablaDatos);
+        ee.exportar(new File(estudiante.getNombre() + ".xls"), TablaDatos);
+        EstadoExpo.setText("Exportado con Éxito");
     }//GEN-LAST:event_GenerarReporteActionPerformed
 
     private void VolverActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VolverActionPerformed
-        InfoCurso ic = new InfoCurso();
-        ic.setVisible(true);
+        SelectCursos sc = new SelectCursos();
+        sc.setVisible(true);
         dispose();
     }//GEN-LAST:event_VolverActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        System.exit(0);
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -190,9 +212,11 @@ public class TablaRegistro extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel EstadoExpo;
     public javax.swing.JButton GenerarReporte;
     public javax.swing.JTable TablaDatos;
     private javax.swing.JButton Volver;
+    private javax.swing.JButton jButton1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JLabel nomEstudiante;
     // End of variables declaration//GEN-END:variables

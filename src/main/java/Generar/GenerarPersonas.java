@@ -72,12 +72,21 @@ public class GenerarPersonas {
         String[] materias = {"Matemáticas", "Lenguaje", "Historia", "inglés", "Ciencias"};
         Asignatura[] a = new Asignatura[5];
         for (int i = 0; i < a.length; i++) {
-            a[i]=new Asignatura(materias[i], notasRandom(), planes());
+            a[i]=new Asignatura(materias[i], notasRandom());
+        }
+        return a;
+    }
+    
+    public Asignatura[] asignaturaC() {
+        String[] materias = {"Matemáticas", "Lenguaje", "Historia", "inglés", "Ciencias"};
+        Asignatura[] a = new Asignatura[5];
+        for (int i = 0; i < a.length; i++) {
+            a[i]=new Asignatura(materias[i], planes());
         }
         return a;
     }
 
-    public Planificacion[] planes(/*String [] planesEscritos*/) {
+    public Planificacion[] planes() {
         Planificacion[] planes = new Planificacion[10];
         String [] planesEscritos={"Unidad 1","Unidad 2","Prueba 1","Revision Cuaderno 1"
         ,"Unidad 3","Unidad 4 ","Prueba 2","Revision Cuaderno 2","Unidad 5","Prueba 3"};

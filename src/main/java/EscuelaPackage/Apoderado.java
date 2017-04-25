@@ -54,6 +54,18 @@ public class Apoderado {
         return rut;
     }
 
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setRut(String rut) {
+        this.rut = rut;
+    }
+
+    public void setPupilo(ArrayList<Estudiante> pupilo) {
+        this.pupilo = pupilo;
+    }
+    
     @Override
     public String toString() {
         return "Nombre :" + nombre + "\nRut :" + rut+"\nPupilo : "+pupilo;

@@ -23,6 +23,14 @@ public class Colegio {
     public Colegio() {
     }
 
+    public void setCursosa(Curso[] cursosa) {
+        this.cursosa = cursosa;
+    }
+
+    public void setCursosb(Curso[] cursosb) {
+        this.cursosb = cursosb;
+    }
+    
     public Colegio(Curso[] cursosa, Curso[] cursosb) {
         this.cursosa = cursosa;
         this.cursosb = cursosb;

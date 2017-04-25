@@ -7,7 +7,6 @@ package EscuelaPackage;
 
 import java.util.Arrays;
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 /**
  *
@@ -28,10 +27,14 @@ public class Asignatura {
         this.materia = materia;
     }
 
-    public Asignatura(String materia, double[] notas, Planificacion[] actividades) {
+    public Asignatura(String materia, Planificacion[] actividades) {
+        this.materia = materia;
+        this.actividades = actividades;
+    }
+
+    public Asignatura(String materia, double[] notas) {
         this.materia = materia;
         this.notas = notas;
-        this.actividades = actividades;
     }
     
     @XmlElement(name="notas")
@@ -41,6 +44,14 @@ public class Asignatura {
 
     public void setNotas(double[] notas) {
         this.notas = notas;
+    }
+
+    public void setMateria(String materia) {
+        this.materia = materia;
+    }
+
+    public void setActividades(Planificacion[] actividades) {
+        this.actividades = actividades;
     }
     
     @XmlElement(name="materia")

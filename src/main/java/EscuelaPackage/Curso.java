@@ -18,10 +18,10 @@ public class Curso {
     private int nivel;
     Estudiante estudiante[];
     Profesor profesor;
-    ArrayList<Asignatura> asignaturaC;
+    Asignatura [] asignaturaC;
 
     public Curso(String letra, int nivel, Estudiante[] estudiante,
-            Profesor profesor, ArrayList<Asignatura> asignaturaC) {
+            Profesor profesor, Asignatura [] asignaturaC) {
         this.letra = letra;
         this.nivel = nivel;
         this.estudiante = estudiante;
@@ -48,7 +48,7 @@ public class Curso {
         this.profesor = profesor;
     }
 
-    public void setAsignaturaC(ArrayList<Asignatura> asignaturaC) {
+    public void setAsignaturaC(Asignatura [] asignaturaC) {
         this.asignaturaC = asignaturaC;
     }
     
@@ -69,7 +69,7 @@ public class Curso {
         return profesor;
     }
     @XmlElement(name="asignatura")
-    public ArrayList<Asignatura> getAsignaturaC() {
+    public Asignatura [] getAsignaturaC() {
         return asignaturaC;
     }
 

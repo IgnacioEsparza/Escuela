@@ -5,19 +5,21 @@
  */
 package EscuelaVisual;
 
+import EscuelaPackage.Colegio;
 import EscuelaPackage.Curso;
 import Generar.GenerarCursos;
+import Generar.GuardarXML;
 
 /**
  *
  * @author Ignacio
  */
 public class SelectCursos extends javax.swing.JFrame {
-
+    GuardarXML g = new GuardarXML();
+    Colegio college = g.cargar();
     InfoCurso ic = new InfoCurso();
-    GenerarCursos gc = new GenerarCursos();
-    Curso[] CA = gc.CursosA();
-    Curso[] CB = gc.CursosB();
+    Curso[] CA = college.getCursosa();
+    Curso[] CB = college.getCursosb();
     
     public SelectCursos() {
         initComponents();

@@ -5,10 +5,8 @@
  */
 package EscuelaPackage;
 
-import java.util.ArrayList;
 import java.util.Random;
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
 /**
@@ -27,6 +25,22 @@ public class Estudiante {
     private Curso curso;
     private int asistencia;
     Asignatura [] asignatura;
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setRut(String rut) {
+        this.rut = rut;
+    }
+
+    public void setApoderado(Apoderado apoderado) {
+        this.apoderado = apoderado;
+    }
+
+    public void setAsignatura(Asignatura[] asignatura) {
+        this.asignatura = asignatura;
+    }
     
     public Estudiante(String nombre, String rut, Apoderado apoderado, Asignatura[] asignatura) {
         this.nombre = nombre;
